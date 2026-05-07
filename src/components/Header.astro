@@ -3,58 +3,95 @@ import { getLangFromPath, getUIStrings } from "../i18n/utils";
 import LanguageSwitcher from "./LanguageSwitcher.astro";
 import Search from "./Search.astro";
 
+interface Props {
+  hideLangSwitcher?: boolean;
+}
+
+const { hideLangSwitcher = false } = Astro.props;
+
 const currentPath = Astro.url?.pathname || "/";
 const lang = getLangFromPath(currentPath);
 const t = getUIStrings(lang);
+const prefix = lang === "en" ? "" : `/${lang}`;
 
 const navItems = [
-  { label: t.nav.beginnerGuide, href: lang === "en" ? "/beginner-guide" : `/${lang}/beginner-guide` },
-  { label: t.nav.codes, href: lang === "en" ? "/codes" : `/${lang}/codes` },
-  { label: t.nav.walkthrough, href: lang === "en" ? "/walkthrough" : `/${lang}/walkthrough` },
-  { label: t.nav.characters, href: lang === "en" ? "/characters" : `/${lang}/characters` },
-  { label: t.nav.resources, href: lang === "en" ? "/resources" : `/${lang}/resources` },
-  { label: t.nav.hobbies, href: lang === "en" ? "/hobbies" : `/${lang}/hobbies` },
-  { label: t.nav.crafting, href: lang === "en" ? "/crafting" : `/${lang}/crafting` },
+  { label: t.nav.beginnerGuide, slug: "beginner-guide" },
+  { label: t.nav.codes, slug: "codes" },
+  { label: t.nav.walkthrough, slug: "walkthrough" },
+  { label: t.nav.characters, slug: "characters" },
+  { label: t.nav.resources, slug: "resources" },
+  { label: t.nav.hobbies, slug: "hobbies" },
+  { label: t.nav.crafting, slug: "crafting" },
+  { label: t.nav.map, slug: "world-map" },
 ];
+
+const collectionItems = [
+  { key: "fish", slug: "fish" },
+  { key: "bugs", slug: "bugs" },
+  { key: "birds", slug: "birds" },
+  { key: "crops", slug: "crops" },
+  { key: "flowers", slug: "flowers" },
+  { key: "forageables", slug: "forageables" },
+  { key: "petsCats", slug: "pets-cats" },
+  { key: "petsDogs", slug: "pets-dogs" },
+  { key: "wildAnimals", slug: "wild-animals" },
+  { key: "achievements", slug: "achievements" },
+  { key: "recipes", slug: "recipes" },
+  { key: "songs", slug: "songs" },
+];
+
+function href(slug: string) {
+  return `${prefix}/${slug}`;
+}
+
+function isActive(slug: string) {
+  const path = href(slug);
+  return currentPath === path || currentPath.startsWith(path + "/");
+}
 ---
 
 <header class="sticky top-0 z-50 bg-gray-950/80 backdrop-blur border-b border-gray-800">
   <nav class="max-w-6xl mx-auto px-4 h-16 flex items-center justify-between" aria-label="Main navigation">
-    <a href={lang === "en" ? "/" : `/${lang}/`} class="text-xl font-bold text-white hover:text-pink-400 transition-colors">
+    <a href={lang === "en" ? "/" : `/${lang}/`} class="text-xl font-bold text-white hover:text-pink-400 transition-colors shrink-0">
       Heartopia Guide
     </a>
 
     <!-- Desktop nav -->
     <div class="hidden lg:flex items-center gap-1">
-      {navItems.map((item) => {
-        const isActive = currentPath === item.href || currentPath.startsWith(item.href + "/");
-        return (
-          <a
-            href={item.href}
-            class={`px-3 py-2 rounded-lg text-sm transition-colors ${
-              isActive
-                ? "bg-pink-600/20 text-pink-400"
-                : "text-gray-300 hover:text-white hover:bg-gray-800"
-            }`}
-          >
-            {item.label}
-          </a>
-        );
-      })}
+      {navItems.map((item) => (
+        <a href={href(item.slug)} class={`px-3 py-2 rounded-lg text-sm transition-colors whitespace-nowrap ${isActive(item.slug) ? "bg-pink-600/20 text-pink-400" : "text-gray-300 hover:text-white hover:bg-gray-800"}`}>
+          {item.label}
+        </a>
+      ))}
+
+      <!-- Collections dropdown -->
+      <div class="relative group">
+        <button class={`px-3 py-2 rounded-lg text-sm transition-colors whitespace-nowrap flex items-center gap-1 ${collectionItems.some(ci => isActive(ci.slug)) ? "bg-pink-600/20 text-pink-400" : "text-gray-300 hover:text-white hover:bg-gray-800"}`}>
+          {t.nav.collections}
+          <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" class="group-hover:rotate-180 transition-transform">
+            <path d="M2 4l4 4 4-4" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </button>
+        <div class="absolute top-full right-0 mt-1 w-56 bg-gray-900 border border-gray-700 rounded-xl shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-150 z-50">
+          <div class="p-2 grid grid-cols-1">
+            {collectionItems.map((ci) => (
+              <a href={href(ci.slug)} class={`px-3 py-2 rounded-lg text-sm transition-colors ${isActive(ci.slug) ? "bg-pink-600/20 text-pink-400" : "text-gray-300 hover:text-white hover:bg-gray-800"}`}>
+                {t.modules[ci.key].title}
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+
       <Search />
-      <LanguageSwitcher currentPath={currentPath} lang={lang} />
+      {!hideLangSwitcher && <LanguageSwitcher currentPath={currentPath} lang={lang} />}
     </div>
 
     <!-- Mobile menu trigger -->
     <div class="flex lg:hidden items-center gap-2">
       <Search />
-      <LanguageSwitcher currentPath={currentPath} lang={lang} />
-      <button
-        id="menu-toggle"
-        class="p-2 text-gray-300 hover:text-white"
-        aria-label="Toggle menu"
-        aria-expanded="false"
-      >
+      {!hideLangSwitcher && <LanguageSwitcher currentPath={currentPath} lang={lang} />}
+      <button id="menu-toggle" class="p-2 text-gray-300 hover:text-white" aria-label="Toggle menu" aria-expanded="false">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
           <path d="M4 6h16M4 12h16M4 18h16" />
         </svg>
@@ -65,21 +102,26 @@ const navItems = [
   <!-- Mobile menu -->
   <div id="mobile-menu" class="hidden lg:hidden bg-gray-900 border-b border-gray-800">
     <div class="px-4 py-2 flex flex-col">
-      {navItems.map((item) => {
-        const isActive = currentPath === item.href || currentPath.startsWith(item.href + "/");
-        return (
-          <a
-            href={item.href}
-            class={`px-3 py-2 rounded-lg text-sm ${
-              isActive
-                ? "bg-pink-600/20 text-pink-400"
-                : "text-gray-300 hover:text-white hover:bg-gray-800"
-            }`}
-          >
-            {item.label}
+      {navItems.map((item) => (
+        <a href={href(item.slug)} class={`px-3 py-2 rounded-lg text-sm ${isActive(item.slug) ? "bg-pink-600/20 text-pink-400" : "text-gray-300 hover:text-white hover:bg-gray-800"}`}>
+          {item.label}
+        </a>
+      ))}
+
+      <!-- Mobile collections accordion -->
+      <button id="mobile-collections-toggle" class="px-3 py-2 rounded-lg text-sm text-gray-300 hover:text-white hover:bg-gray-800 flex items-center justify-between w-full text-left">
+        {t.nav.collections}
+        <svg id="mobile-collections-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" class="transition-transform">
+          <path d="M2 4l4 4 4-4" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
+      <div id="mobile-collections-menu" class="hidden pl-4 flex flex-col">
+        {collectionItems.map((ci) => (
+          <a href={href(ci.slug)} class={`px-3 py-2 rounded-lg text-sm ${isActive(ci.slug) ? "bg-pink-600/20 text-pink-400" : "text-gray-300 hover:text-white hover:bg-gray-800"}`}>
+            {t.modules[ci.key].title}
           </a>
-        );
-      })}
+        ))}
+      </div>
     </div>
   </div>
 </header>
@@ -90,5 +132,13 @@ const navItems = [
   btn?.addEventListener("click", () => {
     const open = menu?.classList.toggle("hidden");
     btn.setAttribute("aria-expanded", String(!open));
+  });
+
+  const colBtn = document.getElementById("mobile-collections-toggle");
+  const colMenu = document.getElementById("mobile-collections-menu");
+  const colChevron = document.getElementById("mobile-collections-chevron");
+  colBtn?.addEventListener("click", () => {
+    colMenu?.classList.toggle("hidden");
+    colChevron?.classList.toggle("rotate-180");
   });
 </script>

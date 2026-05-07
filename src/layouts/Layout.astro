@@ -14,6 +14,7 @@ export interface Props {
   schema?: Record<string, unknown>;
   noIndex?: boolean;
   lang?: Language;
+  hideLangSwitcher?: boolean;
 }
 
 const currentLang = Astro.props.lang || getLangFromPath(Astro.url?.pathname || "/");
@@ -27,6 +28,7 @@ const {
   ogType = "website",
   schema,
   noIndex = false,
+  hideLangSwitcher = false,
 } = Astro.props;
 
 const pageTitle = `${title} | ${SITE.title}`;
@@ -90,7 +92,7 @@ const canonicalUrl = canonical ? new URL(canonical, SITE.url).href : new URL(Ast
     }
   </head>
   <body class="bg-gray-950 text-gray-100 min-h-screen flex flex-col">
-    <Header />
+    <Header hideLangSwitcher={hideLangSwitcher} />
     <main class="flex-1">
       <slot />
     </main>

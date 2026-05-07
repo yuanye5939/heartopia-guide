@@ -15,6 +15,12 @@ export interface UIStrings {
     resources: string;
     hobbies: string;
     crafting: string;
+    map: string;
+    collections: string;
+    fish: string;
+    bugs: string;
+    birds: string;
+    recipes: string;
   };
   modules: {
     beginnerGuide: ModuleI18n;
@@ -27,6 +33,19 @@ export interface UIStrings {
     building: ModuleI18n;
     events: ModuleI18n;
     multiplayer: ModuleI18n;
+    map: ModuleI18n;
+    fish: ModuleI18n;
+    bugs: ModuleI18n;
+    birds: ModuleI18n;
+    crops: ModuleI18n;
+    flowers: ModuleI18n;
+    forageables: ModuleI18n;
+    petsCats: ModuleI18n;
+    petsDogs: ModuleI18n;
+    wildAnimals: ModuleI18n;
+    achievements: ModuleI18n;
+    recipes: ModuleI18n;
+    songs: ModuleI18n;
   };
   home: {
     heroTitle: string;

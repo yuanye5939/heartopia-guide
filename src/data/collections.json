@@ -1,0 +1,4015 @@
+{
+  "fish": {
+    "count": 90,
+    "jsonldNames": [
+      "Anglerfish",
+      "Arctic Char",
+      "Atlantic Mackerel",
+      "Atlantic Pygmy Octopus",
+      "Atlantic Salmon",
+      "Beltfish",
+      "Blackspot Seabream",
+      "Bluegill",
+      "Blue Ero Crayfish",
+      "Bluefin Tuna",
+      "Home",
+      "Heartopia Fish Guide - All Fish Locations, Prices & Levels"
+    ],
+    "items": [
+      {
+        "name": "Anglerfish",
+        "level": 2,
+        "shadowSize": "Golden",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          32048064012802560
+        ],
+        "type": "SeaLocationSea"
+      },
+      {
+        "name": "Arctic Char",
+        "level": 10,
+        "location": "Forest Lake",
+        "shadowSize": "M",
+        "weather": "️RainyRainbow",
+        "time": "☀️DayDusk",
+        "prices": [
+          610915122024404900
+        ],
+        "type": "LakeLocationForest"
+      },
+      {
+        "name": "Atlantic Mackerel",
+        "level": 5,
+        "shadowSize": "S",
+        "weather": "SunnyRainbow",
+        "time": "☀️DayDusk",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "SeaLocationWhale"
+      },
+      {
+        "name": "Atlantic Pygmy Octopus",
+        "level": 2,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "SeaLocationZephyr"
+      },
+      {
+        "name": "Atlantic Salmon",
+        "level": 3,
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "Night☀️DayDusk",
+        "prices": [
+          1552323106201240
+        ],
+        "type": "SeaLocationWhale"
+      },
+      {
+        "name": "Barbel",
+        "level": 1,
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          75112150300600
+        ],
+        "type": "RiverLocationShallow"
+      },
+      {
+        "name": "Beltfish",
+        "level": 1,
+        "shadowSize": "L",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          105157210420840
+        ],
+        "type": "SeaLocationZephyr"
+      },
+      {
+        "name": "Blackspot Seabream",
+        "level": 7,
+        "shadowSize": "M",
+        "weather": "️RainyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "SeaLocationZephyr"
+      },
+      {
+        "name": "Blue Ero Crayfish",
+        "level": 8,
+        "location": "Forest Lake",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          25037550010002000
+        ],
+        "type": "LakeLocationForest"
+      },
+      {
+        "name": "Bluefin Tuna",
+        "level": 9,
+        "shadowSize": "L",
+        "weather": "Rainbow",
+        "time": "Dawn☀️Day",
+        "prices": [
+          8501275170034007000
+        ],
+        "type": "SeaLocationZephyr"
+      },
+      {
+        "name": "Bluegill",
+        "level": 10,
+        "location": "Onsen Mountain Lake",
+        "shadowSize": "S",
+        "weather": "SunnyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          39559279015803160
+        ],
+        "type": "LakeLocationOnsen"
+      },
+      {
+        "name": "Burbot",
+        "level": 4,
+        "location": "Tranquil River",
+        "shadowSize": "L",
+        "weather": "Sunny️RainyRainbow",
+        "time": "☀️DayDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "RiverLocationTranquil"
+      },
+      {
+        "name": "Butterfly Koi",
+        "level": 4,
+        "location": "Meadow Lake",
+        "shadowSize": "L",
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          32048064012802560
+        ],
+        "type": "LakeLocationMeadow"
+      },
+      {
+        "name": "Chum Salmon",
+        "level": 6,
+        "location": "Tranquil River",
+        "shadowSize": "S",
+        "weather": "Rainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "RiverLocationTranquil"
+      },
+      {
+        "name": "Clownfish",
+        "level": 3,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          100150200400800
+        ],
+        "type": "SeaLocationOld"
+      },
+      {
+        "name": "Common Bleak",
+        "level": 1,
+        "location": "Lake",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "LakeLocationLakeShadow"
+      },
+      {
+        "name": "Common Carp",
+        "level": 4,
+        "location": "Rosy River",
+        "shadowSize": "M",
+        "weather": "SunnyRainbow",
+        "time": "☀️DayDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "RiverLocationRosy"
+      },
+      {
+        "name": "Common Chub",
+        "level": 1,
+        "location": "Lake",
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          75112150300600
+        ],
+        "type": "LakeLocationLakeShadow"
+      },
+      {
+        "name": "Common Octopus",
+        "level": 2,
+        "shadowSize": "M, Golden",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          32048064012802560
+        ],
+        "type": "SeaLocationSea"
+      },
+      {
+        "name": "Common Prawn",
+        "level": 1,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "SeaLocationEast"
+      },
+      {
+        "name": "Common Rudd",
+        "level": 5,
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "LakeLocationSuburban"
+      },
+      {
+        "name": "Common Whitefish",
+        "level": 1,
+        "location": "Onsen Mountain Lake",
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          105157210420840
+        ],
+        "type": "LakeLocationOnsen"
+      },
+      {
+        "name": "Crucian Carp",
+        "level": 1,
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          75112150300600
+        ],
+        "type": "LakeLocationSuburban"
+      },
+      {
+        "name": "Edible Frog",
+        "level": 3,
+        "location": "Lake",
+        "shadowSize": "Blue",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          32048064012802560
+        ],
+        "type": "LakeLocationLakeShadow"
+      },
+      {
+        "name": "European Crayfish",
+        "level": 3,
+        "location": "Forest Lake",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawnDusk",
+        "prices": [
+          100150200400800
+        ],
+        "type": "LakeLocationForest"
+      },
+      {
+        "name": "European Eel",
+        "level": 7,
+        "shadowSize": "M",
+        "weather": "Rainbow",
+        "time": "Dawn☀️DayDusk",
+        "prices": [
+          38057076015203040
+        ],
+        "type": "SeaLocationOld"
+      },
+      {
+        "name": "European Flying Squid",
+        "level": 5,
+        "shadowSize": "Golden",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          32048064012802560
+        ],
+        "type": "SeaLocationSea"
+      },
+      {
+        "name": "European Lobster",
+        "level": 5,
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "SeaLocationZephyr"
+      },
+      {
+        "name": "European Mudminnow",
+        "level": 8,
+        "shadowSize": "S",
+        "weather": "SunnyRainbow",
+        "time": "NightDawn",
+        "prices": [
+          25037550010002000
+        ],
+        "type": "LakeLocationSuburban"
+      },
+      {
+        "name": "European Perch",
+        "level": 1,
+        "location": "River",
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          75112150300600
+        ],
+        "type": "RiverLocationRiverShadow"
+      },
+      {
+        "name": "European Plaice",
+        "level": 4,
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawnDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "SeaLocationOld"
+      },
+      {
+        "name": "European Smelt",
+        "level": 1,
+        "location": "Meadow Lake",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          100150200400800
+        ],
+        "type": "LakeLocationMeadow"
+      },
+      {
+        "name": "False Scad",
+        "level": 2,
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1552323106201240
+        ],
+        "type": "SeaLocationZephyr"
+      },
+      {
+        "name": "Freshwater Blenny",
+        "level": 5,
+        "location": "Rosy River",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "RiverLocationRosy"
+      },
+      {
+        "name": "Giant Oarfish",
+        "level": 7,
+        "shadowSize": "Golden",
+        "weather": "Sunny️RainyRainbow",
+        "time": "Dawn☀️Day",
+        "prices": [
+          535802107021404300
+        ],
+        "type": "SeaLocationSea"
+      },
+      {
+        "name": "Goby",
+        "level": 4,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "Dawn☀️Day",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "SeaLocationEast"
+      },
+      {
+        "name": "Golden King Crab",
+        "level": 8,
+        "shadowSize": "Golden",
+        "weather": "Rainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          8501275170034006000
+        ],
+        "type": "SeaLocationSea"
+      },
+      {
+        "name": "Goldfish",
+        "level": 8,
+        "location": "Meadow Lake",
+        "shadowSize": "S",
+        "weather": "️RainyRainbow",
+        "time": "Dawn☀️DayDusk",
+        "prices": [
+          25037550010002000
+        ],
+        "type": "LakeLocationMeadow"
+      },
+      {
+        "name": "Grayling",
+        "level": 6,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "LakeLocationSuburban"
+      },
+      {
+        "name": "Haddock",
+        "level": 8,
+        "shadowSize": "M",
+        "weather": "SunnyRainbow",
+        "time": "Night☀️DayDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "SeaLocationEast"
+      },
+      {
+        "name": "Hermit Crab",
+        "level": 3,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          100150200400800
+        ],
+        "type": "SeaLocationEast"
+      },
+      {
+        "name": "Huchen",
+        "level": 9,
+        "location": "Giantwood River",
+        "shadowSize": "M",
+        "weather": "Rainbow",
+        "time": "Night☀️DayDusk",
+        "prices": [
+          38057076015203040
+        ],
+        "type": "RiverLocationGiantwood"
+      },
+      {
+        "name": "King Crab",
+        "level": 8,
+        "shadowSize": "L",
+        "weather": "Rainbow",
+        "time": "Dawn☀️DayDusk",
+        "prices": [
+          535802107021404300
+        ],
+        "type": "SeaLocationWhale"
+      },
+      {
+        "name": "Large Pearl Mussel",
+        "level": 6,
+        "location": "Forest Lake",
+        "shadowSize": "M",
+        "weather": "Rainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          38057076015203040
+        ],
+        "type": "LakeLocationForest"
+      },
+      {
+        "name": "Largemouth Bass",
+        "level": 2,
+        "location": "Forest Lake",
+        "shadowSize": "M",
+        "weather": "SunnyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "LakeLocationForest"
+      },
+      {
+        "name": "Mediterranean Killifish",
+        "level": 7,
+        "type": "Lake"
+      },
+      {
+        "name": "Minnow",
+        "level": 1,
+        "location": "Tranquil River",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "RiverLocationTranquil"
+      },
+      {
+        "name": "Moonfish",
+        "level": 9,
+        "shadowSize": "Golden",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          8501275170034007000
+        ],
+        "type": "SeaLocationSea"
+      },
+      {
+        "name": "Mottled Sculpin",
+        "level": 7,
+        "location": "Onsen Mountain Lake",
+        "shadowSize": "S",
+        "weather": "️RainyRainbow",
+        "time": "Dawn☀️DayDusk",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "LakeLocationOnsen"
+      },
+      {
+        "name": "Mud Sunfish",
+        "level": 3,
+        "location": "Forest Lake",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "Dawn☀️DayDusk",
+        "prices": [
+          100150200400800
+        ],
+        "type": "LakeLocationForest"
+      },
+      {
+        "name": "Mussel",
+        "level": 3,
+        "shadowSize": "S",
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          100150200400800
+        ],
+        "type": "LakeLocationSuburban"
+      },
+      {
+        "name": "Northern Pike",
+        "level": 9,
+        "shadowSize": "M",
+        "weather": "️RainyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          610915122024404900
+        ],
+        "type": "LakeLocationSuburban"
+      },
+      {
+        "name": "Nursehound",
+        "level": 6,
+        "shadowSize": "L, Golden",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          535802107021404300
+        ],
+        "type": "SeaLocationSea"
+      },
+      {
+        "name": "Ocean Sunfish",
+        "level": 9,
+        "shadowSize": "L",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn",
+        "prices": [
+          8501275170034007000
+        ],
+        "type": "SeaLocationEast"
+      },
+      {
+        "name": "Oriental Shrimp",
+        "level": 1,
+        "location": "River",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "RiverLocationRiverShadow"
+      },
+      {
+        "name": "Puffer Fish",
+        "level": 6,
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "☀️DayDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "SeaLocationOld"
+      },
+      {
+        "name": "Pumpkinseed",
+        "level": 9,
+        "location": "Onsen Mountain Lake",
+        "shadowSize": "S",
+        "weather": "SunnyRainbow",
+        "time": "Dawn☀️DayDusk",
+        "prices": [
+          25037550010002000
+        ],
+        "type": "LakeLocationOnsen"
+      },
+      {
+        "name": "Rabbit Fish",
+        "level": 4,
+        "location": "Ocean",
+        "shadowSize": "M, Blue",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          32048064012802560
+        ],
+        "type": "SeaLocationOceanShadow"
+      },
+      {
+        "name": "Red-Bellied Piranha",
+        "level": 4,
+        "location": "Giantwood River",
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "RiverLocationGiantwood"
+      },
+      {
+        "name": "River Crab",
+        "level": 4,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          100150200400800
+        ],
+        "type": "LakeLocationSuburban"
+      },
+      {
+        "name": "Ruffe",
+        "level": 3,
+        "location": "Onsen Mountain Lake",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "☀️DayDusk",
+        "prices": [
+          100150200400800
+        ],
+        "type": "LakeLocationOnsen"
+      },
+      {
+        "name": "Sardine",
+        "level": 1,
+        "location": "Ocean",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "SeaLocationOceanShadow"
+      },
+      {
+        "name": "Scad",
+        "level": 1,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "SeaLocationWhale"
+      },
+      {
+        "name": "Schneider",
+        "level": 1,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "LakeLocationSuburban"
+      },
+      {
+        "name": "Sea Bass",
+        "level": 1,
+        "location": "Ocean",
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          75112150300600
+        ],
+        "type": "SeaLocationOceanShadow"
+      },
+      {
+        "name": "Sea Stickleback",
+        "level": 1,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "SeaLocationOld"
+      },
+      {
+        "name": "Seabream",
+        "level": 10,
+        "weather": "️RainyRainbow",
+        "time": "NightDuskView on Map",
+        "type": "SeaLocationZephyr"
+      },
+      {
+        "name": "Seahorse",
+        "level": 1,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️Day",
+        "prices": [
+          100150200400800
+        ],
+        "type": "SeaLocationWhale"
+      },
+      {
+        "name": "Shortfin Mako Shark",
+        "level": 10,
+        "shadowSize": "L",
+        "weather": "Rainbow",
+        "time": "Dawn☀️Day",
+        "prices": [
+          8501275170034007000
+        ],
+        "type": "SeaLocationSea"
+      },
+      {
+        "name": "Skipjack Tuna",
+        "level": 1,
+        "location": "Ocean",
+        "shadowSize": "L",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2103154208401680
+        ],
+        "type": "SeaLocationOceanShadow"
+      },
+      {
+        "name": "Smooth Hammerhead",
+        "level": 10,
+        "shadowSize": "L",
+        "weather": "Rainbow",
+        "time": "NightDusk",
+        "prices": [
+          8501275170035007000
+        ],
+        "type": "SeaLocationOld"
+      },
+      {
+        "name": "Spined Loach",
+        "level": 1,
+        "location": "Giantwood River",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "RiverLocationGiantwood"
+      },
+      {
+        "name": "Stone Loach",
+        "level": 2,
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          100150200400800
+        ],
+        "type": "LakeLocationSuburban"
+      },
+      {
+        "name": "Streber",
+        "level": 3,
+        "location": "Rosy River",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "RiverLocationRosy"
+      },
+      {
+        "name": "Striped Red Mullet",
+        "level": 1,
+        "shadowSize": "Golden",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          32048064012802560
+        ],
+        "type": "SeaLocationSea"
+      },
+      {
+        "name": "Swordfish",
+        "level": 10,
+        "shadowSize": "L",
+        "weather": "Rainbow",
+        "time": "Dawn☀️Day",
+        "prices": [
+          8501275170034007000
+        ],
+        "type": "SeaLocationWhale"
+      },
+      {
+        "name": "Tadpole",
+        "level": 3,
+        "location": "Onsen Mountain Lake",
+        "shadowSize": "S",
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          100150200400800
+        ],
+        "type": "LakeLocationOnsen"
+      },
+      {
+        "name": "Tench",
+        "level": 1,
+        "location": "Forest Lake",
+        "shadowSize": "S",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5075100200400
+        ],
+        "type": "LakeLocationForest"
+      },
+      {
+        "name": "Three-Spined Stickleback",
+        "level": 7,
+        "type": "River"
+      },
+      {
+        "name": "Tilapia",
+        "level": 3,
+        "location": "River",
+        "shadowSize": "M, Blue",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          32048064012802560
+        ],
+        "type": "RiverLocationRiverShadow"
+      },
+      {
+        "name": "Trout",
+        "level": 5,
+        "location": "Meadow Lake",
+        "shadowSize": "M",
+        "weather": "SunnyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "LakeLocationMeadow"
+      },
+      {
+        "name": "Tub Gurnard",
+        "level": 6,
+        "shadowSize": "M",
+        "weather": "Rainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          38057076015203040
+        ],
+        "type": "SeaLocationEast"
+      },
+      {
+        "name": "Turbot",
+        "level": 4,
+        "shadowSize": "M",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          32048064012802560
+        ],
+        "type": "SeaLocationSea"
+      },
+      {
+        "name": "Wels Catfish",
+        "level": 10,
+        "location": "Meadow Lake",
+        "shadowSize": "M",
+        "weather": "SunnyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          610915122024404900
+        ],
+        "type": "LakeLocationMeadow"
+      },
+      {
+        "name": "Winter Frost Season: Frostspore King Crab",
+        "level": 1,
+        "type": "Sea"
+      },
+      {
+        "name": "Winter Frost Season: Frostspore Ocean Sunfish",
+        "level": 1,
+        "type": "Sea"
+      },
+      {
+        "name": "Winter Frost Season: Frostspore Puffer Fish",
+        "level": 1,
+        "type": "Sea"
+      },
+      {
+        "name": "Winter Frost Season: Frostspore Seahorse",
+        "level": 1,
+        "type": "Sea"
+      },
+      {
+        "name": "Winter Frost Season: Frostspore Whale Shark",
+        "level": 1,
+        "type": "Sea"
+      },
+      {
+        "name": "Zander",
+        "level": 3,
+        "location": "Giantwood River",
+        "shadowSize": "M",
+        "weather": "SunnyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2303454609201840
+        ],
+        "type": "RiverLocationGiantwood"
+      }
+    ]
+  },
+  "bugs": {
+    "count": 69,
+    "jsonldNames": [
+      "Home",
+      "Heartopia Insect Guide"
+    ],
+    "items": [
+      {
+        "name": "Alpine Longhorn Beetle",
+        "level": 5,
+        "type": "Beetle"
+      },
+      {
+        "name": "Amethyst Flower Beetle",
+        "level": 2,
+        "type": "Beetle"
+      },
+      {
+        "name": "Ant",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2203304408801760
+        ],
+        "type": "BugLocationFishing"
+      },
+      {
+        "name": "Apollo",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          304560120240
+        ],
+        "type": "ButterflyLocationBait"
+      },
+      {
+        "name": "Asian Lady Beetle",
+        "level": 5,
+        "weather": "️RainyRainbow",
+        "time": "Night☀️DayDusk",
+        "prices": [
+          1652473306601320
+        ],
+        "type": "BeetleLocationForest"
+      },
+      {
+        "name": "Asparagus Beetle",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          5582110220440
+        ],
+        "type": "BeetleLocationFlower"
+      },
+      {
+        "name": "Bagworm Moth",
+        "level": 10,
+        "weather": "SunnyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          44066088017603520
+        ],
+        "type": "ButterflyLocationForest"
+      },
+      {
+        "name": "Beautiful Demoiselle",
+        "level": 6,
+        "type": "Dragonfly"
+      },
+      {
+        "name": "Beautiful Leopard",
+        "level": 4,
+        "weather": "️RainyRainbow",
+        "time": "NightDawnDusk",
+        "prices": [
+          90135180360720
+        ],
+        "type": "ButterflyLocationFishing"
+      },
+      {
+        "name": "Blue Morpho",
+        "level": 7,
+        "weather": "SunnyRainbow",
+        "time": "Dawn☀️DayDusk",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "ButterflyLocationForest"
+      },
+      {
+        "name": "Blue Shieldbug",
+        "level": 6,
+        "weather": "Sunny️RainyRainbow",
+        "time": "Dawn☀️Day",
+        "prices": [
+          110165220440880
+        ],
+        "type": "BugLocationFishing"
+      },
+      {
+        "name": "Bumblebee",
+        "level": 2,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          110165220440880
+        ],
+        "type": "BeeLocationFlower"
+      },
+      {
+        "name": "Cabbage White",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          304560120240
+        ],
+        "type": "ButterflyLocationFishing"
+      },
+      {
+        "name": "Cerulean Carpenter",
+        "level": 9,
+        "weather": "Rainbow",
+        "time": "NightDusk",
+        "prices": [
+          44066088017603520
+        ],
+        "type": "BeeLocationFishing"
+      },
+      {
+        "name": "Chestnut Tiger",
+        "level": 7,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "ButterflyLocationBait"
+      },
+      {
+        "name": "Cicada",
+        "level": 4,
+        "weather": "Sunny️RainyRainbow",
+        "time": "Night☀️DayDusk",
+        "prices": [
+          2203304408801760
+        ],
+        "type": "BugLocationForest"
+      },
+      {
+        "name": "Comet Moth",
+        "level": 8,
+        "weather": "SunnyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          2403604809601920
+        ],
+        "type": "ButterflyLocationSuburbsWeather"
+      },
+      {
+        "name": "Common Blue Butterfly",
+        "level": 2,
+        "type": "Butterfly"
+      },
+      {
+        "name": "Common Brimstone",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          304560120240
+        ],
+        "type": "BeetleLocationSuburbsWeather"
+      },
+      {
+        "name": "Common Whitetail",
+        "level": 4,
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          75112150300600
+        ],
+        "type": "DragonflyLocationRiver"
+      },
+      {
+        "name": "Conehead Mantis",
+        "level": 9,
+        "weather": "️RainyRainbow",
+        "time": "☀️DayDusk",
+        "prices": [
+          515772103020604100
+        ],
+        "type": "GrasshopperLocationOnsen"
+      },
+      {
+        "name": "Crimson Marsh Glider",
+        "level": 7,
+        "type": "Dragonfly"
+      },
+      {
+        "name": "Elegant Flower Beetle",
+        "level": 7,
+        "type": "Beetle"
+      },
+      {
+        "name": "European Firebug",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          355270140280
+        ],
+        "type": "BeetleLocationHome"
+      },
+      {
+        "name": "Fire-Colored Beetle",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          110165220440880
+        ],
+        "type": "BeetleLocationOnsen"
+      },
+      {
+        "name": "Four-Spotted Ladybug",
+        "level": 4,
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1652473306601320
+        ],
+        "type": "BeetleLocationOnsen"
+      },
+      {
+        "name": "Four-Spotted Skimmer",
+        "level": 2,
+        "type": "Dragonfly"
+      },
+      {
+        "name": "Giant Asian Mantis",
+        "level": 5,
+        "type": "Grasshopper"
+      },
+      {
+        "name": "Gold Grasshopper",
+        "level": 1,
+        "type": "Grasshopper"
+      },
+      {
+        "name": "Golden Jewel Scarab",
+        "level": 7,
+        "weather": "SunnyRainbow",
+        "time": "☀️DayDusk",
+        "prices": [
+          27541255011002200
+        ],
+        "type": "BeetleLocationForest"
+      },
+      {
+        "name": "Golden Stag Beetle",
+        "level": 9,
+        "weather": "️RainyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          44066088017603520
+        ],
+        "type": "BeetleLocationForest"
+      },
+      {
+        "name": "Green Birdwing",
+        "level": 6,
+        "weather": "Sunny️RainyRainbow",
+        "time": "Dawn☀️DayDusk",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "ButterflyLocationSuburbsWeather"
+      },
+      {
+        "name": "Green Tiger Beetle",
+        "level": 2,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          110165220440880
+        ],
+        "type": "BeetleLocationOnsen"
+      },
+      {
+        "name": "Hercules Beetle",
+        "level": 10,
+        "weather": "SunnyRainbow",
+        "time": "☀️DayDusk",
+        "prices": [
+          44066088017603520
+        ],
+        "type": "BeetleLocationOnsen"
+      },
+      {
+        "name": "Horned Beetle",
+        "level": 8,
+        "weather": "SunnyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          27541255011002200
+        ],
+        "type": "BeetleLocationFishing"
+      },
+      {
+        "name": "Katydid",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1802703607201440
+        ],
+        "type": "GrasshopperLocationFlower"
+      },
+      {
+        "name": "Large Banded Grasshopper",
+        "level": 4,
+        "type": "Grasshopper"
+      },
+      {
+        "name": "Large Red Damselfly",
+        "level": 1,
+        "type": "Dragonfly"
+      },
+      {
+        "name": "Mediterranean Mantis",
+        "level": 4,
+        "type": "Grasshopper"
+      },
+      {
+        "name": "Mini Moon Moth",
+        "level": 3,
+        "weather": "SunnyRainbow",
+        "time": "Dawn☀️DayDusk",
+        "prices": [
+          105157210300840
+        ],
+        "type": "ButterflyLocationSuburbsWeather"
+      },
+      {
+        "name": "Minotaur Beetle",
+        "level": 7,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️Day",
+        "prices": [
+          27541255011002200
+        ],
+        "type": "BeetleLocationOnsen"
+      },
+      {
+        "name": "Morpho Helena",
+        "level": 10,
+        "weather": "Rainbow",
+        "time": "Dawn☀️Day",
+        "prices": [
+          2403604809601920
+        ],
+        "type": "ButterflyLocationFlower"
+      },
+      {
+        "name": "Mother-Of-Pearl",
+        "level": 9,
+        "weather": "️RainyRainbow",
+        "time": "NightDawn",
+        "prices": [
+          2403604809601920
+        ],
+        "type": "ButterflyLocationFlower"
+      },
+      {
+        "name": "Mourning Cloak",
+        "level": 5,
+        "weather": "SunnyRainbow",
+        "time": "NightDawn☀️Day",
+        "prices": [
+          90135180360720
+        ],
+        "type": "ButterflyLocationOnsen"
+      },
+      {
+        "name": "Old World Swallowtail",
+        "level": 1,
+        "type": "Butterfly"
+      },
+      {
+        "name": "Orange-Tip",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          304560120240
+        ],
+        "type": "ButterflyLocationCentral"
+      },
+      {
+        "name": "Peacock Butterfly",
+        "level": 5,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          90135180360720
+        ],
+        "type": "ButterflyLocationFlower"
+      },
+      {
+        "name": "Picasso Bug",
+        "level": 8,
+        "weather": "SunnyRainbow",
+        "time": "NightDusk",
+        "prices": [
+          1852773707401480
+        ],
+        "type": "BeetleLocationFlower"
+      },
+      {
+        "name": "Pink Katydid",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          90135180360720
+        ],
+        "type": "GrasshopperLocationBait"
+      },
+      {
+        "name": "Postman Butterfly",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          304560120240
+        ],
+        "type": "ButterflyLocationBait"
+      },
+      {
+        "name": "Purple Emperor",
+        "level": 3,
+        "weather": "SunnyRainbow",
+        "time": "Night☀️DayDusk",
+        "prices": [
+          90135180360720
+        ],
+        "type": "ButterflyLocationFlower"
+      },
+      {
+        "name": "Rainbow Stag Beetle",
+        "level": 9,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          44066088017603520
+        ],
+        "type": "BeetleLocationBait"
+      },
+      {
+        "name": "Rajah Brooke's Birdwing",
+        "level": 3,
+        "type": "Butterfly"
+      },
+      {
+        "name": "Seven-Spotted Ladybug",
+        "level": 2,
+        "type": "Beetle"
+      },
+      {
+        "name": "Siberian Grasshopper",
+        "level": 2,
+        "type": "Grasshopper"
+      },
+      {
+        "name": "Silver Jewel Scarab",
+        "level": 6,
+        "weather": "SunnyRainbow",
+        "time": "NightDawn☀️Day",
+        "prices": [
+          1652473306601320
+        ],
+        "type": "BeetleLocationOnsen"
+      },
+      {
+        "name": "Spanish Moon Moth",
+        "level": 8,
+        "weather": "SunnyRainbow",
+        "time": "☀️DayDusk",
+        "prices": [
+          1502253006001200
+        ],
+        "type": "ButterflyLocationForest"
+      },
+      {
+        "name": "Splay-Footed Carpenter",
+        "level": 5,
+        "weather": "SunnyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1652473306601320
+        ],
+        "type": "BeeLocationFlower"
+      },
+      {
+        "name": "Stag Beetle",
+        "level": 6,
+        "weather": "️RainyRainbow",
+        "time": "Dawn☀️DayDusk",
+        "prices": [
+          27541255011002200
+        ],
+        "type": "BeetleLocationForest"
+      },
+      {
+        "name": "Sulkowsky's Morpho",
+        "level": 1,
+        "type": "Butterfly"
+      },
+      {
+        "name": "Sunset Morpho",
+        "level": 10,
+        "weather": "Rainbow",
+        "time": "Dawn☀️Day",
+        "prices": [
+          2403604809601920
+        ],
+        "type": "ButterflyLocationForest"
+      },
+      {
+        "name": "Waroona Cuckoo Bee",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1652473306601320
+        ],
+        "type": "BeeLocationForest"
+      },
+      {
+        "name": "Wasp Beetle",
+        "level": 2,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          110165220440880
+        ],
+        "type": "BeetleLocationForestWeather"
+      },
+      {
+        "name": "White Witch",
+        "level": 5,
+        "weather": "SunnyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          90135180360720
+        ],
+        "type": "ButterflyLocationBait"
+      },
+      {
+        "name": "Winter Frost Season: Frostspore Mother-of-Pearl",
+        "level": 1,
+        "type": "Butterfly"
+      },
+      {
+        "name": "Winter Frost Season: Frostspore Postman Butterfly",
+        "level": 1,
+        "type": "Butterfly"
+      },
+      {
+        "name": "Winter Frost Season: Frostspore Purple Spotted Swallowtail",
+        "level": 1,
+        "type": "Butterfly"
+      },
+      {
+        "name": "Winter Frost Season: Frostspore Queen Alexandra's Birdwing",
+        "level": 1,
+        "type": "Butterfly"
+      },
+      {
+        "name": "Winter Frost Season: Frostspore Sulkowsky's Morpho",
+        "level": 1,
+        "type": "Butterfly"
+      }
+    ]
+  },
+  "birds": {
+    "count": 66,
+    "jsonldNames": [
+      "Home",
+      "Heartopia Bird Guide"
+    ],
+    "items": [
+      {
+        "name": "African Olive Pigeon",
+        "level": 5,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          27110220440880
+        ],
+        "type": "LocationOnsen"
+      },
+      {
+        "name": "American Flamingo",
+        "level": 9,
+        "weather": "Rainbow",
+        "time": "☀️Day",
+        "prices": [
+          552204408801760
+        ],
+        "type": "LocationFlower"
+      },
+      {
+        "name": "Amur Falcon",
+        "level": 10,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          6526052010402080
+        ],
+        "type": "LocationOnsen"
+      },
+      {
+        "name": "Audouin's Gull",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1770140280560
+        ],
+        "type": "LocationWhale"
+      },
+      {
+        "name": "Azores Bullfinch",
+        "level": 10,
+        "weather": "Rainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          30120240480960
+        ],
+        "type": "LocationFishing"
+      },
+      {
+        "name": "Azure Tit",
+        "level": 7,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2290180360720
+        ],
+        "type": "LocationFlower"
+      },
+      {
+        "name": "Bearded Reedling",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          104080160320
+        ],
+        "type": "LocationOnsen"
+      },
+      {
+        "name": "Blue Peafowl",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          104080160320
+        ]
+      },
+      {
+        "name": "Blue-and-Yellow Macaw",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          73060120240
+        ]
+      },
+      {
+        "name": "Brown Noddy",
+        "level": 5,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2290180360720
+        ],
+        "type": "LocationOld"
+      },
+      {
+        "name": "Cinnamon Ground Dove",
+        "level": 6,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          27110220440880
+        ],
+        "type": "LocationFishing"
+      },
+      {
+        "name": "Common Kestrel",
+        "level": 7,
+        "weather": "SunnyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          471903807601520
+        ],
+        "type": "LocationForest"
+      },
+      {
+        "name": "Double-Barred Finch",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          104080160320
+        ],
+        "type": "LocationFishing"
+      },
+      {
+        "name": "Eastern Bluebird",
+        "level": 7,
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          30120240480960
+        ],
+        "type": "LocationSuburbsWeather"
+      },
+      {
+        "name": "Eurasian Bullfinch",
+        "level": 2,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          73060120240
+        ],
+        "type": "LocationSuburbsWeather"
+      },
+      {
+        "name": "Eurasian Chaffinch",
+        "level": 2,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          73060120240
+        ],
+        "type": "LocationFlower"
+      },
+      {
+        "name": "Eurasian Collared Dove",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          104080160320
+        ],
+        "type": "LocationHomeWeather"
+      },
+      {
+        "name": "Eurasian Golden Oriole",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1560120240480
+        ],
+        "type": "LocationHomeWeather"
+      },
+      {
+        "name": "Eurasian Nuthatch",
+        "level": 2,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          104080160320
+        ],
+        "type": "LocationFishing"
+      },
+      {
+        "name": "Eurasian Wigeon",
+        "level": 2,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1770140280560
+        ],
+        "type": "LocationRiverWeather"
+      },
+      {
+        "name": "Eurasian Wren",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          73060120240
+        ],
+        "type": "LocationForestWeather"
+      },
+      {
+        "name": "European Bee-Eater",
+        "level": 5,
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2290180360720
+        ],
+        "type": "LocationOnsen"
+      },
+      {
+        "name": "European Robin",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          73060120240
+        ],
+        "type": "LocationCentral"
+      },
+      {
+        "name": "European Shag",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1770140280560
+        ],
+        "type": "LocationBelow"
+      },
+      {
+        "name": "Great Green Macaw",
+        "weather": "SunnyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1560120240480
+        ]
+      },
+      {
+        "name": "Great Tit",
+        "level": 2,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          73060120240
+        ],
+        "type": "LocationOnsen"
+      },
+      {
+        "name": "Greater Flamingo",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1560120240480
+        ],
+        "type": "LocationWatersideWeather"
+      },
+      {
+        "name": "Hawfinch",
+        "level": 6,
+        "weather": "Sunny️RainyRainbow",
+        "time": "Dusk",
+        "prices": [
+          1560120240480
+        ],
+        "type": "LocationOnsen"
+      },
+      {
+        "name": "Imperial Shag",
+        "level": 9,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          451803607201440
+        ],
+        "type": "LocationEast"
+      },
+      {
+        "name": "Invalid",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1
+        ]
+      },
+      {
+        "name": "Jambu Fruit Dove",
+        "level": 7,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          27110220440880
+        ],
+        "type": "LocationSuburbsWeather"
+      },
+      {
+        "name": "King Eider",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1770140280560
+        ],
+        "type": "LocationRiverWeather"
+      },
+      {
+        "name": "Lady Amherst Pheasant",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1770140280560
+        ]
+      },
+      {
+        "name": "Lear's Macaw",
+        "level": 7,
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2290180360720
+        ],
+        "type": "LocationNest"
+      },
+      {
+        "name": "Lesser Flamingo",
+        "level": 5,
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          27110220440880
+        ],
+        "type": "LocationForest"
+      },
+      {
+        "name": "Long Eared Owl",
+        "level": 6,
+        "weather": "SunnyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          471903807601520
+        ],
+        "type": "LocationOnsen"
+      },
+      {
+        "name": "Long-Tailed Tit",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          28163264
+        ],
+        "type": "LocationOn"
+      },
+      {
+        "name": "Mallard",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1250100200400
+        ],
+        "type": "LocationLakeWeather"
+      },
+      {
+        "name": "Paradise Tanager",
+        "level": 9,
+        "weather": "Rainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          30120240480960
+        ],
+        "type": "LocationSuburbsWeather"
+      },
+      {
+        "name": "Peregrine Falcon",
+        "level": 7,
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          6526052010402080
+        ],
+        "type": "LocationOnsen"
+      },
+      {
+        "name": "Pied Imperial Pigeon",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          104080160320
+        ],
+        "type": "LocationFishing"
+      },
+      {
+        "name": "Pine Grosbeak",
+        "level": 4,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1560120240480
+        ],
+        "type": "LocationForest"
+      },
+      {
+        "name": "Pink Pigeon",
+        "level": 7,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          27110220440880
+        ],
+        "type": "LocationFlower"
+      },
+      {
+        "name": "Pink-Necked Green Pigeon",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1560120240480
+        ],
+        "type": "LocationFlower"
+      },
+      {
+        "name": "Przevalski's Parrotbill",
+        "level": 4,
+        "weather": "SunnyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1560120240480
+        ],
+        "type": "LocationFishing"
+      },
+      {
+        "name": "Red Faced Cormorant",
+        "level": 6,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2290180360720
+        ],
+        "type": "LocationOld"
+      },
+      {
+        "name": "Red-and-Green Macaw",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          104080160320
+        ]
+      },
+      {
+        "name": "Redpolis",
+        "level": 7,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDuskView on Map",
+        "type": "LocationForest"
+      },
+      {
+        "name": "Regent Bowerbird",
+        "level": 4,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1560120240480
+        ],
+        "type": "LocationForest"
+      },
+      {
+        "name": "Ruddy Shelduck",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1770140280560
+        ],
+        "type": "LocationSuburban"
+      },
+      {
+        "name": "Seagull",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1770140280560
+        ]
+      },
+      {
+        "name": "Silver-Throated Tit",
+        "level": 3,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          104080160320
+        ],
+        "type": "LocationForest"
+      },
+      {
+        "name": "Smew",
+        "level": 4,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          2290180360720
+        ],
+        "type": "LocationForest"
+      },
+      {
+        "name": "Stock Dove",
+        "level": 2,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          104080160320
+        ],
+        "type": "LocationCentral"
+      },
+      {
+        "name": "Tern",
+        "level": 7,
+        "weather": "Rainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          351402805601120
+        ],
+        "type": "LocationEast"
+      },
+      {
+        "name": "Wallace's Fruit Dove",
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1770140280560
+        ]
+      },
+      {
+        "name": "White Wagtail",
+        "level": 4,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1560120240480
+        ],
+        "type": "LocationAmethyst"
+      },
+      {
+        "name": "White-Headed Duck",
+        "level": 9,
+        "weather": "️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          45180360720
+        ],
+        "type": "LocationOnsen"
+      },
+      {
+        "name": "Winter Frost Season: Winter Eurasian Wigeon",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Winter Greater Flamingo",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Winter Mallard",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Winter Mandarin Duck",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Winter Smew",
+        "level": 1
+      },
+      {
+        "name": "Wonga Pigeon",
+        "level": 1,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1560120240480
+        ],
+        "type": "LocationForestWeather"
+      },
+      {
+        "name": "Woodchat Shrike",
+        "level": 2,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          104080160320
+        ],
+        "type": "LocationSuburbsWeather"
+      },
+      {
+        "name": "Yellow Bellied Flycatcher",
+        "level": 5,
+        "weather": "Sunny️RainyRainbow",
+        "time": "NightDawn☀️DayDusk",
+        "prices": [
+          1560120240480
+        ],
+        "type": "LocationFishing"
+      }
+    ]
+  },
+  "crops": {
+    "count": 14,
+    "jsonldNames": [
+      "Potatoes",
+      "Tomato",
+      "Wheat",
+      "Lettuce",
+      "Pineapple",
+      "Carrot",
+      "Corn",
+      "Strawberry",
+      "Grape",
+      "Eggplant",
+      "Home",
+      "Heartopia Crops - Farming Guide with Growth Times & Prices"
+    ],
+    "items": [
+      {
+        "name": "Avocado",
+        "level": 13,
+        "growthTime": "13 hours",
+        "seedBuyPrice": 180,
+        "prices": [
+          33044255110981650
+        ]
+      },
+      {
+        "name": "Cacao",
+        "level": 12,
+        "growthTime": "5 hours",
+        "seedBuyPrice": 110,
+        "prices": [
+          75100125660900
+        ]
+      },
+      {
+        "name": "Carrot",
+        "level": 5,
+        "growthTime": "2 hours",
+        "seedBuyPrice": 50,
+        "seedSellPrice": 25,
+        "prices": [
+          155207258310465
+        ]
+      },
+      {
+        "name": "Corn",
+        "level": 6,
+        "growthTime": "12 hours",
+        "seedBuyPrice": 170,
+        "prices": [
+          51569086010301544
+        ]
+      },
+      {
+        "name": "Eggplant",
+        "level": 8,
+        "growthTime": "7 hours",
+        "seedBuyPrice": 135,
+        "prices": [
+          4065446788121218
+        ]
+      },
+      {
+        "name": "Grape",
+        "level": 7,
+        "growthTime": "10 hours",
+        "seedBuyPrice": 160,
+        "prices": [
+          4806438019601440
+        ]
+      },
+      {
+        "name": "Lettuce",
+        "level": 3,
+        "growthTime": "8 hours",
+        "seedBuyPrice": 145,
+        "seedSellPrice": 72,
+        "prices": [
+          4355827268701305
+        ]
+      },
+      {
+        "name": "Pineapple",
+        "level": 4,
+        "growthTime": "30 min",
+        "seedBuyPrice": 15,
+        "seedSellPrice": 7,
+        "prices": [
+          526986104156
+        ]
+      },
+      {
+        "name": "Potatoes",
+        "level": 1,
+        "growthTime": "60 min",
+        "seedBuyPrice": 30,
+        "seedSellPrice": 15,
+        "prices": [
+          90120150180210
+        ]
+      },
+      {
+        "name": "Strawberry",
+        "level": 6,
+        "growthTime": "6 hours",
+        "seedBuyPrice": 125,
+        "prices": [
+          3755026267501125
+        ]
+      },
+      {
+        "name": "Tea Tree",
+        "level": 11,
+        "growthTime": "45 min",
+        "seedBuyPrice": 25,
+        "prices": [
+          75100125150225
+        ]
+      },
+      {
+        "name": "Tomato",
+        "level": 1,
+        "growthTime": "15 min",
+        "seedBuyPrice": 10,
+        "seedSellPrice": 5,
+        "prices": [
+          3040506070
+        ]
+      },
+      {
+        "name": "Wheat",
+        "level": 2,
+        "growthTime": "4 hours",
+        "seedBuyPrice": 95,
+        "seedSellPrice": 47,
+        "prices": [
+          285381475570855
+        ]
+      },
+      {
+        "name": "Winter Frost Season: White Radish",
+        "level": 1
+      }
+    ]
+  },
+  "flowers": {
+    "count": 14,
+    "jsonldNames": [
+      "Daisy",
+      "Pansy",
+      "Anthurium",
+      "Corn Poppy",
+      "Laceleaf",
+      "Calla Lily",
+      "Morning Glory",
+      "Carnation",
+      "Tulip",
+      "Lily",
+      "Home",
+      "Heartopia Flowers - All Flower Types, Growth Times & Prices"
+    ],
+    "items": [
+      {
+        "name": "Anthurium",
+        "level": 5,
+        "seedBuyPrice": 60,
+        "seedSellPrice": 30,
+        "prices": [
+          185
+        ]
+      },
+      {
+        "name": "Calla Lily",
+        "level": 6,
+        "seedBuyPrice": 90,
+        "prices": [
+          2503755006251000
+        ]
+      },
+      {
+        "name": "Carnation",
+        "level": 7,
+        "seedBuyPrice": 120,
+        "prices": [
+          3054606107651220
+        ]
+      },
+      {
+        "name": "Corn Poppy",
+        "level": 5,
+        "seedBuyPrice": 60,
+        "seedSellPrice": 30,
+        "prices": [
+          185280370465740
+        ]
+      },
+      {
+        "name": "Cranesbill",
+        "level": 13,
+        "seedBuyPrice": 300,
+        "prices": [
+          8251240165020654000
+        ]
+      },
+      {
+        "name": "Daisy",
+        "level": 3,
+        "seedBuyPrice": 30,
+        "seedSellPrice": 15,
+        "prices": [
+          100150200250400
+        ]
+      },
+      {
+        "name": "Hyacinth",
+        "level": 11,
+        "seedBuyPrice": 300,
+        "prices": [
+          7851180157019653000
+        ]
+      },
+      {
+        "name": "Laceleaf",
+        "level": 5,
+        "seedBuyPrice": 60,
+        "prices": [
+          185280370465740
+        ]
+      },
+      {
+        "name": "Lily",
+        "level": 9,
+        "seedBuyPrice": 200,
+        "prices": [
+          48573097012151940
+        ]
+      },
+      {
+        "name": "Morning Glory",
+        "level": 6,
+        "seedBuyPrice": 90,
+        "prices": [
+          2503755006251000
+        ]
+      },
+      {
+        "name": "Moth Orchid",
+        "level": 12,
+        "seedBuyPrice": 300,
+        "prices": [
+          8051210161020153000
+        ]
+      },
+      {
+        "name": "Pansy",
+        "level": 4,
+        "seedBuyPrice": 30,
+        "seedSellPrice": 15,
+        "prices": [
+          100150200250400
+        ]
+      },
+      {
+        "name": "Rose",
+        "level": 10,
+        "seedBuyPrice": 300,
+        "prices": [
+          7651150153019153000
+        ]
+      },
+      {
+        "name": "Tulip",
+        "level": 8,
+        "seedBuyPrice": 150,
+        "prices": [
+          41562583010401660
+        ]
+      }
+    ]
+  },
+  "forageables": {
+    "count": 27,
+    "jsonldNames": [
+      "Home",
+      "Heartopia Foraging Guide"
+    ],
+    "items": [
+      {
+        "name": "Apple",
+        "sellPrice": 28,
+        "energy": 8
+      },
+      {
+        "name": "Bizarre Button Mushroom (Green)"
+      },
+      {
+        "name": "Bizarre Button Mushroom (Pink)"
+      },
+      {
+        "name": "Bizarre Oyster Mushroom (Orange)"
+      },
+      {
+        "name": "Bizarre Oyster Mushroom (Pink)"
+      },
+      {
+        "name": "Bizarre Oyster Mushroom (Purple)"
+      },
+      {
+        "name": "Bizarre Shiitake (Blue)"
+      },
+      {
+        "name": "Bizarre Shiitake (Red)"
+      },
+      {
+        "name": "Bizzare Button Mushroom (Blue)"
+      },
+      {
+        "name": "Bizzare Penny Bun (Pink)",
+        "sellPrice": 16
+      },
+      {
+        "name": "Bizzare Penny Bun (Purple)"
+      },
+      {
+        "name": "Bizzare Penny Bun (Red)",
+        "sellPrice": 16
+      },
+      {
+        "name": "Bizzare Shiitake (Black)"
+      },
+      {
+        "name": "Black Truffle"
+      },
+      {
+        "name": "Blueberry",
+        "sellPrice": 16,
+        "energy": 5
+      },
+      {
+        "name": "Button Mushroom",
+        "sellPrice": 16,
+        "energy": 5
+      },
+      {
+        "name": "Flawless Fluorite",
+        "sellPrice": 150
+      },
+      {
+        "name": "Mandarin",
+        "sellPrice": 28,
+        "energy": 8
+      },
+      {
+        "name": "Matsutake"
+      },
+      {
+        "name": "Oyster Mushroom",
+        "sellPrice": 16,
+        "energy": 5
+      },
+      {
+        "name": "Penny Bun",
+        "sellPrice": 16,
+        "energy": 5
+      },
+      {
+        "name": "Quality Timber",
+        "sellPrice": 12
+      },
+      {
+        "name": "Rare Timber"
+      },
+      {
+        "name": "Raspberry",
+        "sellPrice": 26,
+        "energy": 7
+      },
+      {
+        "name": "Roaming Oak Timber"
+      },
+      {
+        "name": "Shiitake",
+        "sellPrice": 16,
+        "energy": 5
+      },
+      {
+        "name": "Starfall Shard"
+      }
+    ]
+  },
+  "pets/cats": {
+    "count": 18,
+    "jsonldNames": [
+      "Siamese",
+      "Blue Cat",
+      "Black Cat",
+      "White Cat",
+      "Raccoon Cat",
+      "Silver Tabby",
+      "Orange Tabby",
+      "Brown Tabby",
+      "Calico",
+      "Piebald Cat",
+      "Panda Cat",
+      "Golden Spotted Cat",
+      "Tortoiseshell Cat",
+      "Tuxedo Cat",
+      "Golden British Shorthair",
+      "Silver British Shorthair",
+      "Classic Silver Spotted Cat",
+      "Golden Leopard Cat",
+      "Home",
+      "Heartopia Pets - Cat & Dog Breeds, Care Guide & Abilities",
+      "All 18 Cat Breeds in Heartopia - Complete List & Guide"
+    ],
+    "items": [
+      {
+        "name": "Black Cat",
+        "favoriteFood": "fish1"
+      },
+      {
+        "name": "Blue Cat",
+        "favoriteFood": "fish"
+      },
+      {
+        "name": "Brown Tabby",
+        "favoriteFood": "fish1"
+      },
+      {
+        "name": "Calico",
+        "favoriteFood": "fish1"
+      },
+      {
+        "name": "Classic Silver Spotted Cat",
+        "favoriteFood": "fish"
+      },
+      {
+        "name": "Golden British Shorthair",
+        "favoriteFood": "fish"
+      },
+      {
+        "name": "Golden Leopard Cat",
+        "favoriteFood": "fish"
+      },
+      {
+        "name": "Golden Spotted Cat",
+        "favoriteFood": "fish"
+      },
+      {
+        "name": "Orange Tabby",
+        "favoriteFood": "fishSpecial"
+      },
+      {
+        "name": "Panda Cat",
+        "favoriteFood": "fish1"
+      },
+      {
+        "name": "Piebald Cat",
+        "favoriteFood": "fish"
+      },
+      {
+        "name": "Raccoon Cat",
+        "favoriteFood": "fish1"
+      },
+      {
+        "name": "Siamese",
+        "favoriteFood": "fish1"
+      },
+      {
+        "name": "Silver British Shorthair",
+        "favoriteFood": "fish"
+      },
+      {
+        "name": "Silver Tabby",
+        "favoriteFood": "fish1"
+      },
+      {
+        "name": "Tortoiseshell Cat",
+        "favoriteFood": "fish"
+      },
+      {
+        "name": "Tuxedo Cat",
+        "favoriteFood": "fish1"
+      },
+      {
+        "name": "White Cat",
+        "favoriteFood": "fish1"
+      }
+    ]
+  },
+  "pets/dogs": {
+    "count": 34,
+    "jsonldNames": [
+      "Home",
+      "Heartopia Pets - Cat & Dog Breeds, Care Guide & Abilities",
+      "Heartopia Dog Breeds Guide"
+    ],
+    "items": [
+      {
+        "name": "Alaskan Malamute",
+        "favoriteFood": "crops",
+        "size": "large"
+      },
+      {
+        "name": "Australian Shepherd",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "Beagle",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "Bernese Mountain Dog",
+        "favoriteFood": "crops",
+        "size": "large"
+      },
+      {
+        "name": "Bichon Frise",
+        "favoriteFood": "crops",
+        "size": "small"
+      },
+      {
+        "name": "Border Collie",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "Bull Terrier",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "Caucasian Shepherd",
+        "favoriteFood": "crops",
+        "size": "large"
+      },
+      {
+        "name": "Chihuahua",
+        "favoriteFood": "crops",
+        "size": "small"
+      },
+      {
+        "name": "Corgi",
+        "favoriteFood": "crops",
+        "size": "small"
+      },
+      {
+        "name": "Country Dog",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "Dachshund",
+        "favoriteFood": "crops",
+        "size": "small"
+      },
+      {
+        "name": "Dalmatian",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "English Bulldog",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "French Bulldog",
+        "favoriteFood": "crops",
+        "size": "small"
+      },
+      {
+        "name": "German Shepherd",
+        "favoriteFood": "crops",
+        "size": "large"
+      },
+      {
+        "name": "Golden Retriever",
+        "favoriteFood": "cropsSpecial",
+        "size": "large"
+      },
+      {
+        "name": "Great Dane",
+        "favoriteFood": "crops",
+        "size": "large"
+      },
+      {
+        "name": "Great Pyrenees",
+        "favoriteFood": "crops",
+        "size": "large"
+      },
+      {
+        "name": "Husky",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "Labrador",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "Maltese",
+        "favoriteFood": "crops",
+        "size": "small"
+      },
+      {
+        "name": "Newfoundland",
+        "favoriteFood": "crops",
+        "size": "large"
+      },
+      {
+        "name": "Papillon",
+        "favoriteFood": "crops",
+        "size": "small"
+      },
+      {
+        "name": "Pomeranian",
+        "favoriteFood": "crops",
+        "size": "small"
+      },
+      {
+        "name": "Rottweiler",
+        "favoriteFood": "crops",
+        "size": "large"
+      },
+      {
+        "name": "Samoyed",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "Schnauzer",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "Shar Pei",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "Shiba Inu",
+        "favoriteFood": "crops",
+        "size": "medium"
+      },
+      {
+        "name": "St. Bernard",
+        "favoriteFood": "crops",
+        "size": "large"
+      },
+      {
+        "name": "Tibetan Mastiff",
+        "favoriteFood": "crops",
+        "size": "large"
+      },
+      {
+        "name": "West Highland Terrier",
+        "favoriteFood": "crops",
+        "size": "small"
+      },
+      {
+        "name": "Yorkshire Terrier",
+        "favoriteFood": "crops",
+        "size": "small"
+      }
+    ]
+  },
+  "wild-animals": {
+    "count": 9,
+    "jsonldNames": [
+      "Home",
+      "Heartopia Wild Animals Guide"
+    ],
+    "items": [
+      {
+        "name": "Alpaca",
+        "text": "AlpacaAmethyst near wooden bridge"
+      },
+      {
+        "name": "Bunny",
+        "text": "BunnyRoad that leads from Art Street into the suburbs where one road diverges into two"
+      },
+      {
+        "name": "Capybara",
+        "text": "CapybaraRuins in the circle area"
+      },
+      {
+        "name": "Deer",
+        "text": "DeerBetween Deer Tower & Spirit Oak Pine Forest"
+      },
+      {
+        "name": "Ferret",
+        "text": "FerretBelow Rosy River near wooden bridge"
+      },
+      {
+        "name": "Fox",
+        "text": "FoxBelow Meadow LakeFavorite Food:🥩🐟🐟Favorite Weather:🌈View on Map"
+      },
+      {
+        "name": "Panda",
+        "text": "PandaJump PuzzleFavorite Food:🎋🍎🌽Favorite Weather:🌧️View on Map"
+      },
+      {
+        "name": "Sea Otter",
+        "text": "Sea OtterFishing Village Square Harbor"
+      }
+    ]
+  },
+  "characters": {
+    "count": 24,
+    "jsonldNames": [
+      "Home",
+      "Heartopia Character Database"
+    ],
+    "items": [
+      {
+        "name": "Vanya",
+        "text": "VanyaFishing MentorBlue-haired fishing expert who visits your home early in the game. Provides your first fishing rod and Hobby Expansion Ticket. In his shop you can find items to display your fish on your plot.Riverside DockView on MapTutorial (after first nap)Teaches Hobby: fishing"
+      },
+      {
+        "name": "Blanc",
+        "text": "BlancGardening MentorMaster of gardening and flowers. In his shop you'll find all sorts of seeds as you level up your Gardening passion. Tip: The bird on his head doesn't move, so use it to gain Birdwatching experience early!Gardening ShopView on MapTutorial (automatic)Teaches Hobby: gardening"
+      },
+      {
+        "name": "Massimo",
+        "text": "MassimoCooking MentorOur chef will teach you the passion of cooking! Just like with gardening, you'll need to cultivate your own produce if you want to cook. In his shop you'll find ingredients, recipes, and furniture. Tip: Cook with several stoves, but don't burn everything!CafeView on MapDeveloper Level 6 + Hobby Expansion TicketTeaches Hobby: cooking"
+      },
+      {
+        "name": "Naniwa",
+        "text": "NaniwaBug Catching MentorThe entomologist at Heartopia will teach you how to make beautiful bubbles to catch insects. His shop has everything for this hobby and terrariums!ForestView on MapDeveloper Level 6 + Hobby Expansion TicketTeaches Hobby: bug_catching"
+      },
+      {
+        "name": "Bailey J",
+        "text": "Bailey JBirdwatching MentorQueen of birdwatching! She'll help you by giving rewards. A shop is also available with binoculars and bird feed!Pet Store (upstairs) / ParkView on MapDeveloper Level 6 + Hobby Expansion TicketTeaches Hobby: birdwatching"
+      },
+      {
+        "name": "Mrs. Joan",
+        "text": "Mrs. JoanPet Care MentorPet shop owner who loves dogs and cats. Check her shop daily for pet food and accessories for our four-legged friends. You'll find what you're looking for, just be patient!Pet StoreView on MapDeveloper Level 12 + Hobby Expansion TicketTeaches Hobby: cat_care"
+      },
+      {
+        "name": "Bob",
+        "text": "BobFurniture MerchantOur grandpa's a handyman! Furniture displays change every Saturday at 6 AM and last for a week. Talk to him to access natural building materials for your plot.Town CenterView on MapTutorial"
+      },
+      {
+        "name": "Annie",
+        "text": "AnnieMusic & Emote ShopMusic and friendship speak to her! Her shop has instruments, emojis, and animations. Tip: New sales every day, take advantage of them!Near starting locationView on MapAvailable from start"
+      },
+      {
+        "name": "Dorothee",
+        "text": "DorotheeFashion Muse / Shoe ShopFashion muse! You'll find the perfect shoes at her shop. The clothing store changes every day, go check it out!TownView on MapAvailable from start"
+      },
+      {
+        "name": "Ka Ching",
+        "text": "Ka ChingCollectibles MerchantSmall shop featuring collectible puzzles!City (near Suburban Lake)View on MapVisit city area"
+      },
+      {
+        "name": "Collector",
+        "text": "CollectorLaunch Shop VendorLaunch shop with items on sale! Clothing, furniture, decorations - there's a little bit of everything!TownView on MapAvailable from start"
+      },
+      {
+        "name": "Doris",
+        "text": "DorisWeather MerchantA special merchant who only appears during specific weather conditions. She sells exclusive items like cake roll recipes, colored sugar, and limited emotes!Varies by weatherView on MapSpecial weather conditions"
+      },
+      {
+        "name": "Albert Jr.",
+        "text": "Albert Jr.Roaming BuyerThanks to this NPC, you can sell just about anything - from extra fish to garden harvest and tons of other things. Gold coins are super important in Heartopia; you'll need a lot of them for furniture and clothes!Roaming in suburbsView on MapRandom encounter"
+      },
+      {
+        "name": "Andrew",
+        "text": "AndrewVehicle MerchantHeartopia biker! Thanks to him you can get around on wheels rather than on foot, and let's not kid ourselves, it's faster!Town (after main quest)View on MapComplete main story quest"
+      },
+      {
+        "name": "Bill",
+        "text": "BillSea Fishing HostIf you want to participate in the Sea Fishing event with friends or strangers, Bill is the one you need to see!Fishing VillageView on MapUnlock fishing hobby"
+      },
+      {
+        "name": "Atara",
+        "text": "AtaraVillage MayorThe village mayor gives us a weekly quest and... that's it! He's not really useful at the moment.Town HallView on MapAvailable from start"
+      },
+      {
+        "name": "Eric",
+        "text": "EricFormer Theme Park ManagerA former theme park manager who hopes to revitalize Onsen Mountain as a tourist attraction. He initiates the 'Astralis in Onsen Mountain' quest where you help relocate moles. Completing his quest unlocks daily Flawless Fluorite farming.Onsen MountainView on MapProgress through Astralis storyline"
+      },
+      {
+        "name": "Patti",
+        "text": "PattiArtist / Forest RangerAn artist who stands guard at the Ranger Station near the forest entrance. She provides an Exploration Guide with tips on locating foraging points and handles Resource Monitoring, tracking wildlife populations and resources. Part of the Astralis storyline where you photograph the forest from her observation deck.Ranger Station (near forest entrance)View on MapVisit forest area"
+      },
+      {
+        "name": "Vernie",
+        "text": "VernieFlower Fields CaretakerThe girl who manages the flower fields and camps on the hill near the windmills. She's part of the Astralis main storyline where she asks you to find two teenagers and play music for them. Also involved in the Treasure Hunt gossip quest, providing hints about the trekking pole location.Flower Fields (hill with windmills)View on MapProgress through Astralis storyline"
+      },
+      {
+        "name": "Will",
+        "text": "WillLighthouse KeeperThe keeper of the lighthouse in Fishing Village. He watches over the coast and guides sailors safely to shore.Fishing Village LighthouseView on MapVisit Fishing Village"
+      },
+      {
+        "name": "About This Database",
+        "text": "About This DatabaseThis Heartopia character database & NPC wiki includes 20 villagers with unlock requirements, locations, hobbies, and loved gifts.Data collected from the community. Gift preferences and unlock requirements are verified in-game. If you find errors, please report them.Each character card shows their location, unlock requirement, hobby they teach, and favorite gifts. Use this guide to build friendships faster!Click \"View on Map\" on any character card to see their location on the interactive map. If the map doesn't locate the character, it means the positioning data is not yet available.Last updated: 2026-01-24"
+      },
+      {
+        "name": "Find NPCs on the Map",
+        "text": "Find NPCs on the MapUse our interactive map to locate all NPCs in the game and see exactly where to find them."
+      },
+      {
+        "name": "Track Your Collection",
+        "text": "Track Your CollectionKeep track of which gifts and items you've discovered for each character. Never forget what you've already found!"
+      },
+      {
+        "name": "Unlock Achievements",
+        "text": "Unlock AchievementsDiscover all achievements related to character relationships and social interactions!"
+      }
+    ]
+  },
+  "achievements": {
+    "count": 56,
+    "jsonldNames": [
+      "Home",
+      "Heartopia Achievement Guide"
+    ],
+    "items": [
+      {
+        "name": "Ace Cat Servant",
+        "howToUnlock": "Reach Level 10 in the Cat Caring Hobby.",
+        "tips": "Be sure to feed, train, and play with your cat each day.Reward TitleCat Lover"
+      },
+      {
+        "name": "Ace Dog Trainer",
+        "howToUnlock": "Reach Level 10 in the Dog Caring Hobby.",
+        "tips": "Be sure to feed, train, and play with your dog each day.Reward TitleDog Pal"
+      },
+      {
+        "name": "Animal Keeper",
+        "howToUnlock": "Discover the favorite food for all eight animal groups.",
+        "tips": "Try various items in your inventory to discover what the animals like. Once discovered, it will show a heart when filling the Trough.Reward TitleDelicious"
+      },
+      {
+        "name": "Animal Neighbor",
+        "howToUnlock": "Reach Level 10 with eight different animal groups.",
+        "tips": "Continue to check Animal Troughs and interact with them daily. Prioritize filling the Trough with their favorite food.Reward TitleNew Neighbor"
+      },
+      {
+        "name": "Beneath the Meteor Shower"
+      },
+      {
+        "name": "Bestseller Author"
+      },
+      {
+        "name": "Bird Whisperer",
+        "howToUnlock": "Reach Level 10 of the Birdwatching Hobby.",
+        "tips": "Participate in Birdwatching Events to boost this quicker.Reward TitleBird Whisperer"
+      },
+      {
+        "name": "Book Collector"
+      },
+      {
+        "name": "Book Reader (Astralis)"
+      },
+      {
+        "name": "Bush Wholesaler"
+      },
+      {
+        "name": "Cloud Walker",
+        "tips": "Participate in Birdwatching Events with more people.Reward TitleSky"
+      },
+      {
+        "name": "Collector",
+        "howToUnlock": "Become an Expert Collector.",
+        "tips": "Open your Collection icon on the Watch to see your current Collector Status. Expert Collector is the highest rank - track your progress with the meter.Reward TitleCollector"
+      },
+      {
+        "name": "D.G. Member",
+        "howToUnlock": "Reach Level 30 of the Developer's Guild.",
+        "tips": "Continue to complete Daily Requests to increase your D.G. Rank.Reward TitleD.G. Member"
+      },
+      {
+        "name": "Decisive Moment",
+        "howToUnlock": "Obtain ten 5-Star Info Cards during a single Birdwatching Event.",
+        "tips": "Increase your Birdwatching Hobby level to increase your odds of 5-Star Cards. Additionally, look for unique actions when Birdwatching.Reward TitleMoment"
+      },
+      {
+        "name": "Doggie Canteen",
+        "howToUnlock": "Feed three Dogs their favorite food.",
+        "tips": "Feed your pet dog their favorite food and avoid going straight for the standard dog food sold at the pet shop.Reward TitleDog Food"
+      },
+      {
+        "name": "Fast and Flawless",
+        "howToUnlock": "Cook two 5-Star dishes within 60 seconds.",
+        "tips": "Increase your Cooking Hobby level to be able to cook 5-Star dishes.Reward TitleKitchen Clock"
+      },
+      {
+        "name": "Fishing Machine",
+        "howToUnlock": "Catch 50 fish that are over 100kg each.",
+        "tips": "This is cumulative, so look for larger shadows while fishing.Reward TitleFish Basket"
+      },
+      {
+        "name": "Five Insects Blessing"
+      },
+      {
+        "name": "Gastronomic Diplomat"
+      },
+      {
+        "name": "Golden Music CD",
+        "howToUnlock": "Max out the Musician Dream.",
+        "tips": "Play, Record, and Publish Music for others to enjoy.Reward TitleMusic"
+      },
+      {
+        "name": "Green Touch",
+        "howToUnlock": "Reach Level 10 in the Gardening Hobby.",
+        "tips": "Ensure you harvest crops as soon as they're ready and re-plant seeds immediately. Don't forget to water when necessary.Reward TitleHorticulturist"
+      },
+      {
+        "name": "Harmony with Breeze"
+      },
+      {
+        "name": "Human Insect Attractor"
+      },
+      {
+        "name": "Ice Elf",
+        "howToUnlock": "Max out the Figure Skating Dream to reach Ice Elf level.",
+        "tips": "Practice figure skating regularly to improve your dream level.Reward TitleIce Skating"
+      },
+      {
+        "name": "Ice Romance"
+      },
+      {
+        "name": "Inflatable Attractor Sharer"
+      },
+      {
+        "name": "Insect Commander"
+      },
+      {
+        "name": "Insect Harvester"
+      },
+      {
+        "name": "Joyful Chorus",
+        "tips": "Participate in Birdwatching Events with more people.Reward TitleFeather"
+      },
+      {
+        "name": "Meow-Meow Canteen",
+        "howToUnlock": "Feed five Cats their favorite food.",
+        "tips": "Feed your pet cat their favorite food and avoid going straight for the standard cat food sold at the pet shop.Reward TitleCat Food"
+      },
+      {
+        "name": "Mystic Fisher",
+        "tips": "Try to organize or participate in Fishing Events with more people for increased chances.Reward TitleFisher"
+      },
+      {
+        "name": "Mystic Tracker"
+      },
+      {
+        "name": "Never Empty-Handed",
+        "howToUnlock": "Reach Level 10 of the Fishing Hobby",
+        "tips": "Participate in Fishing Events to boost this quicker.Reward TitleSkilled Angler"
+      },
+      {
+        "name": "Onsen Buddy"
+      },
+      {
+        "name": "Onsen Mountain Insect King"
+      },
+      {
+        "name": "Persistent Quill",
+        "howToUnlock": "Max out the Writing Dream.",
+        "tips": "Write books using the Writing Desk and publish them for others to read.Reward TitleWriting"
+      },
+      {
+        "name": "Plentiful Harvest",
+        "howToUnlock": "Harvest 5-Star crops while Bonus Harvest is active.",
+        "tips": "Increase your Gardening Hobby rank to increase your odds. The Bonus Harvest event takes place during Rainbow weather.Reward TitleHarvest"
+      },
+      {
+        "name": "Pop Star"
+      },
+      {
+        "name": "Pumpkinarchy",
+        "howToUnlock": "Reach Level Five of the Pumpkin Carving Hobby.",
+        "tips": "Seasonal Hobby that is only available during a limited time of the year.Reward TitlePumpkin Head"
+      },
+      {
+        "name": "Puzzle Artist",
+        "howToUnlock": "Max out the Puzzle Dream.",
+        "tips": "Purchase new puzzles from Ka Ching and complete them.Reward TitlePuzzle"
+      },
+      {
+        "name": "Rainbow Bouquet Volunteer"
+      },
+      {
+        "name": "Rainbow Luck",
+        "tips": "Rainbows are a rare phenomenon, so be sure to check your Watch for the upcoming weather so you don't miss the next Rainbow.Reward TitleRainbow Luck"
+      },
+      {
+        "name": "Repair Expert"
+      },
+      {
+        "name": "Rocket Sponsor",
+        "howToUnlock": "Earn 500,000 Gold by selling items to Albert Jr.",
+        "tips": "Sell high-value items to Albert Jr., like prepared dishes or crafted items.Reward TitleRocket"
+      },
+      {
+        "name": "Sand Sculpture Artist"
+      },
+      {
+        "name": "Sea Fishing Master"
+      },
+      {
+        "name": "Shark Frenzy",
+        "howToUnlock": "Catch three Sharks from Golden Fish Shadows during a single Sea Fishing Event.",
+        "tips": "Continue to increase your Fishing Hobby rank and prioritize golden shadows during Sea Fishing Events.Reward TitleShark Cage"
+      },
+      {
+        "name": "Shoal Caller",
+        "tips": "You can trigger these on a solo trip, but they're more likely to trigger if you have a larger group on a Fishing Event.Reward TitleShoal Caller"
+      },
+      {
+        "name": "Shoal's Blessing",
+        "tips": "Try to organize or participate in Fishing Events with more people for increased chances.Reward TitleBlessing"
+      },
+      {
+        "name": "Snow King",
+        "howToUnlock": "Reach Level Five of the Snow Sculpting Hobby.",
+        "tips": "Seasonal Hobby that is only available during a limited time of the year.Reward TitleSnow King"
+      },
+      {
+        "name": "Stardust Collector",
+        "howToUnlock": "Collect 60 Starfall Shards.",
+        "tips": "Starfall Shards can be collected during Meteor Showers, which you can anticipate by checking the upcoming weather on your Watch.Reward TitleStar Picker"
+      },
+      {
+        "name": "Starlight Fisher",
+        "howToUnlock": "Catch four 5-Star Fish in a single Fishing Event.",
+        "tips": "Increase your Fishing Hobby rank to be able to catch 5-Star Fish.Reward TitleFishing Maniac"
+      },
+      {
+        "name": "Strong Sailor",
+        "howToUnlock": "Catch fish over 100kg twice. Must be consecutive.",
+        "tips": "Prioritize larger shadows while fishing during a Fishing Event.Reward TitleFishing Line"
+      },
+      {
+        "name": "Swarm Commander"
+      },
+      {
+        "name": "Town Cooking Legend",
+        "howToUnlock": "Reach Level 10 in the Cooking Hobby.",
+        "tips": "Experiment with ingredients to make new recipe variations. If you have no new recipes, consider cooking jam or other items that cook quickly.Reward TitleChef"
+      },
+      {
+        "name": "Twin Fish Fortune",
+        "howToUnlock": "Catch two 5-Star fish within one minute.",
+        "tips": "Easier to accomplish during a Fishing Event, but you will need to be ranked higher in the Fishing Hobby.Reward TitleOsprey"
+      }
+    ]
+  },
+  "recipes": {
+    "count": 76,
+    "jsonldNames": [
+      "Bizzare Drink",
+      "Bizarre Food",
+      "Tomato Sauce",
+      "Blueberry Jam",
+      "Raspberry Jam",
+      "Mandarin Jam",
+      "Apple Jam",
+      "Strawberry Jam",
+      "Pineapple Jam",
+      "Grape Jam",
+      "Home",
+      "Heartopia Recipes - Complete Cooking Guide & Recipe List"
+    ],
+    "items": [
+      {
+        "name": "Afternoon Tea",
+        "level": 7,
+        "ingredients": "🍽️(Tiramisu; any fruit/vegetables)",
+        "recipePrice": 3200,
+        "cost": "300-460",
+        "prices": [
+          7101065142028406000
+        ]
+      },
+      {
+        "name": "Apple Jam",
+        "level": 1,
+        "ingredients": "🍎Apple×4Sell Prices27040554010802160Profit+158+405+540+1080+2160Energy Gained+35+42+49+56+70",
+        "prices": [
+          27040554010802160
+        ]
+      },
+      {
+        "name": "Apple Pie",
+        "level": 5,
+        "ingredients": "🍎Apple🌾Wheat🥚Egg🧈Butter",
+        "recipePrice": 1600,
+        "cost": "345",
+        "prices": [
+          7301095146029206000
+        ]
+      },
+      {
+        "name": "Baked Eggplant w/ Meat",
+        "level": 9,
+        "ingredients": "🍆Eggplant🥩Meat🛢️Cooking Oil🥫Jam",
+        "recipePrice": 6400,
+        "cost": "475",
+        "prices": [
+          12301845246049210000
+        ]
+      },
+      {
+        "name": "Bizarre Food",
+        "level": 1,
+        "ingredients": "🍽️Missed Stove Heat Adjust.Sell Prices30Energy Gained+10",
+        "prices": [
+          30
+        ]
+      },
+      {
+        "name": "Bizzare Drink",
+        "level": 1,
+        "ingredients": "🍽️Missed Stove Heat Adjust. & Early CollectSell Prices30Energy Gained10",
+        "prices": [
+          30
+        ]
+      },
+      {
+        "name": "Black Truffle Cream Pasta",
+        "level": 3,
+        "ingredients": "🌰Truffle🌾Wheat×2🥛Milk",
+        "recipePrice": 800,
+        "cost": "719",
+        "prices": [
+          9001350180036007000
+        ]
+      },
+      {
+        "name": "Black Truffle Pie",
+        "level": 1,
+        "ingredients": "🍄Any Mushroom×2🌾Wheat🥚EggCost: 195Sell Prices8301245166033206640Profit+635+1050+1465+3125+6445Energy Gained8096112128160",
+        "cost": "195",
+        "prices": [
+          8301245166033206000
+        ]
+      },
+      {
+        "name": "Blue Roll Cake",
+        "level": 1,
+        "ingredients": "🥚Egg🥛Milk💙Blue Sugar×2Cost: 450Sell Prices570855114022804560Profit+120+405+690+1830+4110Energy Gained+48+58+67+77+96",
+        "cost": "450",
+        "prices": [
+          570855114022804540
+        ]
+      },
+      {
+        "name": "Blueberry Jam",
+        "level": 1,
+        "ingredients": "🔵Blueberry×4Sell Prices1702553406801360Profit+106+191+276+680+1360Energy Gained+22+26+31+35+44",
+        "prices": [
+          1702553406801360
+        ]
+      },
+      {
+        "name": "Button Mushroom Pie",
+        "level": 1,
+        "ingredients": "🍄Any Mushroom×2🌾Wheat🥚EggCost: 195Sell Prices500750100020004000Profit+305+555+805+1805+3805Energy Gained+35+42+49+56+70",
+        "cost": "195",
+        "prices": [
+          500750100020004000
+        ]
+      },
+      {
+        "name": "Candlelight Dinner",
+        "level": 9,
+        "ingredients": "🍽️(House salad, smoked fish bagel, seafood risotto, tiramisu)",
+        "recipePrice": 6400,
+        "cost": "670",
+        "prices": [
+          176026403520704020000
+        ]
+      },
+      {
+        "name": "Carrot Cake",
+        "level": 5,
+        "ingredients": "🥕Carrot×2🌾Wheat🥛Milk",
+        "recipePrice": 1600,
+        "cost": "695",
+        "prices": [
+          8401260168033607000
+        ]
+      },
+      {
+        "name": "Cheese Cake",
+        "level": 2,
+        "ingredients": "🧀Cheese🌾Wheat🥛Milk",
+        "recipePrice": 200,
+        "cost": "435",
+        "prices": [
+          48072096019203840
+        ]
+      },
+      {
+        "name": "Cheese Shrimp Stuffed Crab",
+        "level": 13
+      },
+      {
+        "name": "Chocolate Sauce",
+        "level": 1,
+        "ingredients": "cocoa×4Cost: 440Sell Prices140021002800560011200Profit+960+1660+2360+5160+10760",
+        "cost": "440",
+        "prices": [
+          140021002800560010000
+        ]
+      },
+      {
+        "name": "Coffee",
+        "level": 1,
+        "ingredients": "🟤Coffee Beans×4Cost: 200Sell Prices29043558011602320Profit+90+235+380+960+2120Energy Gained+40+48+56+56+80",
+        "cost": "200",
+        "prices": [
+          29043558011602320
+        ]
+      },
+      {
+        "name": "Coffee Latte",
+        "level": 1,
+        "ingredients": "🟤Coffee Beans×2🥛Milk×2Cost: 200Sell Prices30045060012002400Profit+100+250+400+1000+2200Energy Gained+40+48+56+56+80",
+        "cost": "200",
+        "prices": [
+          30045060012002400
+        ]
+      },
+      {
+        "name": "Corn Soup",
+        "level": 5,
+        "ingredients": "🥛Milk🧈Butter🌽Corn×2",
+        "recipePrice": 1600,
+        "cost": "540",
+        "prices": [
+          134020102680536000000
+        ]
+      },
+      {
+        "name": "Crayfish Sashimi",
+        "level": 8,
+        "ingredients": "🦞Shellfish×3🥬Lettuce",
+        "recipePrice": 3200,
+        "cost": "145",
+        "prices": [
+          8501275170034007000
+        ]
+      },
+      {
+        "name": "Deluxe Seafood Platter",
+        "level": 6,
+        "ingredients": "🦞Shellfish×2🐟Any fish×2",
+        "recipePrice": 1600,
+        "prices": [
+          41061582016403280
+        ]
+      },
+      {
+        "name": "Exquisite Afternoon Tea",
+        "level": 12,
+        "recipePrice": 6400,
+        "cost": "1490",
+        "prices": [
+          2.970445559401188e+21
+        ]
+      },
+      {
+        "name": "Fish N Chips",
+        "level": 1,
+        "ingredients": "🐟Any fish×2🥔Potato×2",
+        "recipePrice": 200,
+        "cost": "280",
+        "prices": [
+          31046562012402480
+        ]
+      },
+      {
+        "name": "Grape Jam",
+        "level": 1,
+        "ingredients": "🍇Grape×4Cost: 640Sell Prices202030304040808016160Profit+1380+2390+3400+8080+15520Energy Gained+40+48+56+64+80",
+        "cost": "640",
+        "prices": [
+          202030304040808020000
+        ]
+      },
+      {
+        "name": "Green Roll Cake",
+        "level": 1,
+        "ingredients": "🥚Egg🥛Milk💚Green Sugar×2Cost: 550Sell Prices6701005134026805360Profit+120+455+790+2130+4810Energy Gained+48+58+67+77+96",
+        "cost": "550",
+        "prices": [
+          6701005134026805000
+        ]
+      },
+      {
+        "name": "Grilled Button Mushroom",
+        "level": 1
+      },
+      {
+        "name": "Grilled Mushrooms",
+        "level": 1,
+        "ingredients": "🍄Any Mushroom×4Cost: 64Sell Prices1802703607201440Profit+180+270+360+720+1440Energy Gained1518212430",
+        "cost": "64",
+        "prices": [
+          1802703607201440
+        ]
+      },
+      {
+        "name": "Grilled Oyster Mushroom",
+        "level": 1
+      },
+      {
+        "name": "Grilled Penny Bun",
+        "level": 1,
+        "ingredients": "🍄Any Mushroom×4Cost: 64Sell Prices1802703607201440Profit+180+270+360+720+1440Energy Gained1518212430",
+        "cost": "64",
+        "prices": [
+          1802703607201440
+        ]
+      },
+      {
+        "name": "Grilled Shiitake Mushroom",
+        "level": 1,
+        "ingredients": "🍄Any Mushroom×4Cost: 64Sell Prices1802703607201440Profit+116+206+296+656+1376Energy Gained+15+18+21+24+30",
+        "cost": "64",
+        "prices": [
+          1802703607201440
+        ]
+      },
+      {
+        "name": "House Salad",
+        "level": 1,
+        "ingredients": "🥕Carrot×2",
+        "recipePrice": 200,
+        "cost": "20",
+        "prices": [
+          90135180360720
+        ]
+      },
+      {
+        "name": "Indigo Roll Cake",
+        "level": 1,
+        "ingredients": "🥚Egg🥛MilkCost: 450Sell Prices570855114022804560Profit+120+405+690+1830+4110Energy Gained+48+58+67+77+96",
+        "cost": "450",
+        "prices": [
+          570855114022804540
+        ]
+      },
+      {
+        "name": "Mandarin Jam",
+        "level": 1,
+        "ingredients": "🍊Mandarin×4Sell Prices27040554010802160Profit+158+405+540+1080+2160Energy Gained+35+42+49+56+70",
+        "prices": [
+          27040554010802160
+        ]
+      },
+      {
+        "name": "Meat Burger",
+        "level": 8,
+        "ingredients": "🌾Wheat🥬Lettuce🥩Meat🥫Jam",
+        "recipePrice": 3200,
+        "cost": "480",
+        "prices": [
+          135020252700540010000
+        ]
+      },
+      {
+        "name": "Meat Sauce Pasta",
+        "level": 4,
+        "ingredients": "🥩Meat🌾Wheat🍅Tomato🧀Cheese",
+        "recipePrice": 800,
+        "cost": "405",
+        "prices": [
+          6701005134026805000
+        ]
+      },
+      {
+        "name": "Mellow Black Tea",
+        "level": 11,
+        "recipePrice": 6400,
+        "cost": "500",
+        "prices": [
+          8401260168033607000
+        ]
+      },
+      {
+        "name": "Milkshake",
+        "level": 11,
+        "recipePrice": 6400
+      },
+      {
+        "name": "Mixed Jam (using apples)",
+        "level": 1,
+        "ingredients": "🍽️Any of the four        🍎🔵🍇🍊🍍🔴🍓🍅",
+        "prices": [
+          1602403206401280
+        ]
+      },
+      {
+        "name": "Mixed Jam (using blueberries)",
+        "level": 1
+      },
+      {
+        "name": "Mixed Jam (using mandarins)",
+        "level": 1
+      },
+      {
+        "name": "Mixed Jam (using raspberries)",
+        "level": 1
+      },
+      {
+        "name": "Mixed Jam (using tomatoes)",
+        "level": 1,
+        "ingredients": "🍽️Any of the four        🍎🔵🍇🍊🍍🔴🍓🍅",
+        "cost": "10",
+        "prices": [
+          1602403206401280
+        ]
+      },
+      {
+        "name": "Mushroom Pie",
+        "level": 1,
+        "ingredients": "🍄Any Mushroom×2🌾Wheat🥚EggCost: 195Sell Prices500750100020004000Profit+305+555+805+1805+3805Energy Gained+35+42+49+56+70",
+        "cost": "195",
+        "prices": [
+          500750100020004000
+        ]
+      },
+      {
+        "name": "Onsen Egg",
+        "level": 1,
+        "cost": "100",
+        "prices": [
+          1301952605201040
+        ]
+      },
+      {
+        "name": "Orange Roll Cake",
+        "level": 1,
+        "ingredients": "🥚Egg🥛Milk🧡Orange Sugar×2Cost: 550Sell Prices6701005134026805360Profit+120+455+790+2130+4810Energy Gained+48+58+67+77+96",
+        "cost": "550",
+        "prices": [
+          6701005134026805000
+        ]
+      },
+      {
+        "name": "Original Roll Cake",
+        "level": 1,
+        "ingredients": "🥚Egg🥛Milk⚪Sugar×2",
+        "recipePrice": 50,
+        "cost": "450",
+        "prices": [
+          550825110022004400
+        ]
+      },
+      {
+        "name": "Oyster Mushroom Pie",
+        "level": 1,
+        "ingredients": "🍄Any Mushroom×2🌾Wheat🥚EggCost: 195Sell Prices500750100020004000Profit+305+555+805+1805+3805Energy Gained+35+42+49+56+70",
+        "cost": "195",
+        "prices": [
+          500750100020004000
+        ]
+      },
+      {
+        "name": "Penny Bun Pie",
+        "level": 1,
+        "ingredients": "🍄Any Mushroom×2🌾Wheat🥚EggCost: 195Sell Prices500750100020004000Profit+305+555+805+1805+3805Energy Gained+35+42+49+56+70",
+        "cost": "195",
+        "prices": [
+          500750100020004000
+        ]
+      },
+      {
+        "name": "Picnic Set",
+        "level": 7,
+        "ingredients": "🍽️(seafood pizza, apple pie, fish n chips, any drink)",
+        "recipePrice": 3200,
+        "cost": "845",
+        "prices": [
+          226033904520904000000
+        ]
+      },
+      {
+        "name": "Pineapple Jam",
+        "level": 1,
+        "ingredients": "🍍Pineapple×4Cost: 60Sell Prices28042056011202240Profit+220+360+500+1060+2180Energy Gained+40+48+56+64+80",
+        "cost": "60",
+        "prices": [
+          28042056011202240
+        ]
+      },
+      {
+        "name": "Raspberry Jam",
+        "level": 1,
+        "prices": [
+          25037550010002000
+        ]
+      },
+      {
+        "name": "Red Roll Cake",
+        "level": 1,
+        "cost": "450",
+        "prices": [
+          6701005134026805000
+        ]
+      },
+      {
+        "name": "Refreshing Green Tea",
+        "level": 12,
+        "recipePrice": 6400,
+        "cost": "50",
+        "prices": [
+          500750100020004000
+        ]
+      },
+      {
+        "name": "Rustic Ratatouille",
+        "level": 3,
+        "ingredients": "🍅Tomato🥔Potato🥬Lettuce",
+        "recipePrice": 800,
+        "cost": "185",
+        "prices": [
+          640960128025605100
+        ]
+      },
+      {
+        "name": "Seafood Pizza",
+        "level": 4,
+        "ingredients": "🧀Cheese🥫Jam🌾Wheat🐟Any fish",
+        "recipePrice": 800,
+        "cost": "240",
+        "prices": [
+          7801170156031206000
+        ]
+      },
+      {
+        "name": "Seafood Risotto",
+        "level": 3,
+        "ingredients": "🦞Shellfish×2🌾Wheat🍅Tomato",
+        "recipePrice": 800,
+        "cost": "105",
+        "prices": [
+          49073598019603920
+        ]
+      },
+      {
+        "name": "Shiitake Pie",
+        "level": 1,
+        "ingredients": "🍄Any Mushroom×2🌾Wheat🥚EggCost: 195Sell Prices500750100020004000Profit+305+555+805+1805+3805Energy Gained+35+42+49+56+70",
+        "cost": "195",
+        "prices": [
+          500750100020004000
+        ]
+      },
+      {
+        "name": "Shrimp Avocado Cup",
+        "level": 13,
+        "recipePrice": 6400,
+        "cost": "360",
+        "prices": [
+          156023403120624000000
+        ]
+      },
+      {
+        "name": "Smoked Fish Bagel",
+        "level": 2,
+        "ingredients": "🐟Any fish🧀Cheese🥕Carrot🌾Wheat",
+        "recipePrice": 200,
+        "cost": "245",
+        "prices": [
+          520780104020804160
+        ]
+      },
+      {
+        "name": "Steamed King Crab",
+        "level": 10,
+        "ingredients": "🦞Shellfish×3🧈Butter",
+        "recipePrice": 6400,
+        "cost": "150",
+        "prices": [
+          199029853980796030000
+        ]
+      },
+      {
+        "name": "Strawberry Jam",
+        "level": 1,
+        "ingredients": "🍓Strawberry×4Cost: 1500Sell Prices158023703160632012640Profit+80+870+1660+4820+11140Energy Gained+40+48+56+56+80",
+        "cost": "1500",
+        "prices": [
+          158023703160632020000
+        ]
+      },
+      {
+        "name": "Tiramisu",
+        "level": 6,
+        "ingredients": "🟤Coffee Beans🥚Egg🥛Milk🧀Cheese",
+        "recipePrice": 1600,
+        "cost": "300",
+        "prices": [
+          530795106021204200
+        ]
+      },
+      {
+        "name": "Tomato Sauce",
+        "level": 1,
+        "ingredients": "🍅Tomato×4Cost: 120Sell Prices1802703607201440Profit+60+230+320+680+1400Energy Gained+35+42+49+56+70",
+        "cost": "120",
+        "prices": [
+          1802703607201440
+        ]
+      },
+      {
+        "name": "Violet Roll Cake",
+        "level": 1,
+        "ingredients": "🥚Egg🥛Milk💜Violet Sugar×2Cost: 450Sell Prices570855114022804560Profit+120+405+690+1830+4110Energy Gained+48+58+67+77+96",
+        "cost": "450",
+        "prices": [
+          570855114022804540
+        ]
+      },
+      {
+        "name": "Winter Frost Season: Apple Frosted Pancake",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Aurora Banquet",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Blueberry Frosted Pancake",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Creamy White Radish Soup",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Iced Coffee",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Iced Latte",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Mandarin Frosted Pancake",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Original Frosted Pancake",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Raspberry Frosted Pancake",
+        "level": 1
+      },
+      {
+        "name": "Winter Frost Season: Steak w/ Mashed White Radish",
+        "level": 1
+      },
+      {
+        "name": "Yellow Roll Cake",
+        "level": 1,
+        "ingredients": "🥚Egg🥛Milk💛Yellow Sugar×2Cost: 450Sell Prices6701005134026805360Profit+220+555+890+2230+4910Energy Gained+48+58+67+77+96",
+        "cost": "450",
+        "prices": [
+          6701005134026805000
+        ]
+      },
+      {
+        "name": "About This Database"
+      }
+    ]
+  },
+  "songs": {
+    "count": 26,
+    "jsonldNames": [
+      "Twinkle Twinkle Little Star",
+      "Ode to Joy",
+      "River Flows In You",
+      "A Thousand Years",
+      "Canon in D",
+      "My Heart Will Go On",
+      "Perfect",
+      "Golden Hour",
+      "Hallelujah",
+      "Sparkle",
+      "Home",
+      "Heartopia Piano Notes & Sheet Music"
+    ],
+    "items": [
+      {
+        "name": "Twinkle Twinkle Little Star",
+        "text": "Twinkle Twinkle Little StarTraditional"
+      },
+      {
+        "name": "Ode to Joy",
+        "text": "Ode to JoyBeethovenClassic108 BPMPianoLuteTap to view sheet music"
+      },
+      {
+        "name": "River Flows In You",
+        "text": "River Flows In YouYirumaPop68 BPMPianoTap to view sheet music"
+      },
+      {
+        "name": "A Thousand Years",
+        "text": "A Thousand YearsChristina Perri"
+      },
+      {
+        "name": "Canon in D",
+        "text": "Canon in DPachelbelClassic72 BPMPianoLuteTap to view sheet music"
+      },
+      {
+        "name": "My Heart Will Go On",
+        "text": "My Heart Will Go OnCeline DionPop100 BPMPianoLuteTap to view sheet music"
+      },
+      {
+        "name": "Perfect",
+        "text": "PerfectEd SheeranPop63 BPMPianoLuteTap to view sheet music"
+      },
+      {
+        "name": "Golden Hour",
+        "text": "Golden HourJVKEPop98 BPMPianoTap to view sheet music"
+      },
+      {
+        "name": "Hallelujah",
+        "text": "HallelujahLeonard CohenPop56 BPMPianoLuteTap to view sheet music"
+      },
+      {
+        "name": "Sparkle",
+        "text": "SparkleRADWIMPSAnime78 BPMPianoTap to view sheet music"
+      },
+      {
+        "name": "Happy Birthday",
+        "text": "Happy BirthdayTraditionalFolk100 BPMPianoLuteTap to view sheet music"
+      },
+      {
+        "name": "Für Elise",
+        "text": "Für EliseBeethovenClassic72 BPMPianoTap to view sheet music"
+      },
+      {
+        "name": "Megalovania",
+        "text": "MegalovaniaToby FoxGame OST120 BPMPianoTap to view sheet music"
+      },
+      {
+        "name": "Merry-Go-Round of Life",
+        "text": "Merry-Go-Round of LifeJoe Hisaishi"
+      },
+      {
+        "name": "Hedwig's Theme",
+        "text": "Hedwig's ThemeJohn WilliamsClassic78 BPMPianoTap to view sheet music"
+      },
+      {
+        "name": "Super Mario Bros Theme",
+        "text": "Super Mario Bros ThemeKoji Kondo"
+      },
+      {
+        "name": "See You Again",
+        "text": "See You AgainWiz Khalifa ft. Charlie Puth"
+      },
+      {
+        "name": "Gurenge (紅蓮華)",
+        "text": "Gurenge (紅蓮華)LiSAAnime136 BPMPianoTap to view sheet music"
+      },
+      {
+        "name": "Animal Crossing Main Theme",
+        "text": "Animal Crossing Main ThemeKazumi Totaka"
+      },
+      {
+        "name": "Let It Go",
+        "text": "Let It GoIdina MenzelPop68 BPMPianoLuteTap to view sheet music"
+      },
+      {
+        "name": "Unravel",
+        "text": "UnravelTK from Ling Tosite Sigure"
+      },
+      {
+        "name": "Moonlight Sonata",
+        "text": "Moonlight SonataBeethovenClassic56 BPMPianoTap to view sheet music"
+      },
+      {
+        "name": "Yesterday",
+        "text": "YesterdayThe BeatlesPop96 BPMPianoLuteTap to view sheet music"
+      },
+      {
+        "name": "Counting Stars",
+        "text": "Counting StarsOneRepublicPop122 BPMPianoTap to view sheet music"
+      },
+      {
+        "name": "Spring (Vivaldi)",
+        "text": "Spring (Vivaldi)VivaldiClassic120 BPMPianoTap to view sheet music"
+      },
+      {
+        "name": "PC Keyboard Mapping",
+        "text": "PC Keyboard MappingHigh OctaveQ1W2E3R4T5Y6U7I1Middle OctaveA1S2D3F4G5H6J7Low OctaveZ1X2C3V4B5N6M7"
+      }
+    ]
+  }
+}

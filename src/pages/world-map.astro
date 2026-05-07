@@ -1,0 +1,92 @@
+---
+import Layout from "../layouts/Layout.astro";
+
+const title = "Heartopia Interactive Map — All Locations, NPCs, Fish & More";
+const description = "Interactive Heartopia world map with 300+ markers. Find all NPCs, fish, insects, birds, resources, shops, bus stops and more. Mobile-friendly with real-time search.";
+---
+
+<Layout
+  title={title}
+  description={description}
+  ogType="website"
+  hideLangSwitcher={true}
+  schema={{
+    "@type": "WebApplication",
+    name: "Heartopia Interactive Map",
+    description: description,
+    applicationCategory: "GameApplication",
+  }}
+>
+  <article class="max-w-6xl mx-auto px-4 py-8">
+    <header class="mb-6">
+      <p class="text-pink-400 text-sm font-medium mb-2">Interactive Map</p>
+      <h1 class="text-3xl md:text-4xl font-bold mb-2">Heartopia Interactive Map</h1>
+      <p class="text-gray-400 max-w-2xl">{description}</p>
+    </header>
+
+    <div class="relative w-full rounded-2xl overflow-hidden border border-gray-800 bg-black"
+         style="height: calc(100vh - 280px); min-height: 600px;">
+      <iframe
+        src="https://webresources.cc/heartopia/en.html"
+        class="w-full h-full border-0"
+        title="Heartopia Interactive Map"
+        allow="fullscreen"
+        loading="lazy"
+      ></iframe>
+    </div>
+
+    <div class="mt-10 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+      <div class="bg-gray-900/50 border border-gray-800 rounded-xl p-5">
+        <h3 class="text-lg font-semibold mb-2">High-res Map</h3>
+        <p class="text-gray-400 text-sm">Full Heartopia world map with smooth pan and zoom controls.</p>
+      </div>
+      <div class="bg-gray-900/50 border border-gray-800 rounded-xl p-5">
+        <h3 class="text-lg font-semibold mb-2">300+ Markers</h3>
+        <p class="text-gray-400 text-sm">NPCs, animals, bus stops, shops, locations, resources, fish, insects, and birds.</p>
+      </div>
+      <div class="bg-gray-900/50 border border-gray-800 rounded-xl p-5">
+        <h3 class="text-lg font-semibold mb-2">Real-time Search</h3>
+        <p class="text-gray-400 text-sm">Type to find any marker instantly. Results grouped by category.</p>
+      </div>
+      <div class="bg-gray-900/50 border border-gray-800 rounded-xl p-5">
+        <h3 class="text-lg font-semibold mb-2">Multi-level Zoom</h3>
+        <p class="text-gray-400 text-sm">4 zoom levels with custom controls for detailed exploration.</p>
+      </div>
+      <div class="bg-gray-900/50 border border-gray-800 rounded-xl p-5">
+        <h3 class="text-lg font-semibold mb-2">Mobile Optimized</h3>
+        <p class="text-gray-400 text-sm">Touch gestures, responsive layout, and mobile-friendly controls.</p>
+      </div>
+      <div class="bg-gray-900/50 border border-gray-800 rounded-xl p-5">
+        <h3 class="text-lg font-semibold mb-2">Custom Markers</h3>
+        <p class="text-gray-400 text-sm">Right-click or long-press to create personal markers saved in your browser.</p>
+      </div>
+    </div>
+
+    <div class="mt-12 prose prose-invert prose-pink max-w-none">
+      <h2>How to Use the Map</h2>
+      <ul>
+        <li>Use the <strong>search bar</strong> to find any NPC, location, resource, or creature. Results are grouped by category.</li>
+        <li>Use the <strong>sidebar menu</strong> to toggle marker categories. Click any item to fly to its location.</li>
+        <li><strong>Right-click</strong> (or long-press on mobile) to create personal markers saved in your browser.</li>
+        <li>Click <strong>Fish, Insects, or Birds</strong> to view detailed catch guides with location, level, weather, and time conditions.</li>
+        <li>Toggle individual resource types (berries, fruits, mushrooms, trees, stones) using the checkboxes.</li>
+      </ul>
+
+      <h2>Marker Categories</h2>
+      <table>
+        <thead><tr><th>Category</th><th>Count</th><th>Details</th></tr></thead>
+        <tbody>
+          <tr><td>NPCs</td><td>20</td><td>All NPCs with detailed info (role, shop items, gifts)</td></tr>
+          <tr><td>Animals</td><td>8</td><td>Wild animals with location, food & weather preferences</td></tr>
+          <tr><td>Bus Stops</td><td>8</td><td>Fast travel points across the map</td></tr>
+          <tr><td>Shops</td><td>4</td><td>Clothing, Furniture, Pets, Bookstore</td></tr>
+          <tr><td>Locations</td><td>34</td><td>Towns, landmarks, and water bodies</td></tr>
+          <tr><td>Resources</td><td>11</td><td>Berries, fruits, mushrooms, trees, stones</td></tr>
+          <tr><td>Fish</td><td>83</td><td>Complete fish database with catch conditions</td></tr>
+          <tr><td>Insects</td><td>62</td><td>Bug catching guide with spawn conditions</td></tr>
+          <tr><td>Birds</td><td>81</td><td>Birdwatching guide with appearance times</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </article>
+</Layout>

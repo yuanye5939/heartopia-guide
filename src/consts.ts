@@ -26,6 +26,11 @@ export const NAV = [
   { label: "Resources", href: "/resources" },
   { label: "Hobbies", href: "/hobbies" },
   { label: "Crafting", href: "/crafting" },
+  { label: "World Map", href: "/world-map" },
+  { label: "Fish Guide", href: "/fish" },
+  { label: "Bugs Guide", href: "/bugs" },
+  { label: "Birds Guide", href: "/birds" },
+  { label: "Recipes", href: "/recipes" },
 ];
 
 export const MODULES = [
@@ -87,6 +92,84 @@ export const MODULES = [
     title: "Multiplayer",
     href: "/multiplayer",
     description: "Friends system, Coffee Umbrella social spots, cross-platform play, and co-building explained.",
+    priority: "P3",
+  },
+  {
+    title: "World Map",
+    href: "/world-map",
+    description: "Interactive Heartopia map with 300+ markers. Find all NPCs, fish, insects, birds, resources, shops, and bus stops.",
+    priority: "P0",
+  },
+  {
+    title: "Fish Guide",
+    href: "/fish",
+    description: "All 90 fish species with locations, levels, shadow sizes, weather conditions, time slots, and sell prices.",
+    priority: "P1",
+  },
+  {
+    title: "Bugs Guide",
+    href: "/bugs",
+    description: "All 69 insect species with spawn locations, levels, weather conditions, time slots, and sell prices.",
+    priority: "P1",
+  },
+  {
+    title: "Birds Guide",
+    href: "/birds",
+    description: "All 66 bird species with locations, levels, weather conditions, time slots, and sell prices.",
+    priority: "P1",
+  },
+  {
+    title: "Crops Guide",
+    href: "/crops",
+    description: "All 14 crops with gardening levels, growth times, seed prices, and sell prices by star rating.",
+    priority: "P1",
+  },
+  {
+    title: "Flowers Guide",
+    href: "/flowers",
+    description: "All 14 flower varieties with gardening levels, seed prices, and sell prices.",
+    priority: "P2",
+  },
+  {
+    title: "Forageables Guide",
+    href: "/forageables",
+    description: "All 27 wild forage items with sell prices, energy values, and locations.",
+    priority: "P2",
+  },
+  {
+    title: "Cats Guide",
+    href: "/pets-cats",
+    description: "All 18 cat breeds with favorite foods, sizes, and care tips.",
+    priority: "P2",
+  },
+  {
+    title: "Dogs Guide",
+    href: "/pets-dogs",
+    description: "All 34 dog breeds with favorite foods, sizes, and care tips.",
+    priority: "P2",
+  },
+  {
+    title: "Wild Animals Guide",
+    href: "/wild-animals",
+    description: "All 8 wild animal species with locations, favorite foods, and weather preferences.",
+    priority: "P2",
+  },
+  {
+    title: "Achievements Guide",
+    href: "/achievements",
+    description: "All 56 achievements with unlock conditions, tips, and reward titles.",
+    priority: "P2",
+  },
+  {
+    title: "Recipes Guide",
+    href: "/recipes",
+    description: "All 76 cooking recipes with ingredients, cooking levels, sell prices, and profit calculations.",
+    priority: "P1",
+  },
+  {
+    title: "Songs Guide",
+    href: "/songs",
+    description: "All 26 music sheets with song names and origins.",
     priority: "P3",
   },
 ];
