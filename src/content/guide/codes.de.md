@@ -29,12 +29,13 @@ Moonlight Crystals sind die Premium-Gacha-Währung. Diese Codes bieten den meist
 
 | Code | Belohnungen | Status |
 | --- | --- | --- |
-| `specialgift0103` | 100 Moonlight Crystals | Aktiv |
-| `heartopia0108` | 100 Moonlight Crystals | Aktiv |
-| `mylittlepony` | 100 Moonlight Crystals | Aktiv |
-| `makeawish` | 50 Moonlight Crystals | Aktiv |
-| `happy2026` | 10 Moonlight Crystals + 8.888 Gold | Aktiv |
-| `SPRINGFEST2026` | 10 Moonlight Crystals + 8.888 Gold | Aktiv |
+| `makeawish` | 50x Moonlight Crystals | Aktiv |
+| `specialgift0103` | 100x Moonlight Crystals | Abgelaufen |
+| `heartopia0108` | 100x Moonlight Crystals | Abgelaufen |
+| `mylittlepony` | 100x Moonlight Crystals | Abgelaufen |
+| `happy2026` | 10x Moonlight Crystals, 8888 Gold | Abgelaufen |
+| `SPRINGFEST2026` | 10x Moonlight Crystals, 8888 Gold | Abgelaufen |
+
 
 ---
 
@@ -42,16 +43,31 @@ Moonlight Crystals sind die Premium-Gacha-Währung. Diese Codes bieten den meist
 
 | Code | Belohnungen | Status |
 | --- | --- | --- |
-| `letsbuild` | 15 Wishing Stars + 5.000 Gold + 10 Dünger | Aktiv |
-| `letsdressup` | 15 Wishing Stars + 5.000 Gold + 10 Wachstumsbooster | Aktiv |
-| `letsparty` | 15 Wishing Stars + 5.000 Gold + 3 Reparatursets | Aktiv |
-| `heartopia10m` | 10 Wishing Stars | Aktiv |
-| `heartopia5m` | 10 Wishing Stars | Aktiv |
-| `lifewithline` | 10 Wishing Stars | Aktiv |
-| `dcthx4u` | 10 Wishing Stars | Aktiv |
-| `keepsmiling2026` | 5 Wishing Stars + 3 Meerjungfrauen-Fischlockstoffe + 10 Dünger | Aktiv |
-| `top1thanks` | 5 Wishing Stars + 2 Meerjungfrauen-Parfüms + 10 Mandarinen | Aktiv |
-| `tangyuan0303y` | 5 Wishing Stars + 10 Äpfel + 10 Dünger | Aktiv |
+| `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Aktiv |
+| `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | Aktiv |
+| `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Aktiv |
+| `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Aktiv |
+| `m5r9q2a7k8` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Aktiv |
+| `letsbuild` | 15x Wishing Stars, 5000 Gold, 10x Fertilizer | Abgelaufen |
+| `letsdressup` | 15x Wishing Stars, 5000 Gold, 10x Growth Boosters | Abgelaufen |
+| `letsparty` | 15x Wishing Stars, 5000 Gold, 3x Repair Kits | Abgelaufen |
+| `heartopia10m` | 10x Wishing Stars | Abgelaufen |
+| `heartopia5m` | 10x Wishing Stars | Abgelaufen |
+| `lifewithline` | 10x Wishing Stars | Abgelaufen |
+| `dcthx4u` | 10x Wishing Stars | Abgelaufen |
+| `top1thanks` | 5x Wishing Stars, 2x Mermaid Perfume, 10x Mandarins | Abgelaufen |
+| `tangyuan0303y` | 5x Wishing Stars, 10x Apples, 10x Fertilizer | Abgelaufen |
+| `n5q7m9l2a4` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Abgelaufen |
+| `p7a9k2m6r8` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Abgelaufen |
+| `x8r2m9q5l7` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Abgelaufen |
+| `q6p9m4a7k` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Abgelaufen |
+| `a9l5k7m2r8` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Abgelaufen |
+| `r4p8n6m2q9` | 10x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Abgelaufen |
+| `k7m9q2a8l5` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Abgelaufen |
+| `r4a8x2n` | 5x Wishing Stars, 10x Growth Boosters, 10x Oranges | Abgelaufen |
+| `x2l8k6p` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | Abgelaufen |
+| `a7k9m2q8l` | 5x Wishing Stars, 3x Repair Kits, 10x Blueberries | Abgelaufen |
+
 
 ---
 
@@ -59,12 +75,15 @@ Moonlight Crystals sind die Premium-Gacha-Währung. Diese Codes bieten den meist
 
 | Code | Belohnungen | Status |
 | --- | --- | --- |
-| `heartopiaplaytime` | 10 Steine + 6 Rare Timber + 2 Flawless Fluorite | Aktiv |
-| `b8n2k5l` | 2 Flawless Fluorite + 6 Rare Timber + 10 Steine | Aktiv |
-| `true5mthks` | 10 Quality Timber + 2 Koch-Spezialsalate + 20 Zweige | Aktiv |
-| `z4p6n8r2` | 10 Quality Timber + 2 Koch-Spezialsalate + 20 Zweige | Aktiv |
-| `m7r9q4a` | 2 Meerjungfrauen-Parfüms + 10.000 Gold + 10 Eier | Aktiv |
-| `withu2026heartopia` | 3 Reparatursets + 5.000 Gold + 2 Meerjungfrauen-Parfüms | Aktiv |
+| `heartopiaplaytime` | 10x Stones, 6x Rare Timbers, 2x Flawless Fluorites | Aktiv |
+| `withu2026heartopia` | 3x Repair Kits, 5000 Gold, 2x Mermaid Perfumes | Aktiv |
+| `b8n2k5l` | 2x Flawless Fluorite, 6x Rare Timber, 10x Stone | Abgelaufen |
+| `true5mthks` | 10x Quality Timber, 2x Chef's Special Salad, 20x Branches | Abgelaufen |
+| `z4p6n8r2` | 10x Quality Timber, 2x Chef's Special Salad, 20x Branches | Abgelaufen |
+| `m7r9q4a` | 2x Mermaid Perfume, 10000 Gold, 10x Eggs | Abgelaufen |
+| `38bloom2026` | 2x Mermaid Fish Attractors, 10x Eggs, 10000 Gold | Abgelaufen |
+| `h9q3a7m5` | 2x Roaming Oak Timber, 10x Milk, 10x Timber | Abgelaufen |
+
 
 ---
 
@@ -72,9 +91,9 @@ Moonlight Crystals sind die Premium-Gacha-Währung. Diese Codes bieten den meist
 
 | Code | Belohnungen | Status |
 | --- | --- | --- |
-| `love214` | 5 Snowfeather Roses + 2 Bunte Wunderkerzen + 1 Buntes Kaltes Feuerwerk | Aktiv |
-| `sweetgift314u` | 5 Snowfeather Roses + 2 Bunte Wunderkerzen + 1 Buntes Kaltes Feuerwerk | Aktiv |
-| `q4m8n6a3r1` | 5 Reparatursets + 3 Wishing Stars + 10 Wachstumsbooster | Aktiv |
+| `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Aktiv |
+| `love214` | 5x Snowfeather Roses, 2x Colorful Sparklers (Pink), 2x Colorful Cold Fireworks (Pink) | Abgelaufen |
+
 
 ---
 
@@ -86,5 +105,5 @@ Moonlight Crystals sind die Premium-Gacha-Währung. Diese Codes bieten den meist
 - **Codes sind einmalig pro Konto** — du kannst einen Code nicht auf demselben Profil wiederverwenden
 - **Einige Codes könnten abgelaufen sein** — wenn ein Code nicht funktioniert, ist er möglicherweise abgelaufen, seit diese Seite zuletzt aktualisiert wurde. Überprüfe das Datum unten.
 
-> **Zuletzt aktualisiert:** 7. Mai 2026. Codes können jederzeit ablaufen. Wenn ein Code nicht funktioniert, bitte [melde es](https://discord.gg/heartopia).  
-> **Last checked:** 2026-05-07 — automated scan every 6 hours. im offiziellen Discord.
+> **Zuletzt aktualisiert:** 7. Mai 2026. Codes können jederzeit ablaufen. Wenn ein Code nicht funktioniert, bitte [melde es](https://discord.gg/heartopia).    
+> **Last checked:** 2026-05-07 — synced from heartopia.live every 6 hours.

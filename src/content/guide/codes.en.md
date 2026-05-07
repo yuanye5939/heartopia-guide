@@ -28,12 +28,13 @@ Moonlight Crystals are the premium gacha currency. These codes give the most val
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `specialgift0103` | 100 Moonlight Crystals | Active |
-| `heartopia0108` | 100 Moonlight Crystals | Active |
-| `mylittlepony` | 100 Moonlight Crystals | Active |
-| `makeawish` | 50 Moonlight Crystals | Active |
-| `happy2026` | 10 Moonlight Crystals + 8,888 Gold | Active |
-| `SPRINGFEST2026` | 10 Moonlight Crystals + 8,888 Gold | Active |
+| `makeawish` | 50x Moonlight Crystals | Active |
+| `SPRINGFEST2026` | 10x Moonlight Crystals, 8888 Gold | Expired |
+| `happy2026` | 10x Moonlight Crystals, 8888 Gold | Expired |
+| `specialgift0103` | 100x Moonlight Crystals | Expired |
+| `heartopia0108` | 100x Moonlight Crystals | Expired |
+| `mylittlepony` | 100x Moonlight Crystals | Expired |
+
 
 ---
 
@@ -41,16 +42,31 @@ Moonlight Crystals are the premium gacha currency. These codes give the most val
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `letsbuild` | 15 Wishing Stars + 5,000 Gold + 10 Fertilizer | Active |
-| `letsdressup` | 15 Wishing Stars + 5,000 Gold + 10 Growth Boosters | Active |
-| `letsparty` | 15 Wishing Stars + 5,000 Gold + 3 Repair Kits | Active |
-| `heartopia10m` | 10 Wishing Stars | Active |
-| `heartopia5m` | 10 Wishing Stars | Active |
-| `lifewithline` | 10 Wishing Stars | Active |
-| `dcthx4u` | 10 Wishing Stars | Active |
-| `keepsmiling2026` | 5 Wishing Stars + 3 Mermaid Fish Attractors + 10 Fertilizer | Active |
-| `top1thanks` | 5 Wishing Stars + 2 Mermaid Perfumes + 10 Mandarins | Active |
-| `tangyuan0303y` | 5 Wishing Stars + 10 Apples + 10 Fertilizer | Active |
+| `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Active |
+| `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Active |
+| `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Active |
+| `m5r9q2a7k8` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Active |
+| `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | Active |
+| `tangyuan0303y` | 5x Wishing Stars, 10x Apples, 10x Fertilizer | Expired |
+| `n5q7m9l2a4` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expired |
+| `p7a9k2m6r8` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expired |
+| `x8r2m9q5l7` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expired |
+| `q6p9m4a7k` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expired |
+| `a9l5k7m2r8` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expired |
+| `r4p8n6m2q9` | 10x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expired |
+| `heartopia10m` | 10x Wishing Stars | Expired |
+| `lifewithline` | 10x Wishing Stars | Expired |
+| `k7m9q2a8l5` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expired |
+| `heartopia5m` | 10x Wishing Stars | Expired |
+| `top1thanks` | 5x Wishing Stars, 2x Mermaid Perfume, 10x Mandarins | Expired |
+| `r4a8x2n` | 5x Wishing Stars, 10x Growth Boosters, 10x Oranges | Expired |
+| `letsparty` | 15x Wishing Stars, 5000 Gold, 3x Repair Kits | Expired |
+| `dcthx4u` | 10x Wishing Stars | Expired |
+| `x2l8k6p` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | Expired |
+| `letsbuild` | 15x Wishing Stars, 5000 Gold, 10x Fertilizer | Expired |
+| `letsdressup` | 15x Wishing Stars, 5000 Gold, 10x Growth Boosters | Expired |
+| `a7k9m2q8l` | 5x Wishing Stars, 3x Repair Kits, 10x Blueberries | Expired |
+
 
 ---
 
@@ -58,12 +74,15 @@ Moonlight Crystals are the premium gacha currency. These codes give the most val
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `heartopiaplaytime` | 10 Stones + 6 Rare Timber + 2 Flawless Fluorite | Active |
-| `b8n2k5l` | 2 Flawless Fluorite + 6 Rare Timber + 10 Stone | Active |
-| `true5mthks` | 10 Quality Timber + 2 Chef's Special Salads + 20 Branches | Active |
-| `z4p6n8r2` | 10 Quality Timber + 2 Chef's Special Salads + 20 Branches | Active |
-| `m7r9q4a` | 2 Mermaid Perfumes + 10,000 Gold + 10 Eggs | Active |
-| `withu2026heartopia` | 3 Repair Kits + 5,000 Gold + 2 Mermaid Perfumes | Active |
+| `heartopiaplaytime` | 10x Stones, 6x Rare Timbers, 2x Flawless Fluorites | Active |
+| `withu2026heartopia` | 3x Repair Kits, 5000 Gold, 2x Mermaid Perfumes | Active |
+| `38bloom2026` | 2x Mermaid Fish Attractors, 10x Eggs, 10000 Gold | Expired |
+| `true5mthks` | 10x Quality Timber, 2x Chef's Special Salad, 20x Branches | Expired |
+| `b8n2k5l` | 2x Flawless Fluorite, 6x Rare Timber, 10x Stone | Expired |
+| `m7r9q4a` | 2x Mermaid Perfume, 10000 Gold, 10x Eggs | Expired |
+| `h9q3a7m5` | 2x Roaming Oak Timber, 10x Milk, 10x Timber | Expired |
+| `z4p6n8r2` | 10x Quality Timber, 2x Chef's Special Salad, 20x Branches | Expired |
+
 
 ---
 
@@ -71,9 +90,9 @@ Moonlight Crystals are the premium gacha currency. These codes give the most val
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `love214` | 5 Snowfeather Roses + 2 Colorful Sparklers + 1 Colorful Cold Firework | Active |
-| `sweetgift314u` | 5 Snowfeather Roses + 2 Colorful Sparklers + 1 Colorful Cold Firework | Active |
-| `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | Active |
+| `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Active |
+| `love214` | 5x Snowfeather Roses, 2x Colorful Sparklers (Pink), 2x Colorful Cold Fireworks (Pink) | Expired |
+
 
 ---
 
