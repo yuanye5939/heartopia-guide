@@ -9,13 +9,6 @@ const t = getUIStrings(lang);
 const prefix = lang === "en" ? "" : `/${lang}`;
 
 const moduleKeys = ["beginnerGuide", "codes", "walkthrough", "characters", "resources", "hobbies", "crafting", "building", "events", "multiplayer"] as const;
-const priorities: Record<string, number> = {
-  beginnerGuide: 0, codes: 0, walkthrough: 0,
-  characters: 1, resources: 1,
-  hobbies: 2, crafting: 2,
-  building: 3, events: 3, multiplayer: 3,
-};
-const sortedModules = [...moduleKeys].sort((a, b) => (priorities[a] ?? 9) - (priorities[b] ?? 9));
 ---
 
 <section class="py-16 md:py-24 text-center">
@@ -29,18 +22,125 @@ const sortedModules = [...moduleKeys].sort((a, b) => (priorities[a] ?? 9) - (pri
   </div>
 </section>
 
-<section class="max-w-6xl mx-auto px-4 pb-20">
-  <h2 class="text-2xl font-bold mb-8 text-center">{t.home.allGuides}</h2>
-  <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-    {sortedModules.map((key) => {
-      const mod = t.modules[key]; const pri = priorities[key];
+<section class="max-w-5xl mx-auto px-4 pb-20">
+  <h2 class="text-2xl font-bold mb-10 text-center">{t.home.allGuides}</h2>
+  <div class="grid gap-4 sm:grid-cols-2">
+    {moduleKeys.map((key) => {
+      const mod = t.modules[key];
       return (
-        <a href={`${prefix}/${key === "beginnerGuide" ? "beginner-guide" : key}`} class="block p-6 bg-gray-900 border border-gray-800 rounded-xl hover:border-pink-600/50 hover:bg-gray-900/80 transition-all group">
-          <div class="flex items-center justify-between mb-2">
-            <h3 class="font-semibold text-lg group-hover:text-pink-400 transition-colors">{mod.title}</h3>
-            <span class={`text-xs px-2 py-0.5 rounded font-medium ${pri===0?"bg-pink-600/20 text-pink-400":pri===1?"bg-amber-600/20 text-amber-400":pri===2?"bg-blue-600/20 text-blue-400":"bg-gray-600/20 text-gray-400"}`}>P{pri}</span>
+        <a href={`${prefix}/${key === "beginnerGuide" ? "beginner-guide" : key}`} class="group flex items-start gap-5 p-5 bg-gray-900 border border-gray-800 rounded-2xl hover:border-pink-600/40 hover:bg-gray-900/80 transition-all duration-200">
+          <div class="shrink-0 w-[72px] h-[72px] rounded-2xl flex items-center justify-center icon-{key}">
+            {key === "beginnerGuide" && (
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="18" fill="#d1fae5" stroke="#6ee7b7" stroke-width="2"/>
+                <path d="M20 6l1.5 5.5 5.5 1-4 3.5 1 5.5-4-3-4 3 1-5.5-4-3.5 5.5-1z" fill="#10b981" stroke="#059669" stroke-width="1" stroke-linejoin="round"/>
+                <circle cx="28" cy="10" r="2.5" fill="#fbbf24" stroke="#f59e0b" stroke-width="1"/>
+                <circle cx="10" cy="30" r="1.5" fill="#fbbf24" stroke="#f59e0b" stroke-width="0.8"/>
+              </svg>
+            )}
+            {key === "codes" && (
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="18" fill="#fef3c7" stroke="#fcd34d" stroke-width="2"/>
+                <rect x="9" y="16" width="22" height="17" rx="3" fill="#f59e0b" stroke="#d97706" stroke-width="1.2"/>
+                <rect x="6" y="12" width="28" height="7" rx="2" fill="#fbbf24" stroke="#f59e0b" stroke-width="1.2"/>
+                <path d="M20 12v21" stroke="#d97706" stroke-width="1.5" stroke-linecap="round"/>
+                <path d="M13 14l1-5M27 14l-1-5" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+                <circle cx="20" cy="12" r="2.5" fill="#fef3c7" stroke="#f59e0b" stroke-width="1"/>
+              </svg>
+            )}
+            {key === "walkthrough" && (
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="18" fill="#ede9fe" stroke="#c4b5fd" stroke-width="2"/>
+                <rect x="9" y="8" width="18" height="20" rx="2" fill="#8b5cf6" stroke="#7c3aed" stroke-width="1.2"/>
+                <path d="M18 8v-2a1 1 0 011-1h2a1 1 0 011 1v2" fill="#c4b5fd" stroke="#7c3aed" stroke-width="1.2" stroke-linecap="round"/>
+                <circle cx="22" cy="16" r="3.5" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.2"/>
+                <path d="M22 19.5v3l2 2M14 14l-2-2M14 14v4M14 14l2-2" stroke="#a78bfa" stroke-width="1.5" stroke-linecap="round"/>
+                <path d="M27 8h5l-4 4h4" stroke="#c4b5fd" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            )}
+            {key === "characters" && (
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="18" fill="#fce7f3" stroke="#f9a8d4" stroke-width="2"/>
+                <circle cx="15" cy="13" r="4" fill="#ec4899" stroke="#db2777" stroke-width="1.2"/>
+                <path d="M7 30c0-4.4 3.6-8 8-8s8 3.6 8 8" fill="#f9a8d4" stroke="#db2777" stroke-width="1.2" stroke-linecap="round"/>
+                <circle cx="29" cy="14" r="3.5" fill="#ec4899" stroke="#db2777" stroke-width="1"/>
+                <path d="M24 29c0-3.3 2.7-6 6-6s6 2.7 6 6" fill="#f9a8d4" stroke="#db2777" stroke-width="1" stroke-linecap="round"/>
+                <circle cx="23" cy="12" r="2" fill="#fce7f3" stroke="#db2777" stroke-width="0.8"/>
+                <path d="M12 22a4 4 0 014-4h.5c1 0 2 .4 2.7 1.1l.6.6c.7.7 1.7 1.1 2.7 1.1V22" stroke="#fbcfe8" stroke-width="1.5" stroke-linecap="round"/>
+              </svg>
+            )}
+            {key === "resources" && (
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="18" fill="#dbeafe" stroke="#93c5fd" stroke-width="2"/>
+                <path d="M20 5l6 8-6 8-6-8z" fill="#3b82f6" stroke="#2563eb" stroke-width="1.2" stroke-linejoin="round"/>
+                <path d="M20 21l6 8-6 8-6-8z" fill="#60a5fa" stroke="#2563eb" stroke-width="1.2" stroke-linejoin="round"/>
+                <path d="M14 13l6 8 6-8" stroke="#93c5fd" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M14 29l6-8 6 8" stroke="#93c5fd" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M20 13v8m0 8v-8" stroke="#bfdbfe" stroke-width="0.8"/>
+              </svg>
+            )}
+            {key === "hobbies" && (
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="18" fill="#ffedd5" stroke="#fdba74" stroke-width="2"/>
+                <path d="M8 16c2-1 10-4 10 7" stroke="#f97316" stroke-width="2" stroke-linecap="round"/>
+                <circle cx="18" cy="23" r="1.5" fill="#ea580c"/>
+                <path d="M10 12l-2-4h2l1 2" stroke="#f97316" stroke-width="1.5" stroke-linecap="round"/>
+                <path d="M20 10c2 2 4 6 2 10" stroke="#f97316" stroke-width="1.2" stroke-linecap="round" stroke-dasharray="2 2"/>
+                <ellipse cx="24" cy="26" rx="8" ry="7" fill="#fb923c" stroke="#ea580c" stroke-width="1.2"/>
+                <path d="M16 26c0-2 3-4 5-4" stroke="#f97316" stroke-width="1.2" stroke-linecap="round"/>
+                <circle cx="21" cy="24" r="1.2" fill="#fff" stroke="#ea580c" stroke-width="0.8"/>
+                <circle cx="27" cy="25" r="0.8" fill="#fff" stroke="#ea580c" stroke-width="0.6"/>
+              </svg>
+            )}
+            {key === "crafting" && (
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="18" fill="#ccfbf1" stroke="#5eead4" stroke-width="2"/>
+                <ellipse cx="15" cy="16" rx="5" ry="8" fill="#14b8a6" stroke="#0d9488" stroke-width="1.2" transform="rotate(-20 15 16)"/>
+                <ellipse cx="15" cy="16" rx="2.5" ry="5" fill="#ccfbf1" stroke="#0d9488" stroke-width="0.8" transform="rotate(-20 15 16)"/>
+                <ellipse cx="26" cy="17" rx="4" ry="7" fill="#14b8a6" stroke="#0d9488" stroke-width="1.2" transform="rotate(15 26 17)"/>
+                <ellipse cx="26" cy="17" rx="2" ry="4.5" fill="#ccfbf1" stroke="#0d9488" stroke-width="0.8" transform="rotate(15 26 17)"/>
+                <circle cx="20" cy="20" r="2" fill="#0d9488"/>
+                <path d="M10 10l2 2M27 8l-1 2M30 14l-2 1" stroke="#5eead4" stroke-width="1.2" stroke-linecap="round"/>
+              </svg>
+            )}
+            {key === "building" && (
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="18" fill="#e0e7ff" stroke="#a5b4fc" stroke-width="2"/>
+                <path d="M8 28l12-18 12 18" fill="#6366f1" stroke="#4f46e5" stroke-width="1.2" stroke-linejoin="round"/>
+                <path d="M12 20l8-12 8 12" fill="#818cf8" stroke="#4f46e5" stroke-width="1" stroke-linejoin="round"/>
+                <rect x="16" y="22" width="8" height="8" rx="1" fill="#c7d2fe" stroke="#4f46e5" stroke-width="1.2"/>
+                <rect x="18" y="24" width="4" height="4" rx="0.5" fill="#6366f1"/>
+                <rect x="9" y="28" width="4" height="4" rx="0.8" fill="#c7d2fe" stroke="#4f46e5" stroke-width="1"/>
+                <rect x="27" y="28" width="4" height="4" rx="0.8" fill="#c7d2fe" stroke="#4f46e5" stroke-width="1"/>
+              </svg>
+            )}
+            {key === "events" && (
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="18" fill="#fee2e2" stroke="#fca5a5" stroke-width="2"/>
+                <rect x="9" y="9" width="22" height="23" rx="3" fill="#ef4444" stroke="#dc2626" stroke-width="1.2"/>
+                <rect x="9" y="9" width="22" height="7" rx="2" fill="#f87171"/>
+                <path d="M14 5v5M26 5v5" stroke="#dc2626" stroke-width="1.8" stroke-linecap="round"/>
+                <circle cx="20" cy="20" r="5" fill="#fee2e2" stroke="#dc2626" stroke-width="1"/>
+                <path d="M20 15l1.2 3.5 3.8.5-2.8 2.3.8 3.7-3-1.8-3 1.8.8-3.7-2.8-2.3 3.8-.5z" fill="#fbbf24" stroke="#f59e0b" stroke-width="0.8" stroke-linejoin="round"/>
+              </svg>
+            )}
+            {key === "multiplayer" && (
+              <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="20" cy="20" r="18" fill="#f3e8ff" stroke="#d8b4fe" stroke-width="2"/>
+                <circle cx="13" cy="13" r="4.5" fill="#a855f7" stroke="#9333ea" stroke-width="1.2"/>
+                <path d="M4 31c0-5 4-9 9-9s9 4 9 9" fill="#d8b4fe" stroke="#9333ea" stroke-width="1.2" stroke-linecap="round"/>
+                <circle cx="30" cy="14" r="4" fill="#a855f7" stroke="#9333ea" stroke-width="1.2"/>
+                <path d="M23 31c0-4.5 3.6-8 8-8s8 3.5 8 8" fill="#d8b4fe" stroke="#9333ea" stroke-width="1.2" stroke-linecap="round"/>
+                <path d="M18 22c0-1.5 1-3 3-3" stroke="#c084fc" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="2 1.5"/>
+                <circle cx="21" cy="21" r="3" fill="#f3e8ff" stroke="#c084fc" stroke-width="1"/>
+                <path d="M18 22l1 1.5h4l1-1.5" stroke="#c084fc" stroke-width="1" stroke-linecap="round"/>
+              </svg>
+            )}
           </div>
-          <p class="text-sm text-gray-400 leading-relaxed">{mod.description}</p>
+          <div class="min-w-0">
+            <h3 class="font-semibold text-lg group-hover:text-pink-400 transition-colors mb-1.5">{mod.title}</h3>
+            <p class="text-sm text-gray-400 leading-relaxed">{mod.description}</p>
+          </div>
         </a>
       );
     })}

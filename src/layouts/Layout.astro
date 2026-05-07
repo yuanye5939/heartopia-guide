@@ -1,6 +1,6 @@
 ---
 import { SITE } from "../consts";
-import { getUIStrings, getLangFromPath } from "../i18n/utils";
+import { getUIStrings, getLangFromPath, getLocalizedPath } from "../i18n/utils";
 import type { Language } from "../i18n/ui";
 import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
@@ -62,16 +62,22 @@ const canonicalUrl = canonical ? new URL(canonical, SITE.url).href : new URL(Ast
     <meta name="twitter:image" content={new URL(ogImage, SITE.url).href} />
 
     <!-- hreflang -->
-    <link rel="alternate" hreflang="en" href={new URL(Astro.url.pathname, SITE.url).href} />
+    <link rel="alternate" hreflang="en" href={new URL(getLocalizedPath(Astro.url.pathname, "en"), SITE.url).href} />
     {
       SITE.languages.filter((l) => l !== "en").map((lang) => {
-        const langPath = Astro.url.pathname === "/" ? `/${lang}/` : `/${lang}${Astro.url.pathname}`;
-        return <link rel="alternate" hreflang={lang} href={new URL(langPath, SITE.url).href} />;
+        const href = new URL(getLocalizedPath(Astro.url.pathname, lang), SITE.url).href;
+        return <link rel="alternate" hreflang={lang} href={href} />;
       })
     }
-    <link rel="alternate" hreflang="x-default" href={new URL(Astro.url.pathname, SITE.url).href} />
+    <link rel="alternate" hreflang="x-default" href={new URL(getLocalizedPath(Astro.url.pathname, "en"), SITE.url).href} />
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Google AdSense -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2441650437092903" crossorigin="anonymous"></script>
+
+    <!-- Pagefind -->
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
 
     <!-- Schema.org -->
     {
@@ -89,6 +95,8 @@ const canonicalUrl = canonical ? new URL(canonical, SITE.url).href : new URL(Ast
       <slot />
     </main>
     <Footer />
+    <script is:inline src="/pagefind/pagefind.js"></script>
+    <script is:inline src="/pagefind/pagefind-ui.js"></script>
   </body>
 </html>
 

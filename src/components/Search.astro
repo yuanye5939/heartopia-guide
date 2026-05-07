@@ -40,16 +40,12 @@
 
     if (!btn || !dialog || !close) return;
 
-    // Open
     btn.addEventListener("click", () => dialog.showModal());
-
-    // Close
     close.addEventListener("click", () => dialog.close());
     dialog.addEventListener("click", (e) => {
       if (e.target === dialog) dialog.close();
     });
 
-    // Keyboard shortcut
     document.addEventListener("keydown", (e) => {
       if ((e.ctrlKey || e.metaKey) && e.key === "k") {
         e.preventDefault();
@@ -60,44 +56,26 @@
       }
     });
 
-    // Init Pagefind on first open
     let loaded = false;
-    const init = async () => {
+    dialog.addEventListener("open", () => {
       if (loaded) return;
-      try {
-        // Load Pagefind via script tags to avoid Vite/Rollup build resolution
-        await new Promise<void>((resolve, reject) => {
-          const s = document.createElement("script");
-          s.src = "/pagefind/pagefind.js";
-          s.onload = () => resolve();
-          s.onerror = () => reject(new Error("pagefind not found"));
-          document.head.appendChild(s);
-        });
-        // Load the UI
-        await new Promise<void>((resolve, reject) => {
-          const s = document.createElement("script");
-          s.src = "/pagefind/pagefind-ui.js";
-          s.onload = () => resolve();
-          s.onerror = () => reject(new Error("pagefind-ui not found"));
-          document.head.appendChild(s);
-        });
-        new (window as any).PagefindUI({
-          element: "#search",
-          showImages: false,
-          showSubResults: true,
-          autofocus: true,
-          translations: {
-            placeholder: "Search guides, NPCs, codes, resources..."
-          },
-        });
-        loaded = true;
-      } catch {
+      const PagefindUI = (window as any).PagefindUI;
+      if (!PagefindUI) {
         document.getElementById("search")!.innerHTML =
           '<p class="text-gray-500 text-center py-8">Search is available after building the site (<code>npm run build</code>).</p>';
+        return;
       }
-    };
-
-    dialog.addEventListener("open", () => init());
+      new PagefindUI({
+        element: "#search",
+        showImages: false,
+        showSubResults: true,
+        autofocus: true,
+        translations: {
+          placeholder: "Search guides, NPCs, codes, resources..."
+        },
+      });
+      loaded = true;
+    });
   }
 
   document.addEventListener("astro:page-load", setupSearch);

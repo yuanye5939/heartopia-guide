@@ -1,0 +1,66 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+import { getUIStrings } from "../../i18n/utils";
+import type { Language } from "../../i18n/ui";
+
+export async function getStaticPaths() {
+  const guides = await getCollection("guide");
+  const slugs = [...new Set(guides.map((g) => g.data.category))];
+  const langs: Language[] = ["de", "it", "fr", "es", "ja", "ko", "id", "pl"];
+  return langs.flatMap((lang) =>
+    slugs.map((slug) => ({ params: { lang, slug } }))
+  );
+}
+
+const { lang, slug } = Astro.params as { lang: string; slug: string };
+const category = slug;
+const t = getUIStrings(lang as Language);
+
+// Try requested language first, fall back to English
+let guides = await getCollection("guide", ({ data }) => data.category === category && data.lang === lang);
+if (guides.length === 0) {
+  guides = await getCollection("guide", ({ data }) => data.category === category && data.lang === "en");
+}
+const guide = guides[0];
+
+const categoryLabels: Record<string, string> = {
+  "beginner-guide": t.nav.beginnerGuide,
+  codes: t.nav.codes,
+  walkthrough: t.nav.walkthrough,
+  characters: t.nav.characters,
+  resources: t.nav.resources,
+  hobbies: t.nav.hobbies,
+  crafting: t.nav.crafting,
+  building: "Building",
+  events: "Events",
+  multiplayer: "Multiplayer",
+};
+
+const { Content } = await guide!.render();
+---
+
+<Layout
+  title={guide!.data.title}
+  description={guide!.data.description}
+  ogType="article"
+  lang={lang as Language}
+  canonical={new URL(Astro.url.pathname, Astro.site).href}
+  schema={{
+    "@type": "Article",
+    headline: guide!.data.title,
+    description: guide!.data.description,
+    dateModified: guide!.data.updatedAt?.toISOString(),
+  }}
+>
+  <article class="max-w-4xl mx-auto px-4 py-12">
+    <header class="mb-8">
+      <p class="text-pink-400 text-sm font-medium mb-2">{categoryLabels[category] || category}</p>
+      <h1 class="text-3xl md:text-4xl font-bold mb-2">{guide!.data.title}</h1>
+      <p class="text-gray-400">{guide!.data.description}</p>
+    </header>
+    <div class="prose prose-invert prose-pink max-w-none">
+      <Content />
+    </div>
+  </article>
+</Layout>
