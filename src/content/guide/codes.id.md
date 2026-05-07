@@ -86,4 +86,5 @@ Moonlight Crystals adalah mata uang gacha premium. Kode-kode ini memberikan nila
 - **Kode hanya sekali pakai per akun** — Anda tidak dapat menggunakan kembali kode di profil yang sama
 - **Beberapa kode mungkin sudah kedaluwarsa** — jika kode tidak berfungsi, mungkin sudah kedaluwarsa sejak halaman ini terakhir diperbarui. Periksa tanggal di bawah.
 
-> **Terakhir diperbarui:** 7 Mei 2026. Kode dapat kedaluwarsa kapan saja. Jika kode tidak berfungsi, silakan [laporkan](https://discord.gg/heartopia) di Discord resmi.
+> **Terakhir diperbarui:** 7 Mei 2026. Kode dapat kedaluwarsa kapan saja. Jika kode tidak berfungsi, silakan [laporkan](https://discord.gg/heartopia).  
+> **Last checked:** 2026-05-07 — automated scan every 6 hours. di Discord resmi.

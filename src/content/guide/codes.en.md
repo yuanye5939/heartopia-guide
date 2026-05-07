@@ -86,3 +86,4 @@ Moonlight Crystals are the premium gacha currency. These codes give the most val
 - **Some codes may be expired** — if a code doesn't work, it may have expired since this page was last updated. Check the date below.
 
 > **Last updated:** May 7, 2026. Codes can expire at any time. If a code doesn't work, please [report it](https://discord.gg/heartopia) in the official Discord.
+> **Last checked: 2026-05-07

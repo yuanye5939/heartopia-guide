@@ -86,4 +86,5 @@ Moonlight Crystals sind die Premium-Gacha-Währung. Diese Codes bieten den meist
 - **Codes sind einmalig pro Konto** — du kannst einen Code nicht auf demselben Profil wiederverwenden
 - **Einige Codes könnten abgelaufen sein** — wenn ein Code nicht funktioniert, ist er möglicherweise abgelaufen, seit diese Seite zuletzt aktualisiert wurde. Überprüfe das Datum unten.
 
-> **Zuletzt aktualisiert:** 7. Mai 2026. Codes können jederzeit ablaufen. Wenn ein Code nicht funktioniert, bitte [melde es](https://discord.gg/heartopia) im offiziellen Discord.
+> **Zuletzt aktualisiert:** 7. Mai 2026. Codes können jederzeit ablaufen. Wenn ein Code nicht funktioniert, bitte [melde es](https://discord.gg/heartopia).  
+> **Last checked:** 2026-05-07 — automated scan every 6 hours. im offiziellen Discord.

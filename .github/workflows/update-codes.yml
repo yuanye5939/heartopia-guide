@@ -1,0 +1,36 @@
+name: Update Redeem Codes
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'  # Every 6 hours (at :23 past to avoid peak)
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  update-codes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Fetch latest codes and update
+        run: node scripts/update-codes.js
+
+      - name: Commit and push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes, skipping commit."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add src/content/guide/codes.*.md
+            git commit -m "chore: auto-update redeem codes"
+            git push
+          fi

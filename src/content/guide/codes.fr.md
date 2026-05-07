@@ -86,4 +86,5 @@ Les Moonlight Crystals sont la devise premium de gacha. Ces codes offrent le plu
 - **Les codes sont à usage unique par compte** — vous ne pouvez pas réutiliser un code sur le même profil
 - **Certains codes peuvent être expirés** — si un code ne fonctionne pas, il a peut-être expiré depuis la dernière mise à jour de cette page. Vérifiez la date ci-dessous.
 
-> **Dernière mise à jour :** 7 mai 2026. Les codes peuvent expirer à tout moment. Si un code ne fonctionne pas, veuillez le [signaler](https://discord.gg/heartopia) sur le Discord officiel.
+> **Dernière mise à jour :** 7 mai 2026. Les codes peuvent expirer à tout moment. Si un code ne fonctionne pas, veuillez le [signaler](https://discord.gg/heartopia).  
+> **Last checked:** 2026-05-07 — automated scan every 6 hours. sur le Discord officiel.

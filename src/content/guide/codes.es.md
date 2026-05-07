@@ -86,4 +86,5 @@ Los Moonlight Crystals son la moneda premium de gacha. Estos códigos dan el may
 - **Los códigos son de un solo uso por cuenta** — no puedes reutilizar un código en el mismo perfil
 - **Algunos códigos pueden haber caducado** — si un código no funciona, puede haber caducado desde la última actualización de esta página. Comprueba la fecha a continuación.
 
-> **Última actualización:** 7 de mayo de 2026. Los códigos pueden caducar en cualquier momento. Si un código no funciona, por favor [infórmanos](https://discord.gg/heartopia) en el Discord oficial.
+> **Última actualización:** 7 de mayo de 2026. Los códigos pueden caducar en cualquier momento. Si un código no funciona, por favor [infórmanos](https://discord.gg/heartopia).  
+> **Last checked:** 2026-05-07 — automated scan every 6 hours. en el Discord oficial.
