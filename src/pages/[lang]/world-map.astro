@@ -1,0 +1,9 @@
+---
+export function getStaticPaths() {
+  return ["de", "it", "fr", "es", "ja", "ko", "id", "pl"].map((lang) => ({
+    params: { lang },
+  }));
+}
+
+return Astro.redirect("/world-map", 302);
+---
