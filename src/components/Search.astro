@@ -1,0 +1,147 @@
+<button
+  id="search-toggle"
+  class="flex items-center gap-2 px-3 py-1.5 rounded-lg text-sm text-gray-300 hover:text-white hover:bg-gray-800 transition-colors"
+  aria-label="Search"
+  title="Search (Ctrl+K)"
+>
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+    <circle cx="11" cy="11" r="8" />
+    <path d="m21 21-4.35-4.35" />
+  </svg>
+  <span class="hidden md:inline text-gray-500 text-xs border border-gray-700 rounded px-1.5 py-0.5">Ctrl+K</span>
+</button>
+
+<dialog
+  id="search-dialog"
+  class="fixed inset-0 z-[100] m-0 h-full w-full max-w-full bg-gray-950/90 backdrop-blur-sm text-gray-100"
+>
+  <div class="max-w-2xl mx-auto mt-[15vh] px-4">
+    <div class="relative">
+      <div id="search" class="[&_input]:text-lg"></div>
+    </div>
+    <div id="search-results" class="mt-4"></div>
+  </div>
+  <button
+    id="search-close"
+    class="absolute top-4 right-4 p-2 text-gray-400 hover:text-white text-sm"
+    aria-label="Close search"
+  >
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M18 6 6 18M6 6l12 12" />
+    </svg>
+  </button>
+</dialog>
+
+<script>
+  function setupSearch() {
+    const btn = document.getElementById("search-toggle");
+    const dialog = document.getElementById("search-dialog");
+    const close = document.getElementById("search-close");
+
+    if (!btn || !dialog || !close) return;
+
+    // Open
+    btn.addEventListener("click", () => dialog.showModal());
+
+    // Close
+    close.addEventListener("click", () => dialog.close());
+    dialog.addEventListener("click", (e) => {
+      if (e.target === dialog) dialog.close();
+    });
+
+    // Keyboard shortcut
+    document.addEventListener("keydown", (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key === "k") {
+        e.preventDefault();
+        dialog.open ? dialog.close() : dialog.showModal();
+      }
+      if (e.key === "Escape" && dialog.open) {
+        dialog.close();
+      }
+    });
+
+    // Init Pagefind on first open
+    let loaded = false;
+    const init = async () => {
+      if (loaded) return;
+      try {
+        // Load Pagefind via script tags to avoid Vite/Rollup build resolution
+        await new Promise<void>((resolve, reject) => {
+          const s = document.createElement("script");
+          s.src = "/pagefind/pagefind.js";
+          s.onload = () => resolve();
+          s.onerror = () => reject(new Error("pagefind not found"));
+          document.head.appendChild(s);
+        });
+        // Load the UI
+        await new Promise<void>((resolve, reject) => {
+          const s = document.createElement("script");
+          s.src = "/pagefind/pagefind-ui.js";
+          s.onload = () => resolve();
+          s.onerror = () => reject(new Error("pagefind-ui not found"));
+          document.head.appendChild(s);
+        });
+        new (window as any).PagefindUI({
+          element: "#search",
+          showImages: false,
+          showSubResults: true,
+          autofocus: true,
+          translations: {
+            placeholder: "Search guides, NPCs, codes, resources..."
+          },
+        });
+        loaded = true;
+      } catch {
+        document.getElementById("search")!.innerHTML =
+          '<p class="text-gray-500 text-center py-8">Search is available after building the site (<code>npm run build</code>).</p>';
+      }
+    };
+
+    dialog.addEventListener("open", () => init());
+  }
+
+  document.addEventListener("astro:page-load", setupSearch);
+  setupSearch();
+</script>
+
+<style>
+  dialog::backdrop { display: none; }
+  :global(#search .pagefind-ui) {
+    --pagefind-ui-primary: #ec4899;
+    --pagefind-ui-text: #f3f4f6;
+    --pagefind-ui-background: #111827;
+    --pagefind-ui-border: #374151;
+    --pagefind-ui-font: inherit;
+    width: 100%;
+  }
+  :global(#search .pagefind-ui__search-input) {
+    background: #1f2937;
+    border: 1px solid #374151;
+    border-radius: 0.75rem;
+    padding: 1rem 1.25rem;
+    color: #f3f4f6;
+    font-size: 1.125rem;
+    width: 100%;
+    outline: none;
+  }
+  :global(#search .pagefind-ui__search-input:focus) {
+    border-color: #ec4899;
+  }
+  :global(#search .pagefind-ui__result) {
+    background: #111827;
+    border: 1px solid #1f2937;
+    border-radius: 0.75rem;
+    padding: 1rem;
+    margin-top: 0.5rem;
+  }
+  :global(#search .pagefind-ui__result a) {
+    color: #f9a8d4;
+    font-weight: 600;
+  }
+  :global(#search .pagefind-ui__result a:hover) {
+    color: #ec4899;
+  }
+  :global(#search .pagefind-ui__result-excerpt) {
+    color: #9ca3af;
+  }
+</style>

@@ -1,0 +1,48 @@
+---
+import { getUIStrings } from "../i18n/utils";
+import type { Language } from "../i18n/ui";
+
+interface Props { lang: Language; }
+
+const { lang } = Astro.props;
+const t = getUIStrings(lang);
+const prefix = lang === "en" ? "" : `/${lang}`;
+
+const moduleKeys = ["beginnerGuide", "codes", "walkthrough", "characters", "resources", "hobbies", "crafting", "building", "events", "multiplayer"] as const;
+const priorities: Record<string, number> = {
+  beginnerGuide: 0, codes: 0, walkthrough: 0,
+  characters: 1, resources: 1,
+  hobbies: 2, crafting: 2,
+  building: 3, events: 3, multiplayer: 3,
+};
+const sortedModules = [...moduleKeys].sort((a, b) => (priorities[a] ?? 9) - (priorities[b] ?? 9));
+---
+
+<section class="py-16 md:py-24 text-center">
+  <h1 class="text-4xl md:text-5xl font-bold mb-4">
+    <span class="text-pink-400">Heartopia</span> Guide
+  </h1>
+  <p class="text-lg text-gray-400 max-w-2xl mx-auto mb-8">{t.siteDescription}</p>
+  <div class="flex flex-wrap justify-center gap-3">
+    <a href={`${prefix}/beginner-guide`} class="px-6 py-3 bg-pink-600 hover:bg-pink-500 text-white rounded-lg font-medium transition-colors">{t.home.startHere}</a>
+    <a href={`${prefix}/codes`} class="px-6 py-3 bg-gray-800 hover:bg-gray-700 text-gray-200 rounded-lg font-medium transition-colors border border-gray-700">{t.home.redeemCodes}</a>
+  </div>
+</section>
+
+<section class="max-w-6xl mx-auto px-4 pb-20">
+  <h2 class="text-2xl font-bold mb-8 text-center">{t.home.allGuides}</h2>
+  <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+    {sortedModules.map((key) => {
+      const mod = t.modules[key]; const pri = priorities[key];
+      return (
+        <a href={`${prefix}/${key === "beginnerGuide" ? "beginner-guide" : key}`} class="block p-6 bg-gray-900 border border-gray-800 rounded-xl hover:border-pink-600/50 hover:bg-gray-900/80 transition-all group">
+          <div class="flex items-center justify-between mb-2">
+            <h3 class="font-semibold text-lg group-hover:text-pink-400 transition-colors">{mod.title}</h3>
+            <span class={`text-xs px-2 py-0.5 rounded font-medium ${pri===0?"bg-pink-600/20 text-pink-400":pri===1?"bg-amber-600/20 text-amber-400":pri===2?"bg-blue-600/20 text-blue-400":"bg-gray-600/20 text-gray-400"}`}>P{pri}</span>
+          </div>
+          <p class="text-sm text-gray-400 leading-relaxed">{mod.description}</p>
+        </a>
+      );
+    })}
+  </div>
+</section>

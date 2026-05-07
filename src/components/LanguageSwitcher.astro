@@ -1,0 +1,45 @@
+---
+import { LANGUAGES, DEFAULT_LANG } from "../i18n/ui";
+import { getLocalizedPath } from "../i18n/utils";
+import type { Language } from "../i18n/ui";
+
+interface Props {
+  currentPath?: string;
+  lang?: Language;
+}
+
+const { currentPath = "/", lang = DEFAULT_LANG } = Astro.props;
+---
+
+<div class="relative group">
+  <button
+    class="flex items-center gap-1 px-2 py-1 rounded text-sm text-gray-300 hover:text-white transition-colors"
+    aria-label="Switch language"
+  >
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="12" cy="12" r="10" />
+      <path d="M2 12h20M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z" />
+    </svg>
+  </button>
+  <div class="absolute right-0 top-full mt-2 w-40 bg-gray-900 border border-gray-700 rounded-lg shadow-xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all z-50">
+    <div class="py-1">
+      {LANGUAGES.map((l) => {
+        const href = getLocalizedPath(currentPath, l.code);
+        const isActive = l.code === lang;
+        return (
+          <a
+            href={href}
+            hreflang={l.code}
+            class={`block px-4 py-2 text-sm transition-colors ${
+              isActive
+                ? "bg-pink-600/20 text-pink-400"
+                : "text-gray-300 hover:bg-gray-800 hover:text-white"
+            }`}
+          >
+            {l.label}
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,97 @@
+---
+import { SITE } from "../consts";
+import { getUIStrings, getLangFromPath } from "../i18n/utils";
+import type { Language } from "../i18n/ui";
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+
+export interface Props {
+  title: string;
+  description?: string;
+  canonical?: string;
+  ogImage?: string;
+  ogType?: "website" | "article";
+  schema?: Record<string, unknown>;
+  noIndex?: boolean;
+  lang?: Language;
+}
+
+const currentLang = Astro.props.lang || getLangFromPath(Astro.url?.pathname || "/");
+const t = getUIStrings(currentLang);
+
+const {
+  title,
+  description = t.siteDescription,
+  canonical,
+  ogImage = "/og-default.png",
+  ogType = "website",
+  schema,
+  noIndex = false,
+} = Astro.props;
+
+const pageTitle = `${title} | ${SITE.title}`;
+const canonicalUrl = canonical ? new URL(canonical, SITE.url).href : new URL(Astro.url.pathname, SITE.url).href;
+---
+
+<!doctype html>
+<html lang={currentLang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Primary meta -->
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonicalUrl} />
+    {noIndex && <meta name="robots" content="noindex,follow" />}
+
+    <!-- Open Graph -->
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:site_name" content={SITE.title} />
+    <meta property="og:image" content={new URL(ogImage, SITE.url).href} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={pageTitle} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={new URL(ogImage, SITE.url).href} />
+
+    <!-- hreflang -->
+    <link rel="alternate" hreflang="en" href={new URL(Astro.url.pathname, SITE.url).href} />
+    {
+      SITE.languages.filter((l) => l !== "en").map((lang) => {
+        const langPath = Astro.url.pathname === "/" ? `/${lang}/` : `/${lang}${Astro.url.pathname}`;
+        return <link rel="alternate" hreflang={lang} href={new URL(langPath, SITE.url).href} />;
+      })
+    }
+    <link rel="alternate" hreflang="x-default" href={new URL(Astro.url.pathname, SITE.url).href} />
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Schema.org -->
+    {
+      schema && (
+        <script type="application/ld+json" set:html={JSON.stringify({
+          "@context": "https://schema.org",
+          ...schema,
+        })} />
+      )
+    }
+  </head>
+  <body class="bg-gray-950 text-gray-100 min-h-screen flex flex-col">
+    <Header />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>
+
+<style is:global>
+  @import "../styles/global.css";
+</style>

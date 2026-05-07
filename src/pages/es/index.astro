@@ -1,0 +1,9 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import HomeContent from "../../components/HomeContent.astro";
+import { getUIStrings } from "../../i18n/utils";
+const lang = "es" as const; const t = getUIStrings(lang);
+---
+<Layout title="Inicio" description={t.siteDescription} ogType="website" lang={lang}>
+  <HomeContent lang={lang} />
+</Layout>
