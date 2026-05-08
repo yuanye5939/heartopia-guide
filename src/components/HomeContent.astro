@@ -27,24 +27,63 @@ const newModules = [
 ] as const;
 ---
 
-<section class="py-16 md:py-24 text-center">
-  <h1 class="text-4xl md:text-5xl font-bold mb-4">
-    <span class="text-pink-400">Heartopia</span> Guide
-  </h1>
-  <p class="text-lg text-gray-400 max-w-2xl mx-auto mb-8">{t.siteDescription}</p>
-  <div class="flex flex-wrap justify-center gap-3">
-    <a href={`${prefix}/beginner-guide`} class="px-6 py-3 bg-pink-600 hover:bg-pink-500 text-white rounded-lg font-medium transition-colors">{t.home.startHere}</a>
-    <a href={`${prefix}/codes`} class="px-6 py-3 bg-gray-800 hover:bg-gray-700 text-gray-200 rounded-lg font-medium transition-colors border border-gray-700">{t.home.redeemCodes}</a>
+<!-- Hero Section with blob glow + floating decorations -->
+<section class="relative py-16 md:py-24 text-center overflow-hidden">
+  <!-- Blob glow backgrounds -->
+  <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[400px] bg-purple-600/20 rounded-full blur-[100px] animate-float-slow"></div>
+  <div class="absolute top-1/3 right-1/4 w-[300px] h-[300px] bg-pink-500/15 rounded-full blur-[80px] animate-float-slower"></div>
+  <div class="absolute bottom-1/4 left-1/4 w-[250px] h-[250px] bg-fuchsia-400/12 rounded-full blur-[70px] animate-float"></div>
+
+  <!-- Sparkle star decorations -->
+  <div class="absolute top-10 left-[12%] text-pink-400/50 text-4xl animate-float pointer-events-none">&#x2726;</div>
+  <div class="absolute top-16 right-[18%] text-purple-400/40 text-3xl animate-float-slow pointer-events-none">&#x2726;</div>
+  <div class="absolute bottom-20 left-[22%] text-pink-300/45 text-3xl animate-float-slower pointer-events-none">&#x2726;</div>
+  <div class="absolute top-1/3 right-[8%] text-fuchsia-400/40 text-4xl animate-float pointer-events-none">&#x2726;</div>
+  <div class="absolute bottom-12 right-[28%] text-rose-300/45 text-2xl animate-float-slow pointer-events-none">&#x2726;</div>
+  <div class="absolute top-24 left-[35%] text-pink-400/35 text-2xl animate-float-slower pointer-events-none">&#x2726;</div>
+  <div class="absolute bottom-32 left-[8%] text-purple-300/40 text-3xl animate-float pointer-events-none">&#x2726;</div>
+  <div class="absolute top-8 right-[38%] text-fuchsia-300/35 text-2xl animate-float-slow pointer-events-none">&#x2726;</div>
+  <!-- Floating hearts -->
+  <div class="absolute top-[30%] left-[5%] text-pink-400/25 text-2xl animate-float-slower pointer-events-none">&#x2665;</div>
+  <div class="absolute bottom-[25%] right-[5%] text-pink-400/20 text-xl animate-float pointer-events-none">&#x2665;</div>
+  <div class="absolute top-[45%] right-[3%] text-rose-400/20 text-lg animate-float-slow pointer-events-none">&#x2665;</div>
+  <!-- Small dot stars scattered -->
+  <div class="absolute top-[15%] left-[28%] w-1.5 h-1.5 bg-pink-400/30 rounded-full animate-float pointer-events-none"></div>
+  <div class="absolute top-[25%] right-[25%] w-1.5 h-1.5 bg-purple-400/30 rounded-full animate-float-slow pointer-events-none"></div>
+  <div class="absolute bottom-[30%] left-[18%] w-1.5 h-1.5 bg-fuchsia-400/35 rounded-full animate-float-slower pointer-events-none"></div>
+  <div class="absolute top-[40%] left-[45%] w-1.5 h-1.5 bg-pink-300/30 rounded-full animate-float pointer-events-none"></div>
+  <div class="absolute bottom-[20%] right-[15%] w-1.5 h-1.5 bg-rose-400/30 rounded-full animate-float-slow pointer-events-none"></div>
+  <div class="absolute top-[55%] right-[35%] w-1.5 h-1.5 bg-purple-300/35 rounded-full animate-float pointer-events-none"></div>
+  <div class="absolute bottom-[45%] left-[38%] w-1.5 h-1.5 bg-fuchsia-300/30 rounded-full animate-float-slower pointer-events-none"></div>
+  <div class="absolute top-[18%] left-[55%] w-1.5 h-1.5 bg-pink-400/25 rounded-full animate-float-slow pointer-events-none"></div>
+
+  <div class="relative z-10">
+    <h1 class="text-4xl md:text-5xl font-bold mb-4">
+      <span class="text-pink-400">Heartopia</span> Guide
+    </h1>
+    <p class="text-lg text-gray-400 max-w-2xl mx-auto mb-8">{t.siteDescription}</p>
+    <div class="flex flex-wrap justify-center gap-3">
+      <a href={`${prefix}/beginner-guide`} class="px-6 py-3 bg-pink-600 hover:bg-pink-500 text-white rounded-lg font-medium transition-colors">{t.home.startHere}</a>
+      <a href={`${prefix}/codes`} class="px-6 py-3 bg-gray-800 hover:bg-gray-700 text-gray-200 rounded-lg font-medium transition-colors border border-gray-700">{t.home.redeemCodes}</a>
+    </div>
   </div>
 </section>
 
 <section class="max-w-5xl mx-auto px-4 pb-20">
-  <h2 class="text-2xl font-bold mb-10 text-center">{t.home.allGuides}</h2>
+  <div class="text-center mb-10">
+    <h2 class="text-2xl font-bold mb-3">{t.home.allGuides}</h2>
+    <!-- Hand-drawn decorative line -->
+    <svg class="mx-auto" width="140" height="16" viewBox="0 0 140 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M2 10c10-5 18-4 26 1s16 6 26 1 18-5 28 0 16 5 26 0 18-5 28 1" stroke="url(#deco-grad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.8"/>
+      <defs><linearGradient id="deco-grad" x1="0" y1="0" x2="140" y2="0"><stop offset="0%" stop-color="#ec4899"/><stop offset="30%" stop-color="#c084fc"/><stop offset="50%" stop-color="#f472b6"/><stop offset="70%" stop-color="#a855f7"/><stop offset="100%" stop-color="#ec4899"/></linearGradient></defs>
+    </svg>
+  </div>
+
   <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
     {moduleKeys.map((key) => {
       const mod = t.modules[key];
       return (
-        <a href={`${prefix}/${key === "beginnerGuide" ? "beginner-guide" : key}`} class="group flex items-start gap-5 p-5 bg-gray-900 border border-gray-800 rounded-2xl hover:border-pink-600/40 hover:bg-gray-900/80 transition-all duration-200">
+        <a href={`${prefix}/${key === "beginnerGuide" ? "beginner-guide" : key}`} class="group flex items-start gap-5 p-5 bg-gray-900/80 border border-gray-800 rounded-2xl hover:border-pink-500/50 hover:bg-gray-900/95 hover:scale-[1.03] hover:shadow-lg hover:shadow-pink-500/15 transition-all duration-300">
           <div class="shrink-0 w-[72px] h-[72px] rounded-2xl flex items-center justify-center icon-{key}">
             {key === "beginnerGuide" && (
               <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -164,7 +203,7 @@ const newModules = [
     {false && newModules.map(({ key, slug }) => {
       const mod = t.modules[key];
       return (
-        <a href={`${prefix}/${slug}`} class="group flex items-start gap-5 p-5 bg-gray-900 border border-gray-800 rounded-2xl hover:border-pink-600/40 hover:bg-gray-900/80 transition-all duration-200">
+        <a href={`${prefix}/${slug}`} class="group flex items-start gap-5 p-5 bg-gray-900/80 border border-gray-800 rounded-2xl hover:border-pink-500/50 hover:bg-gray-900/95 hover:scale-[1.03] hover:shadow-lg hover:shadow-pink-500/15 transition-all duration-300">
           <div class="shrink-0 w-[72px] h-[72px] rounded-2xl flex items-center justify-center icon-{key}">
             {key === "map" && (
               <svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -291,3 +330,21 @@ const newModules = [
     })}
   </div>
 </section>
+
+<style>
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-12px); }
+  }
+  @keyframes float-slow {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-8px); }
+  }
+  @keyframes float-slower {
+    0%, 100% { transform: translateY(0) scale(1); }
+    50% { transform: translateY(-6px) scale(1.05); }
+  }
+  .animate-float { animation: float 4s ease-in-out infinite; }
+  .animate-float-slow { animation: float-slow 5s ease-in-out infinite; }
+  .animate-float-slower { animation: float-slower 6s ease-in-out infinite; }
+</style>
