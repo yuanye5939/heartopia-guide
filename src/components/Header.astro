@@ -64,8 +64,8 @@ function isActive(slug: string) {
         </a>
       ))}
 
-      <!-- Collections dropdown -->
-      <div class="relative group">
+      <!-- Collections dropdown (hidden) -->
+      <div class="relative group hidden">
         <button class={`px-3 py-2 rounded-lg text-sm transition-colors whitespace-nowrap flex items-center gap-1 ${collectionItems.some(ci => isActive(ci.slug)) ? "bg-pink-600/20 text-pink-400" : "text-gray-300 hover:text-white hover:bg-gray-800"}`}>
           {t.nav.collections}
           <svg width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" class="group-hover:rotate-180 transition-transform">
@@ -108,8 +108,8 @@ function isActive(slug: string) {
         </a>
       ))}
 
-      <!-- Mobile collections accordion -->
-      <button id="mobile-collections-toggle" class="px-3 py-2 rounded-lg text-sm text-gray-300 hover:text-white hover:bg-gray-800 flex items-center justify-between w-full text-left">
+      <!-- Mobile collections accordion (hidden) -->
+      <button id="mobile-collections-toggle" class="hidden" class="px-3 py-2 rounded-lg text-sm text-gray-300 hover:text-white hover:bg-gray-800 flex items-center justify-between w-full text-left">
         {t.nav.collections}
         <svg id="mobile-collections-chevron" width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="2" class="transition-transform">
           <path d="M2 4l4 4 4-4" stroke-linecap="round" stroke-linejoin="round"/>

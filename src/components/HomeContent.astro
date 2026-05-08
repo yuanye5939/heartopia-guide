@@ -160,7 +160,8 @@ const newModules = [
         </a>
       );
     })}
-    {newModules.map(({ key, slug }) => {
+    {/* Collections hidden for now */}
+    {false && newModules.map(({ key, slug }) => {
       const mod = t.modules[key];
       return (
         <a href={`${prefix}/${slug}`} class="group flex items-start gap-5 p-5 bg-gray-900 border border-gray-800 rounded-2xl hover:border-pink-600/40 hover:bg-gray-900/80 transition-all duration-200">
