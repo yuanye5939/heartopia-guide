@@ -82,6 +82,9 @@ export const id: UIStrings = {
   footer: {
     disclaimer: "Panduan penggemar tidak resmi — tidak berafiliasi dengan XD Entertainment.",
     languages: "Tersedia dalam {count} bahasa",
+    privacy: "Kebijakan Privasi",
+    terms: "Ketentuan Layanan",
+    contact: "Kontak",
   },
   langLabel: "Bahasa Indonesia",
 };

@@ -82,6 +82,9 @@ export const ko: UIStrings = {
   footer: {
     disclaimer: "비공식 팬 가이드 — XD Entertainment와 관련 없음.",
     languages: "{count}개 언어로 이용 가능",
+    privacy: "개인정보처리방침",
+    terms: "이용약관",
+    contact: "문의하기",
   },
   langLabel: "한국어",
 };

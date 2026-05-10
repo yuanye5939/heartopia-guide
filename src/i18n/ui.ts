@@ -56,6 +56,9 @@ export interface UIStrings {
   footer: {
     disclaimer: string;
     languages: string;
+    privacy: string;
+    terms: string;
+    contact: string;
   };
   langLabel: string;
 }

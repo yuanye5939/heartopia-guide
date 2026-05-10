@@ -14,16 +14,18 @@ const t = getUIStrings(lang);
     </svg>
   </div>
   <div class="max-w-6xl mx-auto px-4">
-    <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+    <div class="flex flex-col md:flex-row justify-between items-center gap-6">
       <div class="text-center md:text-left">
         <p class="text-gray-400 text-sm">
           &copy; {new Date().getFullYear()} Heartopia Guide. {t.footer.disclaimer}
         </p>
       </div>
-      <div class="flex gap-6 text-sm text-gray-500">
+      <div class="flex flex-wrap justify-center gap-x-6 gap-y-2 text-sm text-gray-500">
         <a href={lang === "en" ? "/" : `/${lang}/`} class="hover:text-gray-300 transition-colors">Home</a>
-        <span class="text-gray-700">|</span>
-        <span>{t.footer.languages.replace("{count}", String(LANGUAGES.length))}</span>
+        <a href="mailto:yuanye5939@gmail.com" class="hover:text-gray-300 transition-colors">{t.footer.contact}</a>
+        <a href="/privacy" class="hover:text-gray-300 transition-colors">{t.footer.privacy}</a>
+        <a href="/terms" class="hover:text-gray-300 transition-colors">{t.footer.terms}</a>
+        <span class="text-gray-500">{t.footer.languages.replace("{count}", String(LANGUAGES.length))}</span>
       </div>
     </div>
   </div>
