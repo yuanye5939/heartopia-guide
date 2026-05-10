@@ -83,13 +83,13 @@ function isActive(slug: string) {
         </div>
       </div>
 
-      <Search />
+      {false && <Search />}
       {!hideLangSwitcher && <LanguageSwitcher currentPath={currentPath} lang={lang} />}
     </div>
 
     <!-- Mobile menu trigger -->
     <div class="flex lg:hidden items-center gap-2">
-      <Search />
+      {false && <Search />}
       {!hideLangSwitcher && <LanguageSwitcher currentPath={currentPath} lang={lang} />}
       <button id="menu-toggle" class="p-2 text-gray-300 hover:text-white" aria-label="Toggle menu" aria-expanded="false">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
