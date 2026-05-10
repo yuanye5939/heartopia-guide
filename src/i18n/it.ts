@@ -82,9 +82,6 @@ export const it: UIStrings = {
   footer: {
     disclaimer: "Guida fan non ufficiale — non affiliata con XD Entertainment.",
     languages: "Disponibile in {count} lingue",
-    privacy: "Privacy Policy",
-    terms: "Termini di servizio",
-    contact: "Contatti",
   },
   langLabel: "Italiano",
 };

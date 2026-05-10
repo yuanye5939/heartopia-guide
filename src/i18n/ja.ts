@@ -82,9 +82,6 @@ export const ja: UIStrings = {
   footer: {
     disclaimer: "非公式ファンガイド — XD Entertainmentとは関係ありません。",
     languages: "{count}言語で利用可能",
-    privacy: "プライバシーポリシー",
-    terms: "利用規約",
-    contact: "お問い合わせ",
   },
   langLabel: "日本語",
 };
