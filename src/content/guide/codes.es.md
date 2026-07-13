@@ -29,7 +29,13 @@ Los Moonlight Crystals son la moneda premium de gacha. Estos códigos dan el may
 
 | Código | Recompensas | Estado |
 | --- | --- | --- |
-| `makeawish` | 50x Moonlight Crystals | Activo |
+| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Activo |
+| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Activo |
+| `180daysjoy` | 100x Moonlight Crystals | Activo |
+| `callofwhales0709` | 100x Moonlight Crystals | Activo |
+| `oceanguardians` | 100x Moonlight Crystals | Activo |
+| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | Activo |
+| `makeawish` | 50x Moonlight Crystals | Caducado |
 | `specialgift0103` | 100x Moonlight Crystals | Caducado |
 | `heartopia0108` | 100x Moonlight Crystals | Caducado |
 | `mylittlepony` | 100x Moonlight Crystals | Caducado |
@@ -43,11 +49,17 @@ Los Moonlight Crystals son la moneda premium de gacha. Estos códigos dan el may
 
 | Código | Recompensas | Estado |
 | --- | --- | --- |
-| `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Activo |
 | `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | Activo |
-| `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Activo |
-| `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Activo |
-| `m5r9q2a7k8` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Activo |
+| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Activo |
+| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Activo |
+| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Activo |
+| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Activo |
+| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Activo |
+| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Activo |
+| `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Caducado |
+| `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Caducado |
+| `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Caducado |
+| `m5r9q2a7k8` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Caducado |
 | `letsbuild` | 15x Wishing Stars, 5000 Gold, 10x Fertilizer | Caducado |
 | `letsdressup` | 15x Wishing Stars, 5000 Gold, 10x Growth Boosters | Caducado |
 | `letsparty` | 15x Wishing Stars, 5000 Gold, 3x Repair Kits | Caducado |
@@ -75,8 +87,8 @@ Los Moonlight Crystals son la moneda premium de gacha. Estos códigos dan el may
 
 | Código | Recompensas | Estado |
 | --- | --- | --- |
-| `heartopiaplaytime` | 10x Stones, 6x Rare Timbers, 2x Flawless Fluorites | Activo |
-| `withu2026heartopia` | 3x Repair Kits, 5000 Gold, 2x Mermaid Perfumes | Activo |
+| `heartopiaplaytime` | 10x Stones, 6x Rare Timbers, 2x Flawless Fluorites | Caducado |
+| `withu2026heartopia` | 3x Repair Kits, 5000 Gold, 2x Mermaid Perfumes | Caducado |
 | `b8n2k5l` | 2x Flawless Fluorite, 6x Rare Timber, 10x Stone | Caducado |
 | `true5mthks` | 10x Quality Timber, 2x Chef's Special Salad, 20x Branches | Caducado |
 | `z4p6n8r2` | 10x Quality Timber, 2x Chef's Special Salad, 20x Branches | Caducado |
@@ -91,7 +103,7 @@ Los Moonlight Crystals son la moneda premium de gacha. Estos códigos dan el may
 
 | Código | Recompensas | Estado |
 | --- | --- | --- |
-| `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Activo |
+| `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Caducado |
 | `love214` | 5x Snowfeather Roses, 2x Colorful Sparklers (Pink), 2x Colorful Cold Fireworks (Pink) | Caducado |
 
 
@@ -105,5 +117,5 @@ Los Moonlight Crystals son la moneda premium de gacha. Estos códigos dan el may
 - **Los códigos son de un solo uso por cuenta** — no puedes reutilizar un código en el mismo perfil
 - **Algunos códigos pueden haber caducado** — si un código no funciona, puede haber caducado desde la última actualización de esta página. Comprueba la fecha a continuación.
 
-> **Última actualización:** 7 de mayo de 2026. Los códigos pueden caducar en cualquier momento. Si un código no funciona, por favor [infórmanos](https://discord.gg/heartopia).    
-> **Last checked:** 2026-05-07 — synced from heartopia.live every 6 hours.
+> **Última actualización:** 7 de mayo de 2026. Los códigos pueden caducar en cualquier momento. Si un código no funciona, por favor [infórmanos](https://discord.gg/heartopia).      
+> **Last checked:** 2026-07-13 — synced from heartopia.live every 6 hours.

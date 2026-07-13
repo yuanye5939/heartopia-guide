@@ -28,7 +28,13 @@ Moonlight Crystals are the premium gacha currency. These codes give the most val
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `makeawish` | 50x Moonlight Crystals | Active |
+| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Active |
+| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Active |
+| `180daysjoy` | 100x Moonlight Crystals | Active |
+| `callofwhales0709` | 100x Moonlight Crystals | Active |
+| `oceanguardians` | 100x Moonlight Crystals | Active |
+| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | Active |
+| `makeawish` | 50x Moonlight Crystals | Expired |
 | `SPRINGFEST2026` | 10x Moonlight Crystals, 8888 Gold | Expired |
 | `happy2026` | 10x Moonlight Crystals, 8888 Gold | Expired |
 | `specialgift0103` | 100x Moonlight Crystals | Expired |
@@ -42,11 +48,17 @@ Moonlight Crystals are the premium gacha currency. These codes give the most val
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Active |
-| `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Active |
-| `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Active |
-| `m5r9q2a7k8` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Active |
+| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Active |
+| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Active |
+| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Active |
+| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Active |
+| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Active |
+| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Active |
 | `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | Active |
+| `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Expired |
+| `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expired |
+| `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Expired |
+| `m5r9q2a7k8` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Expired |
 | `tangyuan0303y` | 5x Wishing Stars, 10x Apples, 10x Fertilizer | Expired |
 | `n5q7m9l2a4` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expired |
 | `p7a9k2m6r8` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expired |
@@ -74,8 +86,8 @@ Moonlight Crystals are the premium gacha currency. These codes give the most val
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `heartopiaplaytime` | 10x Stones, 6x Rare Timbers, 2x Flawless Fluorites | Active |
-| `withu2026heartopia` | 3x Repair Kits, 5000 Gold, 2x Mermaid Perfumes | Active |
+| `heartopiaplaytime` | 10x Stones, 6x Rare Timbers, 2x Flawless Fluorites | Expired |
+| `withu2026heartopia` | 3x Repair Kits, 5000 Gold, 2x Mermaid Perfumes | Expired |
 | `38bloom2026` | 2x Mermaid Fish Attractors, 10x Eggs, 10000 Gold | Expired |
 | `true5mthks` | 10x Quality Timber, 2x Chef's Special Salad, 20x Branches | Expired |
 | `b8n2k5l` | 2x Flawless Fluorite, 6x Rare Timber, 10x Stone | Expired |
@@ -90,7 +102,7 @@ Moonlight Crystals are the premium gacha currency. These codes give the most val
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Active |
+| `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Expired |
 | `love214` | 5x Snowfeather Roses, 2x Colorful Sparklers (Pink), 2x Colorful Cold Fireworks (Pink) | Expired |
 
 
@@ -105,4 +117,4 @@ Moonlight Crystals are the premium gacha currency. These codes give the most val
 - **Some codes may be expired** — if a code doesn't work, it may have expired since this page was last updated. Check the date below.
 
 > **Last updated:** May 7, 2026. Codes can expire at any time. If a code doesn't work, please [report it](https://discord.gg/heartopia) in the official Discord.
-> **Last checked: 2026-07-12
+> **Last checked: 2026-07-13

@@ -29,7 +29,13 @@ I Moonlight Crystals sono la valuta premium per il gacha. Questi codici danno il
 
 | Codice | Ricompense | Stato |
 | --- | --- | --- |
-| `makeawish` | 50x Moonlight Crystals | Attivo |
+| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Attivo |
+| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Attivo |
+| `180daysjoy` | 100x Moonlight Crystals | Attivo |
+| `callofwhales0709` | 100x Moonlight Crystals | Attivo |
+| `oceanguardians` | 100x Moonlight Crystals | Attivo |
+| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | Attivo |
+| `makeawish` | 50x Moonlight Crystals | Scaduto |
 | `specialgift0103` | 100x Moonlight Crystals | Scaduto |
 | `heartopia0108` | 100x Moonlight Crystals | Scaduto |
 | `mylittlepony` | 100x Moonlight Crystals | Scaduto |
@@ -43,11 +49,17 @@ I Moonlight Crystals sono la valuta premium per il gacha. Questi codici danno il
 
 | Codice | Ricompense | Stato |
 | --- | --- | --- |
-| `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Attivo |
 | `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | Attivo |
-| `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Attivo |
-| `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Attivo |
-| `m5r9q2a7k8` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Attivo |
+| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Attivo |
+| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Attivo |
+| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Attivo |
+| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Attivo |
+| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Attivo |
+| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Attivo |
+| `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Scaduto |
+| `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Scaduto |
+| `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Scaduto |
+| `m5r9q2a7k8` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Scaduto |
 | `letsbuild` | 15x Wishing Stars, 5000 Gold, 10x Fertilizer | Scaduto |
 | `letsdressup` | 15x Wishing Stars, 5000 Gold, 10x Growth Boosters | Scaduto |
 | `letsparty` | 15x Wishing Stars, 5000 Gold, 3x Repair Kits | Scaduto |
@@ -75,8 +87,8 @@ I Moonlight Crystals sono la valuta premium per il gacha. Questi codici danno il
 
 | Codice | Ricompense | Stato |
 | --- | --- | --- |
-| `heartopiaplaytime` | 10x Stones, 6x Rare Timbers, 2x Flawless Fluorites | Attivo |
-| `withu2026heartopia` | 3x Repair Kits, 5000 Gold, 2x Mermaid Perfumes | Attivo |
+| `heartopiaplaytime` | 10x Stones, 6x Rare Timbers, 2x Flawless Fluorites | Scaduto |
+| `withu2026heartopia` | 3x Repair Kits, 5000 Gold, 2x Mermaid Perfumes | Scaduto |
 | `b8n2k5l` | 2x Flawless Fluorite, 6x Rare Timber, 10x Stone | Scaduto |
 | `true5mthks` | 10x Quality Timber, 2x Chef's Special Salad, 20x Branches | Scaduto |
 | `z4p6n8r2` | 10x Quality Timber, 2x Chef's Special Salad, 20x Branches | Scaduto |
@@ -91,7 +103,7 @@ I Moonlight Crystals sono la valuta premium per il gacha. Questi codici danno il
 
 | Codice | Ricompense | Stato |
 | --- | --- | --- |
-| `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Attivo |
+| `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Scaduto |
 | `love214` | 5x Snowfeather Roses, 2x Colorful Sparklers (Pink), 2x Colorful Cold Fireworks (Pink) | Scaduto |
 
 
@@ -105,5 +117,5 @@ I Moonlight Crystals sono la valuta premium per il gacha. Questi codici danno il
 - **I codici sono monouso per account** — non puoi riutilizzare un codice sullo stesso profilo
 - **Alcuni codici potrebbero essere scaduti** — se un codice non funziona, potrebbe essere scaduto dall'ultimo aggiornamento di questa pagina. Controlla la data qui sotto.
 
-> **Ultimo aggiornamento:** 7 maggio 2026. I codici possono scadere in qualsiasi momento. Se un codice non funziona, per favore [segnalalo](https://discord.gg/heartopia).    
-> **Last checked:** 2026-05-07 — synced from heartopia.live every 6 hours.
+> **Ultimo aggiornamento:** 7 maggio 2026. I codici possono scadere in qualsiasi momento. Se un codice non funziona, per favore [segnalalo](https://discord.gg/heartopia).      
+> **Last checked:** 2026-07-13 — synced from heartopia.live every 6 hours.
