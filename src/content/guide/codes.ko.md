@@ -29,18 +29,20 @@ Moonlight Crystals는 프리미엄 가챠 화폐입니다. 이 코드들이 가�
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | 활성 |
-| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | 활성 |
-| `180daysjoy` | 100x Moonlight Crystals | 활성 |
-| `callofwhales0709` | 100x Moonlight Crystals | 활성 |
-| `oceanguardians` | 100x Moonlight Crystals | 활성 |
-| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | 활성 |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | 활성 |
+| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | 만료됨 |
+| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | 만료됨 |
+| `180daysjoy` | 100x Moonlight Crystals | 만료됨 |
+| `callofwhales0709` | 100x Moonlight Crystals | 만료됨 |
+| `oceanguardians` | 100x Moonlight Crystals | 만료됨 |
+| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | 만료됨 |
 | `makeawish` | 50x Moonlight Crystals | 만료됨 |
 | `specialgift0103` | 100x Moonlight Crystals | 만료됨 |
 | `heartopia0108` | 100x Moonlight Crystals | 만료됨 |
 | `mylittlepony` | 100x Moonlight Crystals | 만료됨 |
 | `happy2026` | 10x Moonlight Crystals, 8888 Gold | 만료됨 |
 | `SPRINGFEST2026` | 10x Moonlight Crystals, 8888 Gold | 만료됨 |
+| `together180` | 40x Moonlight Crystals, 20,000x Gold, 20x Wishing Stars, 1x Mermaid Perfume, 1x Mermaid Fish Attractor, 5x Repair Kits, 3x Quality Fertilizer, 2x Flawless Fluorite, 3x Rare Timber | 만료됨 |
 
 
 ---
@@ -49,13 +51,16 @@ Moonlight Crystals는 프리미엄 가챠 화폐입니다. 이 코드들이 가�
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | 활성 |
-| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 활성 |
-| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 활성 |
-| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 활성 |
-| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 활성 |
-| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 활성 |
-| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 활성 |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 활성 |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 활성 |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 활성 |
+| `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 만료됨 |
+| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 만료됨 |
+| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 만료됨 |
+| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 만료됨 |
+| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 만료됨 |
+| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 만료됨 |
+| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 만료됨 |
 | `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | 만료됨 |
 | `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | 만료됨 |
 | `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | 만료됨 |
@@ -79,6 +84,17 @@ Moonlight Crystals는 프리미엄 가챠 화폐입니다. 이 코드들이 가�
 | `r4a8x2n` | 5x Wishing Stars, 10x Growth Boosters, 10x Oranges | 만료됨 |
 | `x2l8k6p` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | 만료됨 |
 | `a7k9m2q8l` | 5x Wishing Stars, 3x Repair Kits, 10x Blueberries | 만료됨 |
+| `p3m7r5q9k2` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | 만료됨 |
+| `a6n2p8k7m3` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | 만료됨 |
+| `r4k9q1a5m6` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | 만료됨 |
+| `happyjune2026` | 15x Wishing Stars, 3x Paddy Seeds, 10x Meat, 10x Red Beans | 만료됨 |
+| `r5a8m4q1n6` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 만료됨 |
+| `m2q7r6a9k3` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 만료됨 |
+| `n8q5m2a4r9` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 만료됨 |
+| `mumlove4ever` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | 만료됨 |
+| `a6r3m1q8n7` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 만료됨 |
+| `mayrelax` | 10x Wishing Stars, 5x Timber, 3x Blueberries, 3x Bait | 만료됨 |
+| `k9a2m5q7r4` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 만료됨 |
 
 
 ---
@@ -105,6 +121,9 @@ Moonlight Crystals는 프리미엄 가챠 화폐입니다. 이 코드들이 가�
 | --- | --- | --- |
 | `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | 만료됨 |
 | `love214` | 5x Snowfeather Roses, 2x Colorful Sparklers (Pink), 2x Colorful Cold Fireworks (Pink) | 만료됨 |
+| `2026summerlights` | 5x Colorful Skyrockets (Blue), 5x Colorful Sparklers (Pink) | 만료됨 |
+| `shakeurbody` | Free rewards | 만료됨 |
+| `dadstrong4ever` | Free rewards | 만료됨 |
 
 
 ---
@@ -117,5 +136,5 @@ Moonlight Crystals는 프리미엄 가챠 화폐입니다. 이 코드들이 가�
 - **코드는 계정당 1회만 사용 가능** — 같은 프로필에서 동일 코드를 재사용할 수 없습니다
 - **일부 코드는 만료되었을 수 있습니다** — 코드가 작동하지 않으면 이 페이지가 마지막으로 업데이트된 이후에 만료된 것일 수 있습니다. 아래 날짜를 확인하세요.
 
-> **마지막 업데이트:** 2026년 5월 7일. 코드는 언제든지 만료될 수 있습니다. 코드가 작동하지 않으면 공식 Discord에서 [제보해 주세요](https://discord.gg/heartopia).      
-> **Last checked:** 2026-07-13 — synced from heartopia.live every 6 hours.
+> **마지막 업데이트:** 2026년 5월 7일. 코드는 언제든지 만료될 수 있습니다. 코드가 작동하지 않으면 공식 Discord에서 [제보해 주세요](https://discord.gg/heartopia).        
+> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.

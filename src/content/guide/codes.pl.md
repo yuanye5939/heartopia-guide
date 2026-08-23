@@ -29,18 +29,20 @@ Moonlight Crystals to waluta premium do gacha. Te kody dają największą warto�
 
 | Kod | Nagrody | Status |
 | --- | --- | --- |
-| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Aktywny |
-| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Aktywny |
-| `180daysjoy` | 100x Moonlight Crystals | Aktywny |
-| `callofwhales0709` | 100x Moonlight Crystals | Aktywny |
-| `oceanguardians` | 100x Moonlight Crystals | Aktywny |
-| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | Aktywny |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Aktywny |
+| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Wygasły |
+| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Wygasły |
+| `180daysjoy` | 100x Moonlight Crystals | Wygasły |
+| `callofwhales0709` | 100x Moonlight Crystals | Wygasły |
+| `oceanguardians` | 100x Moonlight Crystals | Wygasły |
+| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | Wygasły |
 | `makeawish` | 50x Moonlight Crystals | Wygasły |
 | `specialgift0103` | 100x Moonlight Crystals | Wygasły |
 | `heartopia0108` | 100x Moonlight Crystals | Wygasły |
 | `mylittlepony` | 100x Moonlight Crystals | Wygasły |
 | `happy2026` | 10x Moonlight Crystals, 8888 Gold | Wygasły |
 | `SPRINGFEST2026` | 10x Moonlight Crystals, 8888 Gold | Wygasły |
+| `together180` | 40x Moonlight Crystals, 20,000x Gold, 20x Wishing Stars, 1x Mermaid Perfume, 1x Mermaid Fish Attractor, 5x Repair Kits, 3x Quality Fertilizer, 2x Flawless Fluorite, 3x Rare Timber | Wygasły |
 
 
 ---
@@ -49,13 +51,16 @@ Moonlight Crystals to waluta premium do gacha. Te kody dają największą warto�
 
 | Kod | Nagrody | Status |
 | --- | --- | --- |
-| `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | Aktywny |
-| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktywny |
-| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktywny |
-| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktywny |
-| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktywny |
-| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktywny |
-| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktywny |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktywny |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktywny |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktywny |
+| `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Wygasły |
+| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Wygasły |
+| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Wygasły |
+| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Wygasły |
+| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Wygasły |
+| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Wygasły |
+| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Wygasły |
 | `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Wygasły |
 | `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Wygasły |
 | `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Wygasły |
@@ -79,6 +84,17 @@ Moonlight Crystals to waluta premium do gacha. Te kody dają największą warto�
 | `r4a8x2n` | 5x Wishing Stars, 10x Growth Boosters, 10x Oranges | Wygasły |
 | `x2l8k6p` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | Wygasły |
 | `a7k9m2q8l` | 5x Wishing Stars, 3x Repair Kits, 10x Blueberries | Wygasły |
+| `p3m7r5q9k2` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | Wygasły |
+| `a6n2p8k7m3` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | Wygasły |
+| `r4k9q1a5m6` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | Wygasły |
+| `happyjune2026` | 15x Wishing Stars, 3x Paddy Seeds, 10x Meat, 10x Red Beans | Wygasły |
+| `r5a8m4q1n6` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Wygasły |
+| `m2q7r6a9k3` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Wygasły |
+| `n8q5m2a4r9` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Wygasły |
+| `mumlove4ever` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | Wygasły |
+| `a6r3m1q8n7` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Wygasły |
+| `mayrelax` | 10x Wishing Stars, 5x Timber, 3x Blueberries, 3x Bait | Wygasły |
+| `k9a2m5q7r4` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Wygasły |
 
 
 ---
@@ -105,6 +121,9 @@ Moonlight Crystals to waluta premium do gacha. Te kody dają największą warto�
 | --- | --- | --- |
 | `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Wygasły |
 | `love214` | 5x Snowfeather Roses, 2x Colorful Sparklers (Pink), 2x Colorful Cold Fireworks (Pink) | Wygasły |
+| `2026summerlights` | 5x Colorful Skyrockets (Blue), 5x Colorful Sparklers (Pink) | Wygasły |
+| `shakeurbody` | Free rewards | Wygasły |
+| `dadstrong4ever` | Free rewards | Wygasły |
 
 
 ---
@@ -117,5 +136,5 @@ Moonlight Crystals to waluta premium do gacha. Te kody dają największą warto�
 - **Kody są jednorazowe na konto** — nie możesz ponownie użyć kodu na tym samym profilu
 - **Niektóre kody mogły wygasnąć** — jeśli kod nie działa, mógł wygasnąć od czasu ostatniej aktualizacji tej strony. Sprawdź datę poniżej.
 
-> **Ostatnia aktualizacja:** 7 maja 2026. Kody mogą wygasnąć w każdej chwili. Jeśli kod nie działa, [zgłoś to](https://discord.gg/heartopia).      
-> **Last checked:** 2026-07-13 — synced from heartopia.live every 6 hours.
+> **Ostatnia aktualizacja:** 7 maja 2026. Kody mogą wygasnąć w każdej chwili. Jeśli kod nie działa, [zgłoś to](https://discord.gg/heartopia).        
+> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.

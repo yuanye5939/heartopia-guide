@@ -29,18 +29,20 @@ Moonlight Crystals adalah mata uang gacha premium. Kode-kode ini memberikan nila
 
 | Kode | Hadiah | Status |
 | --- | --- | --- |
-| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Aktif |
-| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Aktif |
-| `180daysjoy` | 100x Moonlight Crystals | Aktif |
-| `callofwhales0709` | 100x Moonlight Crystals | Aktif |
-| `oceanguardians` | 100x Moonlight Crystals | Aktif |
-| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | Aktif |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Aktif |
+| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Kedaluwarsa |
+| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Kedaluwarsa |
+| `180daysjoy` | 100x Moonlight Crystals | Kedaluwarsa |
+| `callofwhales0709` | 100x Moonlight Crystals | Kedaluwarsa |
+| `oceanguardians` | 100x Moonlight Crystals | Kedaluwarsa |
+| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | Kedaluwarsa |
 | `makeawish` | 50x Moonlight Crystals | Kedaluwarsa |
 | `specialgift0103` | 100x Moonlight Crystals | Kedaluwarsa |
 | `heartopia0108` | 100x Moonlight Crystals | Kedaluwarsa |
 | `mylittlepony` | 100x Moonlight Crystals | Kedaluwarsa |
 | `happy2026` | 10x Moonlight Crystals, 8888 Gold | Kedaluwarsa |
 | `SPRINGFEST2026` | 10x Moonlight Crystals, 8888 Gold | Kedaluwarsa |
+| `together180` | 40x Moonlight Crystals, 20,000x Gold, 20x Wishing Stars, 1x Mermaid Perfume, 1x Mermaid Fish Attractor, 5x Repair Kits, 3x Quality Fertilizer, 2x Flawless Fluorite, 3x Rare Timber | Kedaluwarsa |
 
 
 ---
@@ -49,13 +51,16 @@ Moonlight Crystals adalah mata uang gacha premium. Kode-kode ini memberikan nila
 
 | Kode | Hadiah | Status |
 | --- | --- | --- |
-| `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | Aktif |
-| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktif |
-| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktif |
-| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktif |
-| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktif |
-| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktif |
-| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Aktif |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktif |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktif |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktif |
+| `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Kedaluwarsa |
+| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Kedaluwarsa |
+| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Kedaluwarsa |
+| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Kedaluwarsa |
+| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Kedaluwarsa |
+| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Kedaluwarsa |
+| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Kedaluwarsa |
 | `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Kedaluwarsa |
 | `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Kedaluwarsa |
 | `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Kedaluwarsa |
@@ -79,6 +84,17 @@ Moonlight Crystals adalah mata uang gacha premium. Kode-kode ini memberikan nila
 | `r4a8x2n` | 5x Wishing Stars, 10x Growth Boosters, 10x Oranges | Kedaluwarsa |
 | `x2l8k6p` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | Kedaluwarsa |
 | `a7k9m2q8l` | 5x Wishing Stars, 3x Repair Kits, 10x Blueberries | Kedaluwarsa |
+| `p3m7r5q9k2` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | Kedaluwarsa |
+| `a6n2p8k7m3` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | Kedaluwarsa |
+| `r4k9q1a5m6` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | Kedaluwarsa |
+| `happyjune2026` | 15x Wishing Stars, 3x Paddy Seeds, 10x Meat, 10x Red Beans | Kedaluwarsa |
+| `r5a8m4q1n6` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Kedaluwarsa |
+| `m2q7r6a9k3` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Kedaluwarsa |
+| `n8q5m2a4r9` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Kedaluwarsa |
+| `mumlove4ever` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | Kedaluwarsa |
+| `a6r3m1q8n7` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Kedaluwarsa |
+| `mayrelax` | 10x Wishing Stars, 5x Timber, 3x Blueberries, 3x Bait | Kedaluwarsa |
+| `k9a2m5q7r4` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Kedaluwarsa |
 
 
 ---
@@ -105,6 +121,9 @@ Moonlight Crystals adalah mata uang gacha premium. Kode-kode ini memberikan nila
 | --- | --- | --- |
 | `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Kedaluwarsa |
 | `love214` | 5x Snowfeather Roses, 2x Colorful Sparklers (Pink), 2x Colorful Cold Fireworks (Pink) | Kedaluwarsa |
+| `2026summerlights` | 5x Colorful Skyrockets (Blue), 5x Colorful Sparklers (Pink) | Kedaluwarsa |
+| `shakeurbody` | Free rewards | Kedaluwarsa |
+| `dadstrong4ever` | Free rewards | Kedaluwarsa |
 
 
 ---
@@ -117,5 +136,5 @@ Moonlight Crystals adalah mata uang gacha premium. Kode-kode ini memberikan nila
 - **Kode hanya sekali pakai per akun** — Anda tidak dapat menggunakan kembali kode di profil yang sama
 - **Beberapa kode mungkin sudah kedaluwarsa** — jika kode tidak berfungsi, mungkin sudah kedaluwarsa sejak halaman ini terakhir diperbarui. Periksa tanggal di bawah.
 
-> **Terakhir diperbarui:** 7 Mei 2026. Kode dapat kedaluwarsa kapan saja. Jika kode tidak berfungsi, silakan [laporkan](https://discord.gg/heartopia).      
-> **Last checked:** 2026-07-13 — synced from heartopia.live every 6 hours.
+> **Terakhir diperbarui:** 7 Mei 2026. Kode dapat kedaluwarsa kapan saja. Jika kode tidak berfungsi, silakan [laporkan](https://discord.gg/heartopia).        
+> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.

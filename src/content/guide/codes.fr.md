@@ -29,18 +29,20 @@ Les Moonlight Crystals sont la devise premium de gacha. Ces codes offrent le plu
 
 | Code | Récompenses | Statut |
 | --- | --- | --- |
-| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Actif |
-| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Actif |
-| `180daysjoy` | 100x Moonlight Crystals | Actif |
-| `callofwhales0709` | 100x Moonlight Crystals | Actif |
-| `oceanguardians` | 100x Moonlight Crystals | Actif |
-| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | Actif |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Actif |
+| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Expiré |
+| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Expiré |
+| `180daysjoy` | 100x Moonlight Crystals | Expiré |
+| `callofwhales0709` | 100x Moonlight Crystals | Expiré |
+| `oceanguardians` | 100x Moonlight Crystals | Expiré |
+| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | Expiré |
 | `makeawish` | 50x Moonlight Crystals | Expiré |
 | `specialgift0103` | 100x Moonlight Crystals | Expiré |
 | `heartopia0108` | 100x Moonlight Crystals | Expiré |
 | `mylittlepony` | 100x Moonlight Crystals | Expiré |
 | `happy2026` | 10x Moonlight Crystals, 8888 Gold | Expiré |
 | `SPRINGFEST2026` | 10x Moonlight Crystals, 8888 Gold | Expiré |
+| `together180` | 40x Moonlight Crystals, 20,000x Gold, 20x Wishing Stars, 1x Mermaid Perfume, 1x Mermaid Fish Attractor, 5x Repair Kits, 3x Quality Fertilizer, 2x Flawless Fluorite, 3x Rare Timber | Expiré |
 
 
 ---
@@ -49,13 +51,16 @@ Les Moonlight Crystals sont la devise premium de gacha. Ces codes offrent le plu
 
 | Code | Récompenses | Statut |
 | --- | --- | --- |
-| `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | Actif |
-| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Actif |
-| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Actif |
-| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Actif |
-| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Actif |
-| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Actif |
-| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Actif |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Actif |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Actif |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Actif |
+| `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Expiré |
+| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Expiré |
+| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Expiré |
+| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Expiré |
+| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Expiré |
+| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Expiré |
+| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Expiré |
 | `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | Expiré |
 | `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | Expiré |
 | `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | Expiré |
@@ -79,6 +84,17 @@ Les Moonlight Crystals sont la devise premium de gacha. Ces codes offrent le plu
 | `r4a8x2n` | 5x Wishing Stars, 10x Growth Boosters, 10x Oranges | Expiré |
 | `x2l8k6p` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | Expiré |
 | `a7k9m2q8l` | 5x Wishing Stars, 3x Repair Kits, 10x Blueberries | Expiré |
+| `p3m7r5q9k2` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | Expiré |
+| `a6n2p8k7m3` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | Expiré |
+| `r4k9q1a5m6` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | Expiré |
+| `happyjune2026` | 15x Wishing Stars, 3x Paddy Seeds, 10x Meat, 10x Red Beans | Expiré |
+| `r5a8m4q1n6` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Expiré |
+| `m2q7r6a9k3` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Expiré |
+| `n8q5m2a4r9` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Expiré |
+| `mumlove4ever` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | Expiré |
+| `a6r3m1q8n7` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Expiré |
+| `mayrelax` | 10x Wishing Stars, 5x Timber, 3x Blueberries, 3x Bait | Expiré |
+| `k9a2m5q7r4` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Expiré |
 
 
 ---
@@ -105,6 +121,9 @@ Les Moonlight Crystals sont la devise premium de gacha. Ces codes offrent le plu
 | --- | --- | --- |
 | `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | Expiré |
 | `love214` | 5x Snowfeather Roses, 2x Colorful Sparklers (Pink), 2x Colorful Cold Fireworks (Pink) | Expiré |
+| `2026summerlights` | 5x Colorful Skyrockets (Blue), 5x Colorful Sparklers (Pink) | Expiré |
+| `shakeurbody` | Free rewards | Expiré |
+| `dadstrong4ever` | Free rewards | Expiré |
 
 
 ---
@@ -117,5 +136,5 @@ Les Moonlight Crystals sont la devise premium de gacha. Ces codes offrent le plu
 - **Les codes sont à usage unique par compte** — vous ne pouvez pas réutiliser un code sur le même profil
 - **Certains codes peuvent être expirés** — si un code ne fonctionne pas, il a peut-être expiré depuis la dernière mise à jour de cette page. Vérifiez la date ci-dessous.
 
-> **Dernière mise à jour :** 7 mai 2026. Les codes peuvent expirer à tout moment. Si un code ne fonctionne pas, veuillez le [signaler](https://discord.gg/heartopia).      
-> **Last checked:** 2026-07-13 — synced from heartopia.live every 6 hours.
+> **Dernière mise à jour :** 7 mai 2026. Les codes peuvent expirer à tout moment. Si un code ne fonctionne pas, veuillez le [signaler](https://discord.gg/heartopia).        
+> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.

@@ -29,18 +29,20 @@ Moonlight Crystalsはプレミアムガチャ通貨です。これらのコー�
 
 | コード | 報酬 | ステータス |
 | --- | --- | --- |
-| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | 有効 |
-| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | 有効 |
-| `180daysjoy` | 100x Moonlight Crystals | 有効 |
-| `callofwhales0709` | 100x Moonlight Crystals | 有効 |
-| `oceanguardians` | 100x Moonlight Crystals | 有効 |
-| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | 有効 |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | 有効 |
+| `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | 期限切れ |
+| `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | 期限切れ |
+| `180daysjoy` | 100x Moonlight Crystals | 期限切れ |
+| `callofwhales0709` | 100x Moonlight Crystals | 期限切れ |
+| `oceanguardians` | 100x Moonlight Crystals | 期限切れ |
+| `Junegift` | 50x Moonlight Crystals, 5x Cute Panda Bubble Blower, 5x Cute Adnap Bubble Blower | 期限切れ |
 | `makeawish` | 50x Moonlight Crystals | 期限切れ |
 | `specialgift0103` | 100x Moonlight Crystals | 期限切れ |
 | `heartopia0108` | 100x Moonlight Crystals | 期限切れ |
 | `mylittlepony` | 100x Moonlight Crystals | 期限切れ |
 | `happy2026` | 10x Moonlight Crystals, 8888 Gold | 期限切れ |
 | `SPRINGFEST2026` | 10x Moonlight Crystals, 8888 Gold | 期限切れ |
+| `together180` | 40x Moonlight Crystals, 20,000x Gold, 20x Wishing Stars, 1x Mermaid Perfume, 1x Mermaid Fish Attractor, 5x Repair Kits, 3x Quality Fertilizer, 2x Flawless Fluorite, 3x Rare Timber | 期限切れ |
 
 
 ---
@@ -49,13 +51,16 @@ Moonlight Crystalsはプレミアムガチャ通貨です。これらのコー�
 
 | コード | 報酬 | ステータス |
 | --- | --- | --- |
-| `q4m8n6a3r1` | 5 Repair Kits + 3 Wishing Stars + 10 Growth Boosters | 有効 |
-| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 有効 |
-| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 有効 |
-| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 有効 |
-| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 有効 |
-| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 有効 |
-| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 有効 |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 有効 |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 有効 |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 有効 |
+| `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 期限切れ |
+| `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 期限切れ |
+| `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 期限切れ |
+| `q7a3p5r2k6` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 期限切れ |
+| `a5r8k2m7q4` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 期限切れ |
+| `p9m4r1a6k7` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 期限切れ |
+| `n3k7q5a8m2` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 期限切れ |
 | `keepsmiling2026` | 5x Wishing Stars, 3x Mermaid Fish Attractors, 10x Fertilizer | 期限切れ |
 | `r7a5k2m8q9` | 5x Repair Kits, 10x Growth Boosters, 3x Wishing Stars | 期限切れ |
 | `p6n4m9q3a2` | 5x Repair Kits, 3x Wishing Stars, 10x Growth Boosters | 期限切れ |
@@ -79,6 +84,17 @@ Moonlight Crystalsはプレミアムガチャ通貨です。これらのコー�
 | `r4a8x2n` | 5x Wishing Stars, 10x Growth Boosters, 10x Oranges | 期限切れ |
 | `x2l8k6p` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | 期限切れ |
 | `a7k9m2q8l` | 5x Wishing Stars, 3x Repair Kits, 10x Blueberries | 期限切れ |
+| `p3m7r5q9k2` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | 期限切れ |
+| `a6n2p8k7m3` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | 期限切れ |
+| `r4k9q1a5m6` | 3x Wishing Stars, 3x Coffee Beans, 1x Roaming Oak Timber | 期限切れ |
+| `happyjune2026` | 15x Wishing Stars, 3x Paddy Seeds, 10x Meat, 10x Red Beans | 期限切れ |
+| `r5a8m4q1n6` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 期限切れ |
+| `m2q7r6a9k3` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 期限切れ |
+| `n8q5m2a4r9` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 期限切れ |
+| `mumlove4ever` | 5x Wishing Stars, 10x Fertilizer, 10x Apples | 期限切れ |
+| `a6r3m1q8n7` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 期限切れ |
+| `mayrelax` | 10x Wishing Stars, 5x Timber, 3x Blueberries, 3x Bait | 期限切れ |
+| `k9a2m5q7r4` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 期限切れ |
 
 
 ---
@@ -105,6 +121,9 @@ Moonlight Crystalsはプレミアムガチャ通貨です。これらのコー�
 | --- | --- | --- |
 | `sweetgift314u` | 5x Snowfeather Roses, 2x Sparklers, 1x Firework | 期限切れ |
 | `love214` | 5x Snowfeather Roses, 2x Colorful Sparklers (Pink), 2x Colorful Cold Fireworks (Pink) | 期限切れ |
+| `2026summerlights` | 5x Colorful Skyrockets (Blue), 5x Colorful Sparklers (Pink) | 期限切れ |
+| `shakeurbody` | Free rewards | 期限切れ |
+| `dadstrong4ever` | Free rewards | 期限切れ |
 
 
 ---
@@ -117,5 +136,5 @@ Moonlight Crystalsはプレミアムガチャ通貨です。これらのコー�
 - **コードは1アカウントにつき1回限り** — 同じプロフィールでコードを再利用することはできません
 - **一部のコードは期限切れの可能性があります** — コードが機能しない場合、このページの最終更新以降に期限切れになった可能性があります。以下の日付を確認してください。
 
-> **最終更新日：** 2026年5月7日。コードはいつでも期限切れになる可能性があります。コードが機能しない場合は、公式Discordで[報告してください](https://discord.gg/heartopia).      
-> **Last checked:** 2026-07-13 — synced from heartopia.live every 6 hours.
+> **最終更新日：** 2026年5月7日。コードはいつでも期限切れになる可能性があります。コードが機能しない場合は、公式Discordで[報告してください](https://discord.gg/heartopia).        
+> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.
