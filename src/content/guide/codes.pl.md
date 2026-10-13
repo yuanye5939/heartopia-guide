@@ -29,7 +29,7 @@ Moonlight Crystals to waluta premium do gacha. Te kody dają największą warto�
 
 | Kod | Nagrody | Status |
 | --- | --- | --- |
-| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Aktywny |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Wygasły |
 | `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Wygasły |
 | `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Wygasły |
 | `180daysjoy` | 100x Moonlight Crystals | Wygasły |
@@ -51,9 +51,9 @@ Moonlight Crystals to waluta premium do gacha. Te kody dają największą warto�
 
 | Kod | Nagrody | Status |
 | --- | --- | --- |
-| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktywny |
-| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktywny |
-| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktywny |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Wygasły |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Wygasły |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Wygasły |
 | `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Wygasły |
 | `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Wygasły |
 | `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Wygasły |
@@ -136,5 +136,5 @@ Moonlight Crystals to waluta premium do gacha. Te kody dają największą warto�
 - **Kody są jednorazowe na konto** — nie możesz ponownie użyć kodu na tym samym profilu
 - **Niektóre kody mogły wygasnąć** — jeśli kod nie działa, mógł wygasnąć od czasu ostatniej aktualizacji tej strony. Sprawdź datę poniżej.
 
-> **Ostatnia aktualizacja:** 7 maja 2026. Kody mogą wygasnąć w każdej chwili. Jeśli kod nie działa, [zgłoś to](https://discord.gg/heartopia).        
-> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.
+> **Ostatnia aktualizacja:** 7 maja 2026. Kody mogą wygasnąć w każdej chwili. Jeśli kod nie działa, [zgłoś to](https://discord.gg/heartopia).          
+> **Last checked:** 2026-10-13 — synced from heartopia.live every 6 hours.

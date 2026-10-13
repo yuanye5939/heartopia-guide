@@ -29,7 +29,7 @@ Moonlight Crystals sind die Premium-Gacha-Währung. Diese Codes bieten den meist
 
 | Code | Belohnungen | Status |
 | --- | --- | --- |
-| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Aktiv |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Abgelaufen |
 | `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Abgelaufen |
 | `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Abgelaufen |
 | `180daysjoy` | 100x Moonlight Crystals | Abgelaufen |
@@ -51,9 +51,9 @@ Moonlight Crystals sind die Premium-Gacha-Währung. Diese Codes bieten den meist
 
 | Code | Belohnungen | Status |
 | --- | --- | --- |
-| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktiv |
-| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktiv |
-| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktiv |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Abgelaufen |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Abgelaufen |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Abgelaufen |
 | `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Abgelaufen |
 | `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Abgelaufen |
 | `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Abgelaufen |
@@ -136,5 +136,5 @@ Moonlight Crystals sind die Premium-Gacha-Währung. Diese Codes bieten den meist
 - **Codes sind einmalig pro Konto** — du kannst einen Code nicht auf demselben Profil wiederverwenden
 - **Einige Codes könnten abgelaufen sein** — wenn ein Code nicht funktioniert, ist er möglicherweise abgelaufen, seit diese Seite zuletzt aktualisiert wurde. Überprüfe das Datum unten.
 
-> **Zuletzt aktualisiert:** 7. Mai 2026. Codes können jederzeit ablaufen. Wenn ein Code nicht funktioniert, bitte [melde es](https://discord.gg/heartopia).        
-> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.
+> **Zuletzt aktualisiert:** 7. Mai 2026. Codes können jederzeit ablaufen. Wenn ein Code nicht funktioniert, bitte [melde es](https://discord.gg/heartopia).          
+> **Last checked:** 2026-10-13 — synced from heartopia.live every 6 hours.

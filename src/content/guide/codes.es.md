@@ -29,7 +29,7 @@ Los Moonlight Crystals son la moneda premium de gacha. Estos códigos dan el may
 
 | Código | Recompensas | Estado |
 | --- | --- | --- |
-| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Activo |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Caducado |
 | `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Caducado |
 | `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Caducado |
 | `180daysjoy` | 100x Moonlight Crystals | Caducado |
@@ -51,9 +51,9 @@ Los Moonlight Crystals son la moneda premium de gacha. Estos códigos dan el may
 
 | Código | Recompensas | Estado |
 | --- | --- | --- |
-| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Activo |
-| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Activo |
-| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Activo |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Caducado |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Caducado |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Caducado |
 | `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Caducado |
 | `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Caducado |
 | `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Caducado |
@@ -136,5 +136,5 @@ Los Moonlight Crystals son la moneda premium de gacha. Estos códigos dan el may
 - **Los códigos son de un solo uso por cuenta** — no puedes reutilizar un código en el mismo perfil
 - **Algunos códigos pueden haber caducado** — si un código no funciona, puede haber caducado desde la última actualización de esta página. Comprueba la fecha a continuación.
 
-> **Última actualización:** 7 de mayo de 2026. Los códigos pueden caducar en cualquier momento. Si un código no funciona, por favor [infórmanos](https://discord.gg/heartopia).        
-> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.
+> **Última actualización:** 7 de mayo de 2026. Los códigos pueden caducar en cualquier momento. Si un código no funciona, por favor [infórmanos](https://discord.gg/heartopia).          
+> **Last checked:** 2026-10-13 — synced from heartopia.live every 6 hours.

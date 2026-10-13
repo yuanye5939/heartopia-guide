@@ -29,7 +29,7 @@ Moonlight Crystals adalah mata uang gacha premium. Kode-kode ini memberikan nila
 
 | Kode | Hadiah | Status |
 | --- | --- | --- |
-| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Aktif |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | Kedaluwarsa |
 | `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | Kedaluwarsa |
 | `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | Kedaluwarsa |
 | `180daysjoy` | 100x Moonlight Crystals | Kedaluwarsa |
@@ -51,9 +51,9 @@ Moonlight Crystals adalah mata uang gacha premium. Kode-kode ini memberikan nila
 
 | Kode | Hadiah | Status |
 | --- | --- | --- |
-| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktif |
-| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktif |
-| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Aktif |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Kedaluwarsa |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Kedaluwarsa |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | Kedaluwarsa |
 | `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | Kedaluwarsa |
 | `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Kedaluwarsa |
 | `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | Kedaluwarsa |
@@ -136,5 +136,5 @@ Moonlight Crystals adalah mata uang gacha premium. Kode-kode ini memberikan nila
 - **Kode hanya sekali pakai per akun** — Anda tidak dapat menggunakan kembali kode di profil yang sama
 - **Beberapa kode mungkin sudah kedaluwarsa** — jika kode tidak berfungsi, mungkin sudah kedaluwarsa sejak halaman ini terakhir diperbarui. Periksa tanggal di bawah.
 
-> **Terakhir diperbarui:** 7 Mei 2026. Kode dapat kedaluwarsa kapan saja. Jika kode tidak berfungsi, silakan [laporkan](https://discord.gg/heartopia).        
-> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.
+> **Terakhir diperbarui:** 7 Mei 2026. Kode dapat kedaluwarsa kapan saja. Jika kode tidak berfungsi, silakan [laporkan](https://discord.gg/heartopia).          
+> **Last checked:** 2026-10-13 — synced from heartopia.live every 6 hours.

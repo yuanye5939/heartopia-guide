@@ -29,7 +29,7 @@ Moonlight Crystals는 프리미엄 가챠 화폐입니다. 이 코드들이 가�
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | 활성 |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | 만료됨 |
 | `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | 만료됨 |
 | `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | 만료됨 |
 | `180daysjoy` | 100x Moonlight Crystals | 만료됨 |
@@ -51,9 +51,9 @@ Moonlight Crystals는 프리미엄 가챠 화폐입니다. 이 코드들이 가�
 
 | Code | Rewards | Status |
 | --- | --- | --- |
-| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 활성 |
-| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 활성 |
-| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 활성 |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 만료됨 |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 만료됨 |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 만료됨 |
 | `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 만료됨 |
 | `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 만료됨 |
 | `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 만료됨 |
@@ -136,5 +136,5 @@ Moonlight Crystals는 프리미엄 가챠 화폐입니다. 이 코드들이 가�
 - **코드는 계정당 1회만 사용 가능** — 같은 프로필에서 동일 코드를 재사용할 수 없습니다
 - **일부 코드는 만료되었을 수 있습니다** — 코드가 작동하지 않으면 이 페이지가 마지막으로 업데이트된 이후에 만료된 것일 수 있습니다. 아래 날짜를 확인하세요.
 
-> **마지막 업데이트:** 2026년 5월 7일. 코드는 언제든지 만료될 수 있습니다. 코드가 작동하지 않으면 공식 Discord에서 [제보해 주세요](https://discord.gg/heartopia).        
-> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.
+> **마지막 업데이트:** 2026년 5월 7일. 코드는 언제든지 만료될 수 있습니다. 코드가 작동하지 않으면 공식 Discord에서 [제보해 주세요](https://discord.gg/heartopia).          
+> **Last checked:** 2026-10-13 — synced from heartopia.live every 6 hours.

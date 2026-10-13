@@ -29,7 +29,7 @@ Moonlight Crystalsはプレミアムガチャ通貨です。これらのコー�
 
 | コード | 報酬 | ステータス |
 | --- | --- | --- |
-| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | 有効 |
+| `aughatogift` | 50x Moonlight Crystals, 5x Colorful Fountain Fireworks (Pink), 3x Rainbow Breeding Powder | 期限切れ |
 | `halfyear180` | 30x Moonlight Crystals, 10x Wishing Stars, and other resources | 期限切れ |
 | `Cherish180` | 40x Moonlight Crystals, 20x Wishing Stars, and other resources | 期限切れ |
 | `180daysjoy` | 100x Moonlight Crystals | 期限切れ |
@@ -51,9 +51,9 @@ Moonlight Crystalsはプレミアムガチャ通貨です。これらのコー�
 
 | コード | 報酬 | ステータス |
 | --- | --- | --- |
-| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 有効 |
-| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 有効 |
-| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 有効 |
+| `a7m4q9r3k6n2` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 期限切れ |
+| `p2k8n5r7q1a6` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 期限切れ |
+| `m9a3q7k2r5n4` | 3x Wishing Stars, 2x Dyes, 1x Flawless Fluorite | 期限切れ |
 | `q4m8n6a3r1` | 3x Wishing Stars, 5x Repair Kits, 10x Growth Boosters | 期限切れ |
 | `m8p2a7n4r9` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 期限切れ |
 | `k1n6q9m3p8` | 3x Wishing Stars, 1x Roaming Oak Timber, 3x Coffee Beans | 期限切れ |
@@ -136,5 +136,5 @@ Moonlight Crystalsはプレミアムガチャ通貨です。これらのコー�
 - **コードは1アカウントにつき1回限り** — 同じプロフィールでコードを再利用することはできません
 - **一部のコードは期限切れの可能性があります** — コードが機能しない場合、このページの最終更新以降に期限切れになった可能性があります。以下の日付を確認してください。
 
-> **最終更新日：** 2026年5月7日。コードはいつでも期限切れになる可能性があります。コードが機能しない場合は、公式Discordで[報告してください](https://discord.gg/heartopia).        
-> **Last checked:** 2026-08-23 — synced from heartopia.live every 6 hours.
+> **最終更新日：** 2026年5月7日。コードはいつでも期限切れになる可能性があります。コードが機能しない場合は、公式Discordで[報告してください](https://discord.gg/heartopia).          
+> **Last checked:** 2026-10-13 — synced from heartopia.live every 6 hours.
